@@ -1,22 +1,22 @@
-# Available .MOBILE One-Word Domains (4,311)
+# Available .MOBILE One-Word Domains (9,772)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C311%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C311%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C772%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .mobile one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .mobile one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,772 domains** on the canonical page below.
 
-**Public extract:** 4,311 rows · **Live catalog:** 4,311 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,772 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/mobile`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MOBILE one-word domai
 
 ### Files
 
-- `mobile.csv` — public CSV extract (4,311 rows)
-- `mobile.json` — public JSON extract (4,311 rows)
+- `mobile.csv` — public CSV extract (1,000 rows)
+- `mobile.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| converse.mobile  | available | $26.98    | —             | 68             | 73     | 8      | namecheap          |
-| anywhere.mobile  | resell    | $26.98    | —             | 82             | 27     | 8      | NAMECHEAP          |
-| ally.mobile      | premium   | $375      | —             | 68             | 85     | 4      | name.com           |
-| lively.mobile    | available | $26.98    | —             | 70             | 65     | 6      | namecheap          |
-| true.mobile      | resell    | —         | —             | 81             | 52     | 4      | Gandi SAS          |
-| chase.mobile     | premium   | $1,250    | —             | 66             | 85     | 5      | name.com           |
-| bravo.mobile     | available | $26.98    | —             | 66             | 65     | 5      | namecheap          |
-| air.mobile       | resell    | —         | —             | 84             | 51     | 3      | Spaceship, Inc.    |
-| sheraton.mobile  | premium   | $750      | —             | 72             | 84     | 8      | name.com           |
-| april.mobile     | available | $26.98    | —             | 74             | 63     | 5      | namecheap          |
-| velocity.mobile  | resell    | —         | —             | 74             | 37     | 8      | Gandi SAS          |
-| authentic.mobile | premium   | $375      | —             | 80             | 83     | 9      | name.com           |
-| tylenol.mobile   | available | $26.98    | —             | 78             | 59     | 7      | namecheap          |
-| always.mobile    | resell    | —         | —             | 80             | 32     | 6      | DomainPeople, Inc. |
-| grandprix.mobile | premium   | $750      | —             | 76             | 83     | 10     | name.com           |
-| watson.mobile    | available | $26.98    | —             | 75             | 58     | 6      | namecheap          |
-| axle.mobile      | premium   | $375      | —             | 74             | 83     | 4      | name.com           |
-| bloom.mobile     | available | $26.98    | —             | 72             | 53     | 5      | namecheap          |
-| normal.mobile    | premium   | $390      | $390          | 76             | 82     | 6      | namecheap          |
-| based.mobile     | available | $26.98    | —             | 82             | 47     | 5      | namecheap          |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| FrenchRepublic.mobile | available | $26.98    | —             | 58             | 56     | 15     | namecheap |
+| jobs.mobile           | resell    | —         | —             | 79             | 42     | 4      | NAMECHEAP |
+| Mastercard.mobile     | premium   | $1,400    | $1,400        | 90             | 69     | 10     | namecheap |
+| ignite.mobile         | available | $26.98    | —             | 82             | 38     | 6      | namecheap |
+| insight.mobile        | premium   | $750      | —             | 76             | 69     | 8      | name.com  |
+| whatnot.mobile        | available | $26.98    | —             | 58             | 33     | 8      | namecheap |
+| Godzilla.mobile       | premium   | $420      | $420          | 80             | 63     | 8      | namecheap |
+| graph.mobile          | available | $26.98    | —             | 74             | 32     | 5      | namecheap |
+| skills.mobile         | premium   | $375      | —             | 58             | 47     | 6      | name.com  |
+| letsgo.mobile         | available | $26.98    | —             | 57             | 31     | 7      | namecheap |
+| wow.mobile            | premium   | $375      | —             | 80             | 46     | 3      | name.com  |
+| pyramid.mobile        | available | $26.98    | —             | 76             | 30     | 7      | namecheap |
+| marketplace.mobile    | premium   | $375      | —             | 80             | 45     | 11     | name.com  |
+| zest.mobile           | available | $26.98    | —             | 83             | 29     | 4      | namecheap |
+| goto.mobile           | premium   | $375      | —             | 66             | 45     | 5      | name.com  |
+| glue.mobile           | available | $26.98    | —             | 72             | 29     | 4      | namecheap |
+| icon.mobile           | premium   | $375      | —             | 89             | 43     | 4      | name.com  |
+| ages.mobile           | available | $26.98    | —             | 51             | 29     | 4      | namecheap |
+| will.mobile           | premium   | $1,250    | —             | 80             | 43     | 4      | name.com  |
+| stat.mobile           | available | $26.98    | —             | 70             | 28     | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,311-row public sample | 4,311 live domains                               |
+| 1,000-row public sample | 9,772 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
