@@ -64,7 +64,7 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| zest.mobile           | available | $26.98    | —             | 83             | 29     | 4      | namecheap |
+| zest.mobile           | available | $26.98    | —             | 83             | 31     | 4      | namecheap |
 | Cindy.mobile          | available | $26.98    | —             | 80             | 15     | 5      | namecheap |
 | should.mobile         | available | $26.98    | —             | 80             | 10     | 6      | namecheap |
 | carrie.mobile         | available | $26.98    | —             | 82             | 11     | 6      | namecheap |
@@ -81,9 +81,9 @@ print(df.head())
 | whatnot.mobile        | available | $26.98    | —             | 58             | 33     | 8      | namecheap |
 | Godzilla.mobile       | premium   | $420      | $420          | 80             | 63     | 8      | namecheap |
 | graph.mobile          | available | $26.98    | —             | 74             | 32     | 5      | namecheap |
+| wow.mobile            | premium   | $375      | —             | 80             | 47     | 3      | name.com  |
 | skills.mobile         | premium   | $375      | —             | 58             | 47     | 6      | name.com  |
-| letsgo.mobile         | available | $26.98    | —             | 57             | 31     | 7      | namecheap |
-| wow.mobile            | premium   | $375      | —             | 80             | 46     | 3      | name.com  |
+| pyramid.mobile        | available | $26.98    | —             | 76             | 31     | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
