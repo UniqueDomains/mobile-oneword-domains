@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mobile one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,267 domains · **Median ask:** $373.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/tld/mobile`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | carrie.mobile         | available | $26.98    | —             | 82             | 11     | 6      | namecheap |
 | geton.mobile          | available | $26.98    | —             | 82             | 10     | 6      | namecheap |
 | ignite.mobile         | available | $26.98    | —             | 82             | 38     | 6      | namecheap |
-| veggie.mobile         | available | $26.98    | —             | 82             | 14     | 6      | namecheap |
+| veggie.mobile         | available | $26.98    | —             | 82             | 13     | 6      | namecheap |
 | flexing.mobile        | available | $26.98    | —             | 80             | 6      | 7      | namecheap |
 | grandad.mobile        | available | $26.98    | —             | 80             | 3      | 7      | namecheap |
 | lighten.mobile        | available | $26.98    | —             | 80             | 9      | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
