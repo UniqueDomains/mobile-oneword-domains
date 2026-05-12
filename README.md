@@ -67,7 +67,7 @@ print(df.head())
 | zest.mobile           | available | $26.98    | —             | 83             | 31     | 4      | namecheap |
 | Cindy.mobile          | available | $26.98    | —             | 80             | 15     | 5      | namecheap |
 | should.mobile         | available | $26.98    | —             | 80             | 9      | 6      | namecheap |
-| carrie.mobile         | available | $26.98    | —             | 82             | 11     | 6      | namecheap |
+| carrie.mobile         | available | $26.98    | —             | 82             | 10     | 6      | namecheap |
 | geton.mobile          | available | $26.98    | —             | 82             | 10     | 6      | namecheap |
 | ignite.mobile         | available | $26.98    | —             | 82             | 38     | 6      | namecheap |
 | veggie.mobile         | available | $26.98    | —             | 82             | 13     | 6      | namecheap |
