@@ -74,7 +74,7 @@ print(df.head())
 | flexing.mobile        | available | $26.98    | —             | 80             | 6      | 7      | namecheap |
 | grandad.mobile        | available | $26.98    | —             | 80             | 3      | 7      | namecheap |
 | lighten.mobile        | available | $26.98    | —             | 80             | 9      | 7      | namecheap |
-| FrenchRepublic.mobile | available | $26.98    | —             | 58             | 56     | 15     | namecheap |
+| FrenchRepublic.mobile | available | $26.98    | —             | 58             | 57     | 15     | namecheap |
 | jobs.mobile           | resell    | —         | —             | 79             | 42     | 4      | NAMECHEAP |
 | Mastercard.mobile     | premium   | $1,400    | $1,400        | 90             | 69     | 10     | namecheap |
 | insight.mobile        | premium   | $750      | —             | 76             | 69     | 8      | name.com  |
