@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mobile one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,267 domains · **Median ask:** $373.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/mobile`  
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | jobs.mobile           | resell    | —         | —             | 79             | 42     | 4      | NAMECHEAP |
 | Mastercard.mobile     | premium   | $1,400    | $1,400        | 90             | 69     | 10     | namecheap |
 | insight.mobile        | premium   | $750      | —             | 76             | 69     | 8      | name.com  |
-| whatnot.mobile        | available | $26.98    | —             | 58             | 33     | 8      | namecheap |
-| Godzilla.mobile       | premium   | $420      | $420          | 80             | 63     | 8      | namecheap |
 | graph.mobile          | available | $26.98    | —             | 74             | 32     | 5      | namecheap |
+| Godzilla.mobile       | premium   | $420      | $420          | 80             | 63     | 8      | namecheap |
 | wow.mobile            | premium   | $375      | —             | 80             | 47     | 3      | name.com  |
-| skills.mobile         | premium   | $375      | —             | 58             | 47     | 6      | name.com  |
 | pyramid.mobile        | available | $26.98    | —             | 76             | 31     | 7      | namecheap |
+| skills.mobile         | premium   | $375      | —             | 58             | 47     | 6      | name.com  |
+| letsgo.mobile         | available | $26.98    | —             | 57             | 31     | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
