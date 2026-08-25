@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mobile one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,109 domains · **Median ask:** $291.61 · **High-demand under $2,500:** 58
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/mobile`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| food.mobile       | premium   | $1,300    | $1,300        | high           | medium | 4      | namecheap |
-| absolutely.mobile | premium   | $750      | —             | high           | low    | 10     | name.com  |
-| must.mobile       | premium   | $390      | $390          | high           | low    | 4      | namecheap |
-| bore.mobile       | available | $26.98    | —             | medium         | low    | 4      | namecheap |
-| ace.mobile        | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
-| cent.mobile       | available | $26.98    | —             | high           | low    | 4      | namecheap |
-| apt.mobile        | premium   | $750      | —             | high           | low    | 3      | name.com  |
-| cyan.mobile       | available | $26.98    | —             | high           | low    | 4      | namecheap |
-| ash.mobile        | premium   | $2,500    | —             | medium         | low    | 3      | name.com  |
-| half.mobile       | available | $26.98    | —             | high           | low    | 4      | namecheap |
-| axe.mobile        | premium   | $750      | —             | medium         | low    | 3      | name.com  |
-| hide.mobile       | available | $26.98    | —             | high           | low    | 4      | namecheap |
-| bad.mobile        | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
-| lane.mobile       | available | $26.98    | —             | medium         | low    | 4      | namecheap |
-| big.mobile        | premium   | $375      | —             | high           | medium | 3      | name.com  |
-| maze.mobile       | available | $26.98    | —             | medium         | low    | 4      | namecheap |
-| bob.mobile        | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
-| pita.mobile       | available | $26.98    | —             | high           | low    | 4      | namecheap |
-| bow.mobile        | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
-| watt.mobile       | available | $26.98    | —             | medium         | low    | 4      | namecheap |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| bore.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
+| ace.mobile   | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
+| cent.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
+| apt.mobile   | premium   | $750      | —             | high           | low    | 3      | name.com  |
+| cyan.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
+| ash.mobile   | premium   | $2,500    | —             | medium         | low    | 3      | name.com  |
+| half.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
+| axe.mobile   | premium   | $750      | —             | medium         | low    | 3      | name.com  |
+| hide.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
+| bad.mobile   | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
+| lane.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
+| big.mobile   | premium   | $375      | —             | high           | medium | 3      | name.com  |
+| maze.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
+| bob.mobile   | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
+| pita.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
+| bow.mobile   | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
+| watt.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
+| boy.mobile   | premium   | $375      | —             | medium         | low    | 3      | name.com  |
+| armed.mobile | available | $26.98    | —             | high           | low    | 5      | namecheap |
+| cap.mobile   | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
