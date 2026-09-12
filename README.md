@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mobile one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,684 domains · **Median ask:** $275.70 · **High-demand under $2,500:** 66
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/mobile`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| food.mobile  | premium   | $1,300    | $1,300        | high           | medium | 4      | namecheap |
 | bore.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
 | ace.mobile   | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
 | cent.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
@@ -83,7 +84,6 @@ print(df.head())
 | watt.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
 | boy.mobile   | premium   | $375      | —             | medium         | low    | 3      | name.com  |
 | armed.mobile | available | $26.98    | —             | high           | low    | 5      | namecheap |
-| cap.mobile   | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
