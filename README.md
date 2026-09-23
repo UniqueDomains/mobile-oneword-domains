@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mobile one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,496 domains · **Median ask:** $247.76 · **High-demand under $2,500:** 54
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/mobile`
 **Best for:** founders, investors, studios
 
@@ -65,24 +65,24 @@ print(df.head())
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | bore.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
-| ace.mobile   | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
+| ace.mobile   | premium   | $2,600    | $2,600        | medium         | low    | 3      | namecheap |
 | cent.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
-| apt.mobile   | premium   | $750      | —             | high           | low    | 3      | name.com  |
-| cyan.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
+| apt.mobile   | premium   | $780      | $780          | low            | low    | 3      | namecheap |
+| cyan.mobile  | available | $22.98    | $26.98        | medium         | low    | 4      | namecheap |
 | ash.mobile   | premium   | $2,500    | —             | medium         | low    | 3      | name.com  |
 | half.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
 | axe.mobile   | premium   | $750      | —             | medium         | low    | 3      | name.com  |
 | hide.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
-| bad.mobile   | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
+| bad.mobile   | premium   | $2,600    | $2,600        | medium         | low    | 3      | namecheap |
 | lane.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
-| big.mobile   | premium   | $375      | —             | high           | medium | 3      | name.com  |
+| big.mobile   | premium   | $390      | $390          | medium         | low    | 3      | namecheap |
 | maze.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
-| bob.mobile   | premium   | $2,500    | —             | high           | medium | 3      | name.com  |
+| bob.mobile   | premium   | $2,600    | $2,600        | medium         | low    | 3      | namecheap |
 | pita.mobile  | available | $26.98    | —             | high           | low    | 4      | namecheap |
-| bow.mobile   | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
+| bow.mobile   | premium   | $1,300    | $1,300        | medium         | low    | 3      | namecheap |
 | watt.mobile  | available | $26.98    | —             | medium         | low    | 4      | namecheap |
 | boy.mobile   | premium   | $375      | —             | medium         | low    | 3      | name.com  |
-| armed.mobile | available | $26.98    | —             | high           | low    | 5      | namecheap |
+| armed.mobile | available | $22.98    | $26.98        | low            | low    | 5      | namecheap |
 | cap.mobile   | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
