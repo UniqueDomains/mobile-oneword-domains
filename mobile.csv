@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-f8909eb0-e9d9-461d-b40c-8156184dc9e8,committee.mobile,premium,750,,high,low,9,name.com,,,
-6d252fe8-a7fa-48fb-886a-b2b11d35459e,tracy.mobile,available,26.98,,high,low,5,namecheap,,,
-25cf800b-9092-4bfa-97a3-fffb1e94fd77,brain.mobile,premium,375,,high,medium,5,name.com,,,
+b37e0f12-4db0-4fd1-aaf7-e2ae6309ef46,billow.mobile,available,22.98,26.98,medium,low,6,namecheap,,,23/09/2026 16:34
+dd3e8049-bb3d-4d97-9b3b-dac9d0b05b1b,malcolm.mobile,available,22.98,26.98,high,low,7,namecheap,,,25/09/2026 14:54
+47381dac-88a3-4d88-971f-02b679be27e0,continuant.mobile,available,22.98,26.98,medium,low,10,namecheap,,,12/08/2026 23:17
+457e08fe-4272-4193-8c02-a2b5e4b1d636,patrick.mobile,premium,390,390,high,low,7,namecheap,,,25/09/2026 09:49
+df22626e-c3e9-46cf-b262-af0bb94bd0d1,rationally.mobile,available,22.98,26.98,medium,low,10,namecheap,,,15/09/2026 22:39
+107e81c6-62d2-4cba-9b0c-bbedd4f39c8e,cad.mobile,premium,390,390,high,low,3,namecheap,,,24/09/2026 02:18
+1f386316-31f6-4519-a423-428cc5ffe91a,profess.mobile,available,26.98,,high,low,7,namecheap,,,
+81d08a66-7e48-49d6-a08e-bba48960d461,affaire.mobile,premium,780,780,medium,low,7,namecheap,,,17/09/2026 14:00
+f079b711-dee1-4c33-a91e-c0524ae0e873,indifferent.mobile,premium,750,,high,low,11,name.com,,,
+35ffb8cf-42d8-4949-a0aa-13c2c65825c2,bollock.mobile,available,22.98,26.98,medium,low,7,namecheap,,,21/09/2026 23:08
+14800412-4c5d-4885-9f84-48e951fd5f12,plaguy.mobile,available,22.98,26.98,medium,low,6,namecheap,,,
+5d8cbbe6-4106-44b0-a9d4-3e183dfb1407,outdoors.mobile,premium,780,780,high,low,8,namecheap,,,21/09/2026 23:54
+c3bf28c6-ba8f-4435-b9d3-4346dc799d9e,firedog.mobile,premium,780,780,medium,low,7,namecheap,,,19/09/2026 04:06
+b740b245-6aef-4ea2-9264-30cea2b0290a,certify.mobile,premium,750,750,high,low,7,name.com,,,24/08/2026 15:04
+a1a6473c-6a6c-42c8-92e1-dfe524421cf9,christlike.mobile,available,22.98,26.98,high,low,10,namecheap,,,12/08/2026 07:19
+ebd5a22c-aad8-48fb-af84-edbc640f5f9f,uttered.mobile,available,22.98,26.98,medium,low,7,namecheap,,,17/08/2026 18:44
 42d2681d-1158-4eaa-98f9-e1df8447b586,rather.mobile,premium,375,,high,low,6,name.com,,,
-d40c245b-9796-411e-910d-6d88295f67cc,junction.mobile,premium,780,780,high,low,8,namecheap,,,08/09/2026 09:48
-4847cca5-3111-45b1-8730-f14cdac68fde,net.mobile,premium,227.5,227.5,high,medium,3,namecheap,,,
-105e4ecd-13bd-4ff6-94d9-6b335c6c01e0,people.mobile,premium,375,,high,medium,6,name.com,,,
-13f76a1c-e056-4703-ae4b-0ab7ee6fb40c,blood.mobile,premium,375,,high,low,5,name.com,,,
-5b9d84d5-66a7-4594-afa3-7c97ce637461,resounding.mobile,available,26.98,,high,low,10,namecheap,,,
-17121f2e-fdf3-4f32-b6d5-bad09f1f902d,basketball.mobile,premium,1250,,high,low,10,name.com,,,
-8b294670-87ae-4ca5-b41e-42ed498aad56,cappuccino.mobile,premium,375,,high,low,10,name.com,,,
-9b65a3c6-5dd7-4b78-821e-72d45d50198a,saw.mobile,premium,2500,,high,low,3,name.com,,,
-565c32ca-73ef-4d43-b6b7-77a9146dcc36,bang.mobile,premium,375,,high,low,4,name.com,,,
-0ccc6a77-3eb8-447d-a14e-3bb8d7a7ff6d,quarter.mobile,premium,750,,high,low,7,name.com,,,
-57721a0c-f5be-4604-9465-507bab2ed526,sale.mobile,premium,1250,,high,low,4,name.com,,,
-d27edd87-295a-4a9b-8970-5757b538ad0c,week.mobile,premium,375,,high,low,4,name.com,,,
-28005887-52c5-43d7-b161-22aed755fb3e,oddly.mobile,available,26.98,,high,low,5,namecheap,,,
-ee222c97-2ae1-4dda-a814-ce239590b38b,mojo.mobile,premium,375,,high,medium,4,name.com,,,
-b46ee129-424f-4bac-a06b-409d077289e2,handle.mobile,premium,780,780,high,low,6,namecheap,,,08/09/2026 13:26
-af8341f1-1118-46c5-8d02-afb1905d78dd,skin.mobile,premium,375,,high,low,4,name.com,,,
-b10f1035-b55c-44f6-81db-1a8054588a77,commodity.mobile,premium,750,,high,low,9,name.com,,,
-97de6540-8d97-484e-9123-c3c0cf69bc7e,jock.mobile,premium,50,,high,low,4,name.com,,,
-ee7b82db-8c9b-41a5-9c00-fcc778420c20,cotton.mobile,premium,750,,high,low,6,name.com,,,
-e440a4aa-e71c-40ef-bfb9-d6170b78f33b,nothing.mobile,premium,1300,1300,high,low,7,namecheap,,,
-99fc7dfc-6531-406f-b880-3c179f3adf4a,check.mobile,premium,1300,1300,high,medium,5,namecheap,,,04/09/2026 07:44
-a071be7a-31b8-46b1-818d-90e057d03d6e,hanukkah.mobile,premium,750,,high,low,8,name.com,,,
-a5ca68d8-3d0e-4d8d-9319-824df20973e4,dispose.mobile,available,26.98,,high,low,7,namecheap,,,
-3892d3f0-99a3-40eb-8874-d81f1e45c61c,frame.mobile,premium,375,,high,low,5,name.com,,,
-bbf16dce-177e-4a58-bba8-9864b3fa3986,flood.mobile,available,26.98,,high,low,5,namecheap,,,
-1f2fa10a-1a1c-4cb1-840c-a9e75378c700,soul.mobile,premium,375,,high,medium,4,name.com,,,
-b1119caa-cee6-4486-819e-92cd2168d708,memorable.mobile,premium,780,780,high,low,9,namecheap,,,
-90c991c9-1ff9-4404-8651-cb2e479479d6,unemployed.mobile,available,26.98,,medium,low,10,namecheap,,,
-9b164af6-b65e-4987-808e-0707041b9ab1,crystal.mobile,premium,1250,,high,low,7,name.com,,,
-f90f67a5-6b38-4cfc-9b09-2983b9b0d1b1,card.mobile,premium,1250,,high,medium,4,name.com,,,
-436153bb-548d-43a8-a252-b507706c9ddd,fortune.mobile,premium,750,,high,low,7,name.com,,,
-cea87c0a-7bb7-47e7-a708-e98635879e0f,export.mobile,premium,750,,high,low,6,name.com,,,
-64100250-37ee-4fab-bca9-ed713215890e,era.mobile,premium,9375,,high,medium,3,name.com,,,
-0b13ec69-2742-49f1-a013-665ac3ed52f6,liked.mobile,premium,375,,high,low,5,name.com,,,
-d2d5d596-41f2-44a1-8156-d2c0382b9466,kamikaze.mobile,premium,375,,medium,low,8,name.com,,,
-a71fafac-280a-44c9-9b57-ba8d5caeb558,let.mobile,premium,375,,high,low,3,name.com,,,
-242d20b2-9a5c-4f7c-a8cc-1c6274ba25fe,word.mobile,premium,375,,high,low,4,name.com,,,
-2d8cbca3-007e-49ea-9dd4-6f2d8e01fbdf,absolutely.mobile,premium,750,,high,low,10,name.com,,,
-99f7f189-6b2f-4bfe-ba55-69a8fb752124,monumental.mobile,premium,750,,high,low,10,name.com,,,
-5ae7eebe-db86-4b5a-ab36-003bc5188f8b,disgust.mobile,premium,750,,high,low,7,name.com,,,
-22c782b5-d768-4df9-ae8d-ab090c311cf8,oxford.mobile,premium,375,,high,low,6,name.com,,,
-7e45e9ec-c5ac-41ff-8a55-b7a55b7dc1ab,terminal.mobile,premium,390,390,high,low,8,namecheap,,,08/09/2026 11:51
-28da64ca-0662-488c-ae7a-267413e9c806,sunhat.mobile,premium,1250,,high,low,6,name.com,,,
+d42496d8-7500-4c3e-ba09-c653335ecbbe,listened.mobile,available,22.98,26.98,medium,low,8,namecheap,,,25/09/2026 19:45
+204efadf-3e0d-4d30-bc57-c7f180a5d9ce,minimalist.mobile,available,22.98,26.98,high,low,10,namecheap,,,24/08/2026 23:51
+0942f56a-a0f2-4548-b87c-cb7640d8dd26,avery.mobile,premium,780,780,high,low,5,namecheap,,,25/09/2026 15:31
+9724ed46-a182-4a38-b2c0-0df84e42ba1b,exobiology.mobile,available,22.98,26.98,medium,low,10,namecheap,,,20/09/2026 17:35
+29c8ad71-decd-4c4c-b9a5-5b554ea96cd0,obdurate.mobile,available,22.98,26.98,medium,low,8,namecheap,,,13/08/2026 12:15
+349d045e-1f95-44f1-90fd-6035b8d3ecd4,sunup.mobile,premium,390,390,high,low,5,namecheap,,,11/09/2026 02:09
+5b116d2b-85c1-41ef-b8b4-5e31bce709e7,alveolus.mobile,available,22.98,26.98,medium,low,8,namecheap,,,17/09/2026 22:03
+9e0760bb-ebe8-4eac-8f22-0d569b7e3236,mess.mobile,premium,750,750,high,low,4,name.com,,,25/08/2026 00:30
+761e1344-9347-4c24-a20d-42911c626aaf,enjoying.mobile,premium,780,780,medium,low,8,namecheap,,,25/09/2026 21:02
+e7daf039-1bb0-4a87-8231-1ea33fd87465,fed.mobile,premium,2600,2600,high,low,3,namecheap,,,25/09/2026 22:43
+d9a0af27-1e38-48d8-a44d-0f7694c16d93,effort.mobile,premium,780,780,high,low,6,namecheap,,,23/09/2026 07:47
+cce0fe51-8198-48b1-a63e-8213f6f00522,loos.mobile,available,22.98,26.98,medium,low,4,namecheap,,,17/09/2026 09:32
+8052052a-feaa-4074-8a1c-b861c703b746,yellow.mobile,premium,390,390,high,medium,6,namecheap,,,23/09/2026 14:15
+c8d26748-de62-4605-a3b0-4ea9079f3d67,gravelly.mobile,available,22.98,26.98,medium,low,8,namecheap,,,20/08/2026 18:27
+82287c41-aea7-413a-bb7c-bb4fa0d75e91,lav.mobile,premium,390,390,high,low,3,namecheap,,,09/09/2026 02:16
+9273defe-8570-4c54-87f3-7c53fdbdbf8a,genovese.mobile,premium,750,750,high,low,8,name.com,,,18/08/2026 21:49
+47752828-78ed-4799-bb8e-288592fde52f,shod.mobile,available,22.98,26.98,medium,low,4,namecheap,,,11/08/2026 13:43
+590c26a0-9d7d-4ea3-a1b2-c5e85f39f580,blowhard.mobile,available,22.98,26.98,medium,low,8,namecheap,,,11/08/2026 01:19
+e0a4d48f-7d02-4afe-b30c-a17537cd3823,enigmatic.mobile,available,22.98,26.98,high,low,9,namecheap,,,17/08/2026 09:13
+26c02909-0c1b-480f-8c11-d647167d93cc,pathetic.mobile,premium,750,750,medium,low,8,name.com,,,20/08/2026 23:50
 d1c0d3bf-3070-4ab4-bb65-6946124fd93f,blowout.mobile,premium,375,,high,low,7,name.com,,,
-c323989b-2605-4591-bfdc-888cbb0828ca,maternal.mobile,available,26.98,,high,low,8,namecheap,,,
-2253287a-4597-4297-b68e-43c2958e6d45,solution.mobile,premium,750,,high,low,8,name.com,,,
-3afc418b-bc04-427d-a2f6-b44065b25765,ash.mobile,premium,2500,,high,low,3,name.com,,,
-da46615c-1356-414b-80ae-b17c87db3bf9,lesson.mobile,premium,780,780,high,low,6,namecheap,,,
-b8cf519d-23b5-4d51-ad40-22804002858c,version.mobile,premium,750,,high,low,7,name.com,,,
-fdd2d5b3-ce17-4cf8-a6c2-d9d2bbca033f,seoul.mobile,premium,375,,high,low,5,name.com,,,
-86a4594a-172e-4811-a6f5-37a542d410c5,pilot.mobile,premium,375,,high,low,5,name.com,,,
-9d34894a-1908-45ac-9041-fa359b020239,men.mobile,premium,2500,,high,low,3,name.com,,,
-0938502a-2769-4fe7-8b58-ace4fc7e85fa,looking.mobile,premium,750,,high,low,7,name.com,,,
-3ffb9950-20d0-4f9a-be6b-7ec0ff8fbf96,dentist.mobile,premium,375,,high,low,7,name.com,,,
-a1b28606-5cbd-4a48-a937-3fc612bce102,poverty.mobile,premium,750,,medium,low,7,name.com,,,
-de495381-97bf-43ab-999e-92f34fa8e577,revelation.mobile,premium,750,,high,low,10,name.com,,,
-451b8bb8-5181-4f2b-9f77-fedcafd2b30f,shallow.mobile,premium,750,,medium,low,7,name.com,,,
-820b50e8-e1d7-4a11-af81-c2ae50a0321a,dining.mobile,premium,750,,high,low,6,name.com,,,
-41e197fc-5823-406e-ba77-69b5adf6792b,waiting.mobile,premium,750,,high,low,7,name.com,,,
-3bc0e4ca-7b1e-4eb2-a699-2b905d82cac3,spoken.mobile,premium,750,,high,low,6,name.com,,,
-d3630a20-c042-421c-bbf6-3c7b4148c510,pregnant.mobile,premium,390,390,high,low,8,namecheap,,,
-e5553910-e3b6-4ee8-a343-b60e9502e9da,lemon.mobile,premium,375,,high,medium,5,name.com,,,
-3e6209c6-2c35-4854-9793-a1fbb7f08a94,fig.mobile,premium,1250,,high,low,3,name.com,,,
-a95a4ecb-062d-4059-a99f-a82b47deb149,joy.mobile,premium,2500,,high,medium,3,name.com,,,
-632370f5-d1d1-4572-ab45-3e67b3595eeb,upwards.mobile,premium,750,,high,low,7,name.com,,,
-0bb82451-bbff-4856-a4d3-7e54c773b478,might.mobile,premium,375,,high,low,5,name.com,,,
-cba4f970-407c-4d21-b2e3-287d1399b1b7,property.mobile,premium,375,,high,low,8,name.com,,,
-188b7da0-ea37-4c5e-a2a5-04d7f823d452,rescue.mobile,premium,100,,high,low,6,name.com,,,
-4003d515-a15d-4341-af81-86a9d29c4ef4,modal.mobile,premium,390,390,high,low,5,namecheap,,,
-20806688-f32a-4a5e-9eb4-ba0aff697eca,kilometre.mobile,available,26.98,,high,low,9,namecheap,,,
-36dfa934-305a-42a5-aaf4-dc9239e45212,verbal.mobile,premium,750,,high,low,6,name.com,,,
-5d08f14f-666c-430b-9d29-06b91212b78d,publicized.mobile,available,26.98,,high,low,10,namecheap,,,
-1f76a264-a6e7-45fe-b02a-0df277c141de,rest.mobile,premium,375,,high,low,4,name.com,,,
-41a9f7e5-9ca2-4c37-ab6a-764120837ddd,trial.mobile,premium,1250,,high,low,5,name.com,,,
-3c8c37b0-8f7d-4997-8196-5c415aa0c1b3,affirm.mobile,premium,375,,high,high,6,name.com,,,
-5924f3f8-0caf-4ad8-8992-ad34ec10817e,aside.mobile,premium,375,,high,low,5,name.com,,,
-efbff108-c32d-4a49-b6c6-889007f5852f,devise.mobile,premium,750,,high,low,6,name.com,,,
-9b387eca-7be5-4f31-ba10-61cd0475d1d4,daughter.mobile,premium,375,,high,low,8,name.com,,,
-3fe64481-6946-46a8-af1b-8243ac4caaa8,identified.mobile,available,26.98,,high,low,10,namecheap,,,
-981bea07-832a-43d3-a470-968859db0f72,altruism.mobile,available,26.98,,high,low,8,namecheap,,,
-17f0fcb2-a022-464c-9abd-5fb7351065ab,mainly.mobile,premium,750,,high,low,6,name.com,,,
-c3e2df49-d3f2-494f-a48e-3360b9ee0c3f,demo.mobile,premium,375,,high,medium,4,name.com,,,
-92a0c458-fc32-4ba6-9d68-bc468235b32d,except.mobile,premium,750,,high,low,6,name.com,,,
-85d53b8a-675b-4481-8028-fbb7d3c5e28f,gallon.mobile,available,26.98,,high,low,6,namecheap,,,
-be9109a2-edba-47f8-908f-6d436fcf1bf7,plague.mobile,premium,375,,high,low,6,name.com,,,
-17d88ada-f698-4949-a2bb-a7bb36df12a7,nose.mobile,premium,375,,high,low,4,name.com,,,
-9cdaf79f-6441-489a-8b91-4d9b74218f88,otherwise.mobile,premium,1250,,high,low,9,name.com,,,
-58f3d434-61c4-4640-b52d-1fbff56defad,relevance.mobile,premium,750,,high,low,9,name.com,,,
-a23cfde6-955d-47ed-98ea-c3a6096c419c,attraction.mobile,premium,375,,high,low,10,name.com,,,
-67c877ac-382b-4472-9ebc-a9dc0c78f300,initially.mobile,premium,750,,high,low,9,name.com,,,
-cd9bcbf5-a80f-4710-87c8-a8eed29a431e,lead.mobile,premium,375,,high,low,4,name.com,,,
-f14c499e-b0c6-466c-90cf-5b64ac74393a,shortly.mobile,premium,750,,high,low,7,name.com,,,
-03fbb8cd-2cc0-455a-9484-79f669972a68,breakfast.mobile,premium,390,390,high,low,9,namecheap,,,04/09/2026 13:27
-3f3566de-eb9c-4e09-a3ff-83e662de2f41,lcd.mobile,premium,375,,high,low,3,name.com,,,
-5e0140af-0dc7-4f4f-970d-955c3f5da587,provide.mobile,premium,750,,high,low,7,name.com,,,
-f1224ff9-989e-45de-aa12-5e97ca4cf14a,shirt.mobile,premium,1250,,high,low,5,name.com,,,
-a6a8f722-292c-48e8-976a-94446c14c404,somehow.mobile,premium,750,,high,low,7,name.com,,,
-36b0ce2f-d88e-4376-881e-ec11d66558a6,retained.mobile,available,26.98,,high,low,8,namecheap,,,
-ce59ae84-34d7-4bff-99e4-0267d1e314d5,luxury.mobile,premium,2500,,high,low,6,name.com,,,
-508b0a9f-6c36-43d5-ba48-eb0a95e9fb9c,moonlight.mobile,available,26.98,,high,low,9,namecheap,,,
-09f918f6-a3f7-41aa-aaab-0272dcb1f7bb,baghdad.mobile,premium,750,,medium,low,7,name.com,,,
-6ca0f95e-6a56-4a24-8dc5-67427485e523,prayer.mobile,premium,375,,high,low,6,name.com,,,
-3bf0caee-f8e5-4fc2-bb9a-dba6fc469df3,ready.mobile,premium,375,,high,low,5,name.com,,,
-543aae32-e337-4d21-bbbb-ef31f652c080,judgment.mobile,premium,750,,high,low,8,name.com,,,
-4d0ab254-3897-4aed-86cb-520642420de6,sunbeam.mobile,premium,750,,high,low,7,name.com,,,
-35bb2941-01bf-4ba7-9ba8-a517d6378597,snicker.mobile,available,26.98,,high,low,7,namecheap,,,
-12d82ab9-5a23-4db2-bc19-741011491c64,interest.mobile,premium,780,780,high,low,8,namecheap,,,08/09/2026 14:02
-f5f80063-a7c6-4880-a136-6148c0065853,organs.mobile,available,26.98,,high,low,6,namecheap,,,
-0d9e952e-ae88-4107-8c25-88b17fa88866,fist.mobile,premium,2500,,high,low,4,name.com,,,
-f43b8197-62ea-4d19-83a7-e0ecd4862d6b,satisfied.mobile,premium,750,,high,low,9,name.com,,,
-66220743-5b00-47bf-9a12-2f10093199a0,supervisor.mobile,premium,750,,high,low,10,name.com,,,
-cba9fbdc-5bcc-4a3d-af79-96c52ede5608,premier.mobile,premium,375,,high,low,7,name.com,,,
-e63d3437-31a1-416b-9317-5021ea9d225a,achiever.mobile,available,26.98,,high,low,8,namecheap,,,
-88a079c4-3f44-401f-98c8-38e21149c6e7,tested.mobile,premium,375,,high,low,6,name.com,,,
-83c193a1-a327-4d80-bef3-b44e4e0d690a,softly.mobile,premium,750,,high,low,6,name.com,,,
-6c4d11eb-e09e-438c-b30b-3d05eebda874,legs.mobile,premium,375,,high,low,4,name.com,,,
-9dc8497b-e90f-4eae-bb7a-aa07b5ee013a,need.mobile,premium,390,390,high,low,4,namecheap,,,
-0489fb56-6f39-4190-814f-d2cf2b8b662e,retreat.mobile,premium,750,,high,low,7,name.com,,,
-62af0957-f0bb-4f9d-b80f-e796dde279c7,boxing.mobile,available,26.98,,high,low,6,namecheap,,,
-99e690f7-d93b-456f-b936-ba41faec3a31,cement.mobile,premium,1250,,high,low,6,name.com,,,
-10e1463b-5cf7-4227-b53b-dc3b06e2622a,shifting.mobile,premium,750,,high,low,8,name.com,,,
-1e2614d7-dadc-49f3-87f4-608139153dee,inspired.mobile,premium,375,,high,low,8,name.com,,,
-eecd28f2-e69e-4a83-961c-5d01e44ee8c1,scripted.mobile,available,26.98,,high,low,8,namecheap,,,
-658a07b3-176b-40eb-a5a5-770491c41c80,writing.mobile,premium,375,,high,low,7,name.com,,,
-7078bb36-8674-4170-95f3-28c741885274,jewel.mobile,premium,375,,high,low,5,name.com,,,
-1851f880-27ec-4567-8b75-fc9f86d5adc3,jesus.mobile,premium,375,,high,medium,5,name.com,,,
-f5a4525d-3f97-4c82-8a15-7518ad3a5dff,mention.mobile,premium,750,,high,low,7,name.com,,,
-bf934389-d80f-452e-84a2-b5b16c2cfb14,initial.mobile,premium,750,,high,low,7,name.com,,,
-b18ae998-16d5-49e2-b234-e27e4f28f032,fold.mobile,premium,375,,high,low,4,name.com,,,
-ff353b35-d006-4e2c-808e-7535c978aeb8,songbird.mobile,available,26.98,,high,low,8,namecheap,,,
-d879fef6-3118-489d-8b11-575a10e5c84c,rice.mobile,premium,1250,,high,low,4,name.com,,,
-76845e06-906b-489d-9d9f-175991cbf8c5,rural.mobile,premium,375,,high,low,5,name.com,,,08/09/2026 07:52
-76d819f4-dcdf-42f4-b63e-b33e6725ce82,campaigner.mobile,available,26.98,,high,low,10,namecheap,,,
-658ac877-87d7-4cc5-a7c3-4ecc6273a53b,thorpe.mobile,available,26.98,,high,low,6,namecheap,,,
-d5d80cd1-3a53-4e5a-8029-c82870f817b9,sunburst.mobile,premium,750,,high,low,8,name.com,,,
-8a52dac7-b460-4fc6-9219-2d3f1115ee20,truffle.mobile,premium,750,,high,low,7,name.com,,,
-49620c1b-8abc-4676-b807-829689da5d6e,nike.mobile,premium,1250,,high,high,4,name.com,,,
-1135ddc7-7327-4c95-8b28-26c3fad550d3,freeway.mobile,available,26.98,,high,low,7,namecheap,,,
-786823c6-e140-4a96-971b-1c55609719a9,maxim.mobile,premium,375,,high,low,5,name.com,,,
-b2f4625a-ee18-4f08-817d-d411f05ce5c9,jumping.mobile,available,22.98,26.98,high,low,7,namecheap,,,08/09/2026 06:49
-4558c37b-073b-4d49-99ba-258dfebf4cc9,statistics.mobile,premium,750,,high,low,10,name.com,,,
-29ed0c1b-df37-4b40-961b-14694f432a08,industrial.mobile,premium,375,,high,low,10,name.com,,,
-f518db66-2c1e-4013-9143-9d81a3b08b25,disgrace.mobile,available,26.98,,high,low,8,namecheap,,,
-6fb65bfe-6e4b-4c70-925c-96fdc0927c6f,indefinite.mobile,available,26.98,,high,low,10,namecheap,,,
-bfaf967e-a7cf-45f3-a6fa-668ad390de20,pup.mobile,premium,375,,high,low,3,name.com,,,
-7862271f-972b-4015-acf5-46a955370441,lisboa.mobile,available,26.98,,high,low,6,namecheap,,,
-506034db-893e-4a19-bc92-cab39bb0870d,irregular.mobile,premium,750,,high,low,9,name.com,,,
-7bbb15bd-723c-49b9-8073-292adae1f0c1,bucket.mobile,premium,1250,,high,low,6,name.com,,,
-9d7af5ac-b105-4c1c-9864-5855faf54524,lane.mobile,available,26.98,,high,low,4,namecheap,,,
-ebe5b63f-cd12-40f8-915c-3bc648d0a1ec,terms.mobile,premium,375,,high,low,5,name.com,,,
-a8cfe64a-a7b7-4fc1-8309-618ea0b25793,saved.mobile,premium,375,,high,low,5,name.com,,,
-8a5e4893-992a-4d6d-bc25-ba4c7e2aa306,allowance.mobile,premium,750,,high,low,9,name.com,,,
-6d3eef10-d562-4c0f-9b6b-8ce9b8405a73,stormy.mobile,premium,375,,high,low,6,name.com,,,
-61a86030-cbcf-4959-b466-276818063d71,sport.mobile,premium,780,780,high,low,5,namecheap,,,
-b86882d7-3e4f-4f76-a651-0f4c95965822,admiration.mobile,premium,750,,high,low,10,name.com,,,
-d18cd325-6b6e-4959-9f54-a47947f89d3f,anger.mobile,premium,750,,high,low,5,name.com,,,
-3bdfdecb-835b-4186-9baa-a75ef81272ff,diving.mobile,premium,750,,high,low,6,name.com,,,
-09e7a713-870e-405a-b952-91971c228589,court.mobile,premium,375,,high,low,5,name.com,,,
-82a22f15-ed02-4b93-b0ee-73010f136c3d,must.mobile,premium,390,390,high,low,4,namecheap,,,
-7132dd64-4e6a-4fdc-8604-bc5f1ecb4b68,left.mobile,premium,375,,high,low,4,name.com,,,
-2764ba5c-8152-4ddb-962f-57d1e481bfdc,spice.mobile,premium,100,,high,low,5,name.com,,,
-7d273244-555b-4ac4-a3e0-db9220baee90,deflation.mobile,available,26.98,,high,low,9,namecheap,,,
-b8edabf2-7f16-45e0-9f94-4deb84fd9313,chart.mobile,premium,375,,high,low,5,name.com,,,
-41f0f184-ed5a-4dee-aeb1-99096792472d,boy.mobile,premium,375,,high,low,3,name.com,,,
-55682701-b592-41e7-b46c-2e22f8fa4e90,oslo.mobile,premium,375,,high,low,4,name.com,,,
-0cd76633-fd87-47bc-8c51-1da08bbefb06,pharmacy.mobile,premium,375,,high,low,8,name.com,,,
-22a57c25-2735-4e82-8fd5-df2d51de9dd0,capitol.mobile,premium,750,,high,low,7,name.com,,,
-25d4666a-5f62-4470-9145-f6ec43d2bc42,say.mobile,premium,375,,high,low,3,name.com,,,
-2bc7a7c2-7de6-4ee8-a140-ed847452e092,polo.mobile,premium,375,,high,high,4,name.com,,,
-42f3ac43-ed92-4326-92c2-dcd34ccab910,sequel.mobile,premium,750,,high,low,6,name.com,,,
-6a98a902-7ed2-4eda-8ccf-8953c386d518,halloween.mobile,premium,375,,high,low,9,name.com,,,
-5b20f8a6-ba3c-46a8-8317-0f5c38d1c218,prompting.mobile,available,26.98,,high,low,9,namecheap,,,
-132b826d-32e0-4149-b499-8bb7707e47a1,same.mobile,premium,375,,high,low,4,name.com,,,
-d05007a5-44d4-4d66-8a0d-7d6a0117ceea,enthusiasm.mobile,premium,750,,high,low,10,name.com,,,
-45a3e437-7ac3-4023-af02-dab79714330a,toe.mobile,premium,375,,high,low,3,name.com,,,
-4ce7aa6a-ace1-4323-b2db-ad79934a9826,watt.mobile,available,26.98,,high,low,4,namecheap,,,
-78dff3ca-6028-4d96-908f-186d2c595966,proved.mobile,premium,375,,high,low,6,name.com,,,
-c4b1366e-f2d7-4ec6-8f3e-312b13914b38,involved.mobile,premium,750,,high,low,8,name.com,,,
-52701ee4-74d4-4060-b329-4178322b6f68,god.mobile,premium,2500,,high,medium,3,name.com,,,
-0ad21a88-c045-4ae2-bd78-dabcbbffc61d,planning.mobile,premium,1250,,high,low,8,name.com,,,
-b8b7b556-7c89-4184-a489-0adb31bb839e,overall.mobile,premium,1250,,high,low,7,name.com,,,
-62da71fa-08d4-40da-a9f8-31e6b2f272df,fibre.mobile,premium,750,,high,low,5,name.com,,,
-d7a410e6-cbdd-486a-9803-6e730f7f9949,cosmos.mobile,premium,375,,high,low,6,name.com,,,
-c2457929-4a43-4331-b666-03e4f1981fc7,twin.mobile,premium,375,,high,low,4,name.com,,,
-d78771ff-6f0e-459a-9c11-3db1e0651bd7,inc.mobile,premium,2500,,high,low,3,name.com,,,
-d251aef3-7c3f-40fe-ba97-6ff516814902,nutrient.mobile,premium,780,780,high,low,8,namecheap,,,08/09/2026 11:42
-e940a163-a3b8-4a5a-8429-22acd5e2b8e9,mash.mobile,premium,375,,high,low,4,name.com,,,
-703a79a8-48c2-441d-92d8-897a41ea64bf,checklist.mobile,premium,50,,high,low,9,name.com,,,
-e9e795a4-397e-4efe-9d1f-577143ee8922,alexander.mobile,premium,750,,high,low,9,name.com,,,
-edcec9cf-5b00-4735-b3f9-5ca13d977703,fort.mobile,premium,375,,high,low,4,name.com,,,
-ed44a2c8-738b-493a-99cc-2c1df8831a02,rock.mobile,premium,1250,,high,low,4,name.com,,,
-0feedd61-2dac-4f78-aba7-cc05f33f7925,starting.mobile,premium,375,,high,low,8,name.com,,,
-3ee59b1a-ae96-4ac4-9228-5006ae5df47e,worsening.mobile,available,26.98,,medium,low,9,namecheap,,,
-5a3d2e79-2135-44b1-b029-ed4dd9d63dac,oak.mobile,premium,375,,high,low,3,name.com,,,
-3428bf93-7bdc-4317-ae18-a0581985cd88,cockpit.mobile,premium,750,,high,low,7,name.com,,,
-34d25212-c5ce-4708-8d50-6fe372cbd8cd,colours.mobile,premium,375,,high,low,7,name.com,,,
-b7cd9f0c-64f6-45a4-adde-b67cf1f93680,discount.mobile,premium,750,,high,low,8,name.com,,,
-a0a684c3-b11e-4238-9f95-e8d16d4a1211,pad.mobile,premium,1250,,high,low,3,name.com,,,
-fcf3f165-0214-4439-8aae-f5db87bbd476,lorry.mobile,premium,375,,high,low,5,name.com,,,
-7dc4896c-07e8-4e35-97a4-5ebecd26b3a3,disco.mobile,premium,375,,high,low,5,name.com,,,
-86fcacd5-152e-4bce-8661-e5e56c86b104,shock.mobile,premium,375,,high,low,5,name.com,,,
-100b3f92-4607-4f0a-9fd8-109a0f6b3d73,wisdom.mobile,premium,375,,high,low,6,name.com,,,
-7d10446c-6e0f-4ae2-89f5-4ee5f2c5109f,printable.mobile,available,26.98,,high,low,9,namecheap,,,
-f3b04ac4-05a9-4830-baba-3944976c171c,speeding.mobile,premium,1250,,high,low,8,name.com,,,
-403656de-b9ed-4f9c-9d67-29ca5fe6051e,adviser.mobile,premium,750,,high,low,7,name.com,,,
-2f0f5dd9-f8b2-435d-89ef-d2ee47092a5c,session.mobile,premium,750,,high,low,7,name.com,,,
-b0435a03-3077-41f2-b1a3-4857a5bac72f,barbecue.mobile,available,26.98,,high,low,8,namecheap,,,
-cadad4d0-7f3c-4838-8009-3afe3d1c2ed9,sundress.mobile,premium,1250,,high,low,8,name.com,,,
-e702f964-79a0-45c5-8a89-f362950b1f49,wellbeing.mobile,premium,750,,high,low,9,name.com,,,
-4586ce73-038a-44c5-a549-ba97365a1dc7,completion.mobile,premium,750,,high,low,10,name.com,,,
-ab9c22ad-7ab6-4435-9a83-642d6019e7cd,shortfall.mobile,premium,750,,high,low,9,name.com,,,
-b9944a8a-b9f8-417e-8675-1380239602ae,page.mobile,premium,375,,high,low,4,name.com,,,
-86b39ff2-3de3-456b-a544-695ddec4c058,strange.mobile,available,26.98,,high,low,7,namecheap,,,
-ebba5463-b55a-4187-8787-2cac8ec9ff55,torch.mobile,premium,218.75,,high,low,5,name.com,,,
-0fc21208-292c-41ce-b6d3-34cd1d13a424,curtain.mobile,premium,375,,high,low,7,name.com,,,
-ae82faf5-c8c6-4b9b-830d-69b471a487fd,delta.mobile,premium,375,,high,medium,5,name.com,,,
-f5aa92d8-91c3-40ab-8290-56bc7b10b19f,tobacco.mobile,premium,750,,medium,low,7,name.com,,,
-15daf935-fa2f-4626-b868-3ccd2080759e,alamo.mobile,premium,375,,high,medium,5,name.com,,,
-99aa0481-9127-47ba-bf31-0647ae6228f2,situated.mobile,premium,750,,high,low,8,name.com,,,
-9c1dbaf4-d719-43e6-9cf2-a509f871e081,episode.mobile,premium,375,,high,low,7,name.com,,,
-ec103486-0329-427f-a826-e5b6ce80ebe5,baguette.mobile,available,26.98,,high,low,8,namecheap,,,
-1794f2ba-e72d-4a4c-a3f0-dfe1aa3c86e4,cord.mobile,premium,375,,high,low,4,name.com,,,
-8290b86c-9915-4a87-b90c-ae380470c986,sentence.mobile,premium,750,,high,low,8,name.com,,,
-73ccdb28-2594-4d05-b9f5-4a99a9f7e09c,longer.mobile,premium,375,,high,low,6,name.com,,,
-ce3371b5-5c8d-4d1d-a6c2-06ad59c5753b,knowing.mobile,premium,750,,high,low,7,name.com,,,
-e883c0d1-b08d-4eaf-87ea-486a937e4c6f,depress.mobile,available,26.98,,high,low,7,namecheap,,,
-736e1b81-7370-4f23-85fe-c06f6dc51fa5,stepmother.mobile,available,26.98,,high,low,10,namecheap,,,
-7bef5127-40de-4776-a002-421ae88c0634,movement.mobile,premium,750,,high,low,8,name.com,,,
-7f72a223-019e-4052-97c0-28993ba9ec0a,pita.mobile,available,26.98,,high,low,4,namecheap,,,
-6b2b8d61-a61c-4503-b71b-c38bc0002e45,accurately.mobile,premium,750,,high,low,10,name.com,,,
-78b805a5-b06f-4456-995c-b8acf712151f,now.mobile,premium,2500,,high,medium,3,name.com,,,
-9cee96ce-40d4-4515-8f4a-34cbef24a5dc,worm.mobile,premium,375,,high,low,4,name.com,,,
-c196a2db-a360-4ba6-9f8b-abad87ee1098,plate.mobile,premium,750,,high,low,5,name.com,,,
-01c276cc-59e8-4da3-91ce-56bb99d4a466,lamp.mobile,premium,1250,,high,low,4,name.com,,,
-0be47929-35c6-43cd-a68e-64b334cd10eb,race.mobile,premium,375,,high,low,4,name.com,,,
-d16208ee-d5a6-4896-ad63-723870e0dcc3,alcohol.mobile,premium,1250,,high,low,7,name.com,,,
-3620bc72-b009-4884-8549-0f34c1ff7f0a,critic.mobile,available,26.98,,high,low,6,namecheap,,,
-f2a71931-7daf-4f16-ac46-4b9d9ae47f3c,browser.mobile,premium,375,,high,low,7,name.com,,,
-5f65dcee-ed72-4605-9b5c-f01a86612daa,sole.mobile,premium,375,,high,low,4,name.com,,,
-b03070c3-fd62-4778-9b75-4424cfe8bbe8,axe.mobile,premium,750,,high,low,3,name.com,,,
-6959da85-2ca1-4872-9d05-9c1b01122334,response.mobile,premium,750,,high,low,8,name.com,,,
-d272a6b5-fb19-49bf-ab09-981dd12837f4,way.mobile,premium,2500,,high,low,3,name.com,,,
-b6adb026-4283-4bdb-9562-4a27d83d59cd,rigid.mobile,premium,375,,high,low,5,name.com,,,
-08d37f78-9ea8-4fc3-98d1-26f3f69daa24,jack.mobile,premium,375,,high,medium,4,name.com,,,
-68aeba35-f784-458e-ba5f-addaa0444a3e,mom.mobile,premium,2500,,high,low,3,name.com,,,
-afafd58e-f831-4f3c-936c-4a3d526b2a2b,des.mobile,premium,2500,,high,low,3,name.com,,,
-6d2858c4-6210-4f65-ae77-2ba170b215fb,aspirin.mobile,premium,750,,high,medium,7,name.com,,,
-bf4e7b87-8a33-4e8b-9fb2-1e1707957140,garlic.mobile,premium,750,,high,low,6,name.com,,,
-a56a81ca-ac52-4801-b3e7-584d56b8d27a,mechanic.mobile,premium,1300,1300,high,low,8,namecheap,,,
-18451400-137b-4d64-a61b-0b39dd4bda60,halo.mobile,premium,375,,high,medium,4,name.com,,,
-b12b041b-b4eb-43d5-b17e-3d6d562d8df4,anagram.mobile,available,26.98,,high,low,7,namecheap,,,
-13111a04-e932-4c6f-84c2-f70f5b3af4e9,profile.mobile,premium,750,,high,low,7,name.com,,,
-4022dc4b-11a9-41be-9cb3-a20e534077b1,director.mobile,premium,750,,high,low,8,name.com,,,
-783b5c7d-9ecf-42c0-90bb-aaa28eed26ad,lager.mobile,available,26.98,,high,low,5,namecheap,,,
-0c01e67d-7e5f-4bcc-be50-079b36f040f7,economy.mobile,premium,390,390,high,low,7,namecheap,,,08/09/2026 12:29
-7435c01f-b23b-4483-b4e1-95b435751d3f,alligator.mobile,available,26.98,,high,low,9,namecheap,,,
-cc57db27-14db-4897-9290-acf68c39bd10,decide.mobile,premium,750,,high,low,6,name.com,,,
-61066c35-9e48-4691-b5d2-c0883bfeffef,punter.mobile,premium,750,,high,low,6,name.com,,,
-66290a0c-613f-437b-b301-f1ee7123680b,coffee.mobile,premium,375,,high,medium,6,name.com,,,
-c65335fe-82e9-4a9f-98a4-f296734c365d,commission.mobile,premium,750,,high,low,10,name.com,,,
-a716243f-48d8-4e60-8bd8-06a933863c72,trend.mobile,premium,375,,high,low,5,name.com,,,
-6ccab6b2-7a7a-4f96-84c0-066204bdaabf,child.mobile,premium,390,390,high,low,5,namecheap,,,
-fe0b2fa7-8b6f-4073-a04a-26ab4bb1595f,lawyer.mobile,premium,375,,high,low,6,name.com,,,
-7046e3f3-4237-4884-8820-003b93ba37b1,mosquito.mobile,premium,375,,medium,low,8,name.com,,,
-6d641cad-f687-4dc3-980b-3f0d1ca442ea,nighttime.mobile,available,26.98,,high,low,9,namecheap,,,
-92cbcdc8-27bb-4e87-a355-d20b0ad82d1e,prison.mobile,available,26.98,,high,low,6,namecheap,,,
-e18b5a41-4f5d-4fb9-828c-e083eab4107a,point.mobile,premium,375,,high,low,5,name.com,,,
-783cf489-28a5-43a3-9e3b-e3ec07e1d546,rookie.mobile,premium,750,,high,low,6,name.com,,,
-148d3471-d70c-485a-8a5a-5907d0ef7a69,circus.mobile,premium,750,,high,low,6,name.com,,,
-a134568d-d034-4d5a-a29f-7424775fc4f9,discussion.mobile,premium,375,,high,low,10,name.com,,,
-bf11a518-aa36-491a-a5da-8545e33404ed,carriage.mobile,premium,750,,high,low,8,name.com,,,
-847788a0-a8fa-4970-9ab9-1348fd55249b,instead.mobile,premium,750,,high,low,7,name.com,,,
-d1297054-5097-4a11-ac27-530469825170,nyse.mobile,premium,375,,high,low,4,name.com,,,
-4689a36f-9f51-481f-b40b-eee17f04de23,verse.mobile,premium,50,,high,low,5,name.com,,,
-0b29924e-b36c-428d-a0c0-95a2c1507b3b,prominent.mobile,premium,750,,high,low,9,name.com,,,
-f1a05498-b537-404a-9913-48c6ba35b36c,sunroof.mobile,premium,750,,high,low,7,name.com,,,
-679b494f-7847-4637-942f-de4d9859fe2c,pleasant.mobile,premium,375,,high,low,8,name.com,,,
-8273c528-0406-4fa3-a626-91b5c2d1fcf4,suspense.mobile,premium,750,,high,low,8,name.com,,,
-2d7ccff1-42c6-4f7e-9b0b-e0b7d92bcef7,vampire.mobile,premium,375,,high,low,7,name.com,,,
-0706fd3a-9622-472f-a927-71aa0b42b83b,pretoria.mobile,available,26.98,,high,low,8,namecheap,,,
-66bbb427-c9f2-4c25-82e4-120a4759e64b,maze.mobile,available,26.98,,high,low,4,namecheap,,,
-7d0a58e9-25a3-4ed8-ba4b-a226febfee66,top.mobile,premium,1300,1300,high,medium,3,namecheap,,,
-e22b19b0-4046-401e-bc3c-8b91c6c0cbf7,irrational.mobile,premium,750,,high,low,10,name.com,,,
-f1613a11-c0ee-4d84-962d-3ce432b775c0,kingdom.mobile,premium,750,,high,low,7,name.com,,,
-38ded487-2aff-49c7-ab1a-c141c358a00b,society.mobile,premium,1250,,high,low,7,name.com,,,
-4720470d-704d-4147-9c30-dd6442b4f533,attorney.mobile,premium,750,,high,low,8,name.com,,,
-f7df5f93-800e-4ab6-a31a-2a28bc181d74,peel.mobile,premium,375,,high,low,4,name.com,,,
-b39a8a40-803a-4f44-8f61-6e9686fa1a4c,candidacy.mobile,premium,750,,high,low,9,name.com,,,
-88356d4c-8114-44fb-b65c-ffd201fb4616,mild.mobile,premium,390,390,high,low,4,namecheap,,,
-fc30276d-58bc-48e9-bd06-cb9d2f3e842f,volume.mobile,premium,750,,high,low,6,name.com,,,
-e37d9462-038e-4f73-a770-a895761a60eb,longest.mobile,premium,375,,high,low,7,name.com,,,
-af02e3f3-883a-4ba4-8c52-5065d349d55c,calf.mobile,premium,375,,high,low,4,name.com,,,
-66f86eee-b62c-496b-aa18-c7419e919df5,yield.mobile,premium,375,,high,low,5,name.com,,,
-3641eb81-0ebf-469d-a917-30c4041a0dfb,trap.mobile,premium,375,,high,low,4,name.com,,,
-4a956c15-0c79-4515-8c5a-5b23166b86d3,smith.mobile,premium,375,,high,medium,5,name.com,,,
-37221130-f497-490f-85b3-34674eaf1ce9,genuinely.mobile,premium,1250,,high,low,9,name.com,,,
-43e8c75a-fe23-40b5-bc4a-0dddcfb3e5e5,vague.mobile,premium,390,390,high,low,5,namecheap,,,
-cbed2c73-1d2c-44a9-a7a8-9c6c818f4d8c,moral.mobile,premium,390,390,high,low,5,namecheap,,,
-b3c6f3dd-7319-4ba7-a002-8998afd235b4,budget.mobile,premium,1250,,high,low,6,name.com,,,
-18c5f0e6-e322-4b46-ad7d-14192246d2d7,snippet.mobile,premium,750,,high,low,7,name.com,,,
-f2089cf1-733b-412b-82a5-4d1cc338caff,examine.mobile,premium,750,,high,low,7,name.com,,,
-cf17ba38-7757-4c84-b247-ae743d01cdda,unbeatable.mobile,premium,750,,high,low,10,name.com,,,
-8f92e73a-d403-4859-820a-d737fe331ed3,disc.mobile,premium,375,,high,low,4,name.com,,,
-5c68ebff-9ae9-4c28-bc44-69e11b9994c9,most.mobile,premium,390,390,high,low,4,namecheap,,,
-b88f512b-c398-4d0d-8266-758d083c8474,covering.mobile,premium,750,,high,low,8,name.com,,,
-0e74b15a-5544-4e77-8666-0b78cf45f5d4,wrongful.mobile,premium,750,,medium,low,8,name.com,,,
-af11a5fd-4014-4f01-8cab-e07cf918eda4,already.mobile,premium,750,,high,low,7,name.com,,,
-e1783777-7226-40da-bb97-83eed9a1ee8b,jacobs.mobile,premium,750,,high,low,6,name.com,,,
-277b747c-02bb-4720-8350-f4bc2fbe3843,beating.mobile,available,26.98,,high,low,7,namecheap,,,
-6f39ae85-23a6-4bf2-ac09-bc7507b28d52,damascus.mobile,premium,750,,high,low,8,name.com,,,
-1f4a6a0b-314a-4550-bd54-9bb38802ec72,critique.mobile,premium,750,,high,low,8,name.com,,,
-e570f603-abd5-4dde-b14d-a671e07c304c,pocket.mobile,premium,750,,high,medium,6,name.com,,,
-f849e2b8-53df-47b5-b0f3-d6016bfb226e,chips.mobile,premium,375,,high,low,5,name.com,,,
-6fda23db-72ae-4c07-ae18-a9fcb2a7811d,bread.mobile,premium,1300,1300,high,low,5,namecheap,,,08/09/2026 03:15
-53f25e1d-180a-4199-9d11-11585868653f,chimney.mobile,premium,750,,high,low,7,name.com,,,
-99357261-5d3c-4b18-9587-42401fce2cc7,coordinate.mobile,premium,780,780,high,low,10,namecheap,,,08/09/2026 03:35
-27e2a330-b210-42f5-a2b9-64b07497a431,embrace.mobile,premium,750,,high,low,7,name.com,,,
-2873a652-8264-4d32-b5b4-f96def6097ac,advice.mobile,premium,750,,high,low,6,name.com,,,
-9a1742df-2f25-4d0c-85c7-7b38382189ef,bathroom.mobile,premium,1250,,high,low,8,name.com,,,
-533b6bf3-1ec4-4482-aa00-4a24150f2527,activity.mobile,premium,375,,high,low,8,name.com,,,
-51767a05-e92f-4a53-854a-e974162810cc,bachelor.mobile,available,26.98,,high,low,8,namecheap,,,
-2ab2711c-e579-4ed1-ab25-6670d62c65e6,obsessive.mobile,available,26.98,,high,low,9,namecheap,,,
-cb155aef-77c2-4105-b3bb-63127890fd5b,analyst.mobile,premium,750,,high,low,7,name.com,,,
-a40ab7c7-2d11-4dbe-a04f-2db8a7e4bc76,egg.mobile,premium,1250,,high,low,3,name.com,,,
-36478bf6-3c78-4e7e-9fd8-9ee955305b96,sailor.mobile,premium,375,,high,low,6,name.com,,,
-99ddbf47-0e7e-4f81-ae17-b2a73449817b,real.mobile,premium,1250,,high,medium,4,name.com,,,
-fa708cfe-f729-432a-bc53-b9b54b68cd8e,mum.mobile,premium,2600,2600,high,low,3,namecheap,,,
-f0532382-0fed-4586-953c-3ee309b2ddfd,batman.mobile,premium,375,,high,low,6,name.com,,,
-d0f69dc4-16be-441d-99fb-de0803554176,surfer.mobile,premium,375,,high,low,6,name.com,,,
-99ed7208-dcb4-4202-8eb7-c53b51066d9c,creatively.mobile,available,26.98,,high,low,10,namecheap,,,
-1c433c36-212a-4ff8-b673-3764e20c277d,together.mobile,premium,750,,high,medium,8,name.com,,,
-2b61354c-ceff-46ce-bc84-2989c22f86c2,really.mobile,premium,9375,,high,low,6,name.com,,,
-e99e8fe5-857d-4b0f-ae36-3f0ab4e6db72,prudent.mobile,premium,750,,high,low,7,name.com,,,
-713615be-7a2a-4484-98a0-696bd5b9043d,courtroom.mobile,premium,750,,high,low,9,name.com,,,
-a399be2f-89bf-475c-94f4-3b14c6d39409,original.mobile,premium,750,,high,low,8,name.com,,,
-fc3265e8-480d-4b9a-86ef-4b308ffc9f16,taken.mobile,premium,375,,high,low,5,name.com,,,
-d63f3bac-62f7-4b0e-b3f3-49e7f23eac85,brook.mobile,premium,375,,high,low,5,name.com,,,
-fce8fe48-4e0c-4c2a-b0c5-c15e687aa5d2,suspect.mobile,premium,750,,high,low,7,name.com,,,
-10e806ee-9d0b-4239-ad5c-f14d48e0f450,proud.mobile,premium,375,,high,low,5,name.com,,,
-af33e04f-2eb0-4d7b-80b8-ac53d40b1124,wharf.mobile,premium,375,,high,low,5,name.com,,,
-5e3a3ac8-fbfa-4360-8029-47a774e79cf5,upper.mobile,premium,375,,high,low,5,name.com,,,
-6eaf8a89-8a59-4316-af7e-2053bb9e9e64,fish.mobile,premium,375,,high,low,4,name.com,,,
-eac9c8eb-da5f-46e8-bd44-2a08f6538430,seaside.mobile,available,26.98,,high,low,7,namecheap,,,
-a229e248-5744-490c-8244-1c80083d3847,totaled.mobile,available,26.98,,high,low,7,namecheap,,,
-56b19363-3dd4-4c48-ae31-133ddf34daad,propose.mobile,premium,750,,high,low,7,name.com,,,
-aba60095-d597-4c84-bd53-5aa28d3644bd,job.mobile,premium,1250,,high,low,3,name.com,,,
-b45a3ea1-20ae-49f8-b3b9-5d3d64e77ec8,cows.mobile,premium,375,,high,low,4,name.com,,,
-a46af0fb-e487-484c-8431-c1c6df7b858a,bridges.mobile,premium,375,,high,low,7,name.com,,,
-b08340cf-93aa-4fea-8bb9-5523cfa029eb,curry.mobile,available,26.98,,high,low,5,namecheap,,,
-a34335e7-bb2c-4c53-bea4-eac1e4ddb14f,gramme.mobile,premium,375,,high,low,6,name.com,,,
-94d225f0-fd81-4af2-9818-e2a4f9be807e,tub.mobile,premium,750,,high,low,3,name.com,,,
-a8a5f934-dcee-4874-9d77-37fcf0f778e7,then.mobile,premium,375,,high,low,4,name.com,,,
-37170d5e-5233-4e11-abf9-c4cd994a2891,however.mobile,premium,750,,high,low,7,name.com,,,
-db3601d8-be03-48d3-80de-0811184d7ac2,layer.mobile,premium,375,,high,low,5,name.com,,,
-b04c5d59-63f7-4fd0-b3d4-3bbb31f6f6d6,annoy.mobile,premium,375,,high,low,5,name.com,,,
-89cfb395-21d6-4888-8163-aded9d2391cd,greatly.mobile,premium,750,,high,low,7,name.com,,,
-63147830-0def-4eaf-b085-be5b90300b0a,spacious.mobile,premium,750,,high,low,8,name.com,,,
-82e2270c-2394-4fee-b201-401d8635c2b5,disclosure.mobile,premium,750,,high,low,10,name.com,,,
-2e6476ce-6c10-4a2d-bff8-0344917bceef,stability.mobile,premium,750,,high,low,9,name.com,,,
-f4c162da-3b43-415b-909e-cf7d6eed3d2c,clowning.mobile,available,26.98,,high,low,8,namecheap,,,
-fc74c3d0-f2c6-4db1-ad19-e8c956e28af9,urban.mobile,premium,750,,high,low,5,name.com,,,
-34eb754f-2c8c-4cdf-8e57-b64cedf2528f,organ.mobile,premium,375,,high,low,5,name.com,,,
-a267d33a-ef8b-4d8d-9fe4-8737f32b8dcc,chanukkah.mobile,premium,750,,medium,low,9,name.com,,,
-647f6383-01e0-42c1-b1e7-953603c17285,priceless.mobile,premium,750,,high,medium,9,name.com,,,
-0a3c26b4-8437-4f86-a3c3-2eb2d334914b,slope.mobile,premium,375,,high,low,5,name.com,,,
-a9fe79b3-8d82-4a4a-b09c-849b15bf04e5,fridge.mobile,premium,375,,high,low,6,name.com,,,
-81dde045-b0e3-4b2d-9326-166693c1d976,table.mobile,premium,1250,,high,low,5,name.com,,,
-5e38cb4e-0360-42c3-995f-0262c132b4a6,velvet.mobile,available,26.98,,high,low,6,namecheap,,,
-76f6041f-d1c8-4867-9a72-65d3ac816f62,soup.mobile,premium,375,,high,low,4,name.com,,,
-fbc6d942-68d3-4b65-81c9-0b5b04c95b16,buying.mobile,premium,750,,high,low,6,name.com,,,
-c6006bdf-c3bc-4f37-981c-f6b0bfadec76,employer.mobile,premium,750,,high,low,8,name.com,,,
-3a4d1b2f-67a7-4dea-89cc-9f97f49c2408,discomfort.mobile,premium,750,,high,low,10,name.com,,,
-94721786-9836-416a-9c62-f056b5a21720,potato.mobile,premium,375,,high,low,6,name.com,,,
-d947ada9-92b3-42b2-b61e-d9af140c5855,actively.mobile,premium,750,,high,low,8,name.com,,,
-0f315cd4-fe5a-456e-b509-ebb36fcb6231,useful.mobile,available,26.98,,high,low,6,namecheap,,,
-17db7c85-500e-4289-958a-518db89f4719,scrub.mobile,premium,375,,high,low,5,name.com,,,
-3bb396e9-81a4-42c2-aad3-9409333631a1,nobody.mobile,premium,750,,high,low,6,name.com,,,
-2a9cf41c-e211-470b-bc23-3bb56c5db57b,chorus.mobile,premium,750,,high,low,6,name.com,,,
-31cd570a-1124-457a-ab87-eb79207a96c8,sound.mobile,premium,375,,high,low,5,name.com,,,
-03ae63cd-8798-4ec5-916f-d6440439f8c9,besides.mobile,premium,750,,high,low,7,name.com,,,
-f09966c4-774e-4966-88a4-80f58a2e4830,massive.mobile,premium,780,780,high,low,7,namecheap,,,
-f2aa2369-74ad-4735-90b8-36432e8db141,advocate.mobile,premium,750,,high,low,8,name.com,,,
-df8355f8-29a9-4462-b4b9-b174d4a62ee5,squall.mobile,available,26.98,,high,low,6,namecheap,,,
-3f862e67-f41e-4405-9ef8-8db9908e9ffa,awarding.mobile,available,26.98,,high,low,8,namecheap,,,
-61d7a680-ebbc-4766-a67b-6221ba6bc505,poisoning.mobile,premium,750,,high,low,9,name.com,,,
-df7e9643-cac5-4342-93b4-1755f5ec3eab,coast.mobile,premium,375,,high,low,5,name.com,,,
-8f5fe491-2612-4940-adde-2b2c5f5d692e,utterly.mobile,premium,750,,high,low,7,name.com,,,
-09f973bf-c383-4e92-b05e-f91206eb4f82,camo.mobile,premium,375,,high,low,4,name.com,,,
-03e073fd-285e-4a4f-a139-c30b676d1d12,returning.mobile,available,26.98,,high,low,9,namecheap,,,
-730fa025-739d-4393-ab52-c7694109797a,married.mobile,premium,750,,high,low,7,name.com,,,
-db4f9122-828c-409f-a4c7-c160fd228e4a,marked.mobile,premium,375,,high,low,6,name.com,,,
-3688b365-9d90-4dbe-9327-3d09879262b9,wound.mobile,premium,375,,high,low,5,name.com,,,
-541c7364-559f-4d50-9a81-9c774733f3ee,ally.mobile,premium,375,,high,high,4,name.com,,,
-f297e99d-065b-4a7b-8faa-3a49640ade9f,gently.mobile,premium,375,,high,low,6,name.com,,,
-b726fdbb-3e4a-4b6f-bd02-b139228eda02,recipient.mobile,premium,750,,high,low,9,name.com,,,
-0bb58aa9-26ed-40f9-89e4-9cd4699bf04c,sink.mobile,premium,750,,high,low,4,name.com,,,
-671853b1-4736-4524-8703-eb76d7fd5732,toll.mobile,premium,375,,high,medium,4,name.com,,,
-7a3655e1-bccc-4b9d-858d-d59e9816e884,james.mobile,premium,375,,high,medium,5,name.com,,,
-130d40bf-67da-4e04-a167-680ecb46dc61,preference.mobile,premium,750,,high,low,10,name.com,,,
-c688e4fa-6a02-4625-a6d9-4a1e7cdad99e,sufficient.mobile,premium,750,,high,low,10,name.com,,,
-1b99d319-d1dc-4fd3-ad51-798fdf4efac0,legion.mobile,premium,750,,high,low,6,name.com,,,
-a8eaf7c5-74e7-452d-a831-94ff7a4b3bc9,blockade.mobile,premium,750,,high,low,8,name.com,,,
-d6adcd69-8bcd-457c-8298-3200d330ba39,surfboard.mobile,premium,1250,,high,low,9,name.com,,,
-47e72d9b-cd21-4dc3-aa4f-aa5c6541fd5a,tune.mobile,premium,375,,high,low,4,name.com,,,
-c04d9d8e-b59a-4cec-a85d-92e85680b304,diva.mobile,premium,375,,high,low,4,name.com,,,
-44e5eda0-d0fc-4861-911d-3e6d9c21fe65,marvel.mobile,premium,1250,,high,low,6,name.com,,,
-6007d32e-af7e-4f07-8b4c-6408cf7cf3bf,humorous.mobile,available,26.98,,high,low,8,namecheap,,,
-e1d1deda-90de-40cd-a4e6-ede92fa9b60a,siberian.mobile,premium,750,,high,low,8,name.com,,,
-6b25df62-2948-426a-96c1-efe3e277bc2a,words.mobile,premium,375,,high,low,5,name.com,,,
-bac1ace1-7713-4b53-b215-40650a19832e,supported.mobile,available,26.98,,high,low,9,namecheap,,,
-6cb115a3-7aee-41ac-8def-d5aef912a02b,cap.mobile,premium,1250,,high,low,3,name.com,,,
-b115a37e-6ada-46a9-bafa-a647555d296e,find.mobile,premium,375,,high,medium,4,name.com,,,
-7c591d98-de6a-4794-a1e7-9aed82d95edf,want.mobile,premium,2500,,high,low,4,name.com,,,
-ce7bc973-a20b-4a43-b906-b9d26245cc2b,plug.mobile,premium,375,,high,low,4,name.com,,,
-56ddf724-a83f-4d32-8a6c-171eb436edea,successful.mobile,premium,375,,high,low,10,name.com,,,
-fc8ed37e-37c2-4688-982d-af7596ba5834,increasing.mobile,premium,750,,high,low,10,name.com,,,
-e479b3ed-6b18-4cb6-b653-abee1e4bf30a,sniff.mobile,premium,375,,high,low,5,name.com,,,
-48a6e55e-167d-4c65-bcd4-48a589ac2d97,bridget.mobile,available,26.98,,high,low,7,namecheap,,,
-ab5118d7-32fd-41c2-b5e4-80cdf92fae0b,remember.mobile,premium,750,,high,low,8,name.com,,,
-343f5ead-4664-4970-a16f-5799537026d5,pardon.mobile,premium,375,,high,low,6,name.com,,,
-119ea3df-ac81-4a36-9b9e-338e43b64c43,complement.mobile,premium,750,,high,low,10,name.com,,,
-0364dd3e-d55d-4619-b21a-bbe504fa4e70,monday.mobile,premium,375,,high,low,6,name.com,,,
-e7fa91a0-092a-499e-a60e-3233574e4794,feeling.mobile,premium,375,,high,low,7,name.com,,,
-1b6a4f9c-4e1a-4785-b941-754de6cb5d91,pig.mobile,premium,375,,high,low,3,name.com,,,
-fe420a08-2952-4a65-bfcc-b5280d9b2f0b,disparity.mobile,available,26.98,,high,low,9,namecheap,,,
-12931143-7a02-486c-a039-03fae37fb7fd,specific.mobile,premium,750,,high,low,8,name.com,,,
-c9d56596-0411-4ada-89c6-d85f89848f62,may.mobile,premium,2500,,high,low,3,name.com,,,
-0dc8b12f-e599-4307-91c9-47526206a8af,enjoy.mobile,premium,375,,high,medium,5,name.com,,,
-b8215970-a124-4dad-9b55-4daf5040b944,refreshed.mobile,available,26.98,,high,low,9,namecheap,,,
-7149811f-f88e-4d1a-8438-2bcc50e5b8ec,unplug.mobile,available,26.98,,high,low,6,namecheap,,,
-df69f6a9-1436-4209-9d07-80fd67183a73,mist.mobile,premium,375,,high,low,4,name.com,,,
-9de0c154-103f-40e9-ab27-6236a78dd5b3,height.mobile,premium,390,390,high,low,6,namecheap,,,
-4df403d5-1844-4113-afe4-53867de15adb,mission.mobile,premium,750,,high,medium,7,name.com,,,
-6e11d516-1118-48a9-929d-7934e93b47f8,taxation.mobile,premium,375,,high,low,8,name.com,,,
-13302ec0-d6c3-4807-8e95-87e57eba2a18,wording.mobile,premium,750,,high,low,7,name.com,,,
-7aadeceb-bcd5-4350-8bba-f952df40f368,rust.mobile,premium,375,,high,low,4,name.com,,,
-f8643db8-4441-43eb-b50d-4d4c21f933b4,literally.mobile,premium,750,,high,low,9,name.com,,,
-82fba8d6-7dc1-4da4-bc1e-46a2e164c64f,montreal.mobile,premium,375,,high,low,8,name.com,,,
-87775609-e0a1-4dae-8aa8-d72d0d8ebd14,supposedly.mobile,premium,750,,medium,low,10,name.com,,,
-ce2741b0-6b54-4725-b747-3b044cf8ad56,obvious.mobile,premium,750,,high,low,7,name.com,,,
-62d4c53f-a4f6-43a4-b043-9e351ba6f697,occasion.mobile,premium,750,,high,low,8,name.com,,,
-3b6b3f77-83be-4512-8dd2-ff8b6d98a1b0,preserved.mobile,available,26.98,,high,low,9,namecheap,,,
-f5339abb-accc-4e9e-acdd-b6d622f17c01,struggle.mobile,premium,750,,high,low,8,name.com,,,
-27465bf4-d989-4e7d-91ea-486079ee9b19,motivation.mobile,premium,390,390,high,low,10,namecheap,,,
-ed34cda6-4165-4307-8aa2-ce9d2ae08db6,whip.mobile,premium,375,,high,low,4,name.com,,,
-83bc103d-e743-460b-ab0f-1b4c110465b5,perfect.mobile,premium,375,,high,low,7,name.com,,,
-303b19cd-2c09-4cc2-88ab-d86567839849,adam.mobile,premium,375,,high,high,4,name.com,,,
-f7b0ea58-3e61-472d-88ba-622ed8bb2181,normandy.mobile,premium,750,,high,low,8,name.com,,,
-7dfc3ceb-e437-483f-891c-369d30d59a28,miracle.mobile,premium,750,,high,low,7,name.com,,,
-128bc326-7d9d-426f-a0f6-eb81c244cd61,longitude.mobile,premium,750,,high,low,9,name.com,,,
-e118d36e-199f-41ca-9e40-03cb94f569cc,diploma.mobile,premium,750,,high,low,7,name.com,,,
-1492201b-63ff-4b5f-9d7d-4bb372798a17,reversed.mobile,available,26.98,,high,low,8,namecheap,,,
-786d274b-ac72-42bb-b851-35ca8cb94245,surprised.mobile,premium,750,,high,low,9,name.com,,,
-ca4c5181-f687-4ab1-8067-7012f987f813,sneeze.mobile,available,26.98,,high,low,6,namecheap,,,
-c1a49b2e-c142-44b6-bf1c-6915ce579e1b,bubble.mobile,premium,1250,,high,low,6,name.com,,,
-ea7f00a4-ad1d-4f47-be2e-83a2d3dc8ad1,incline.mobile,available,26.98,,high,low,7,namecheap,,,
-55745b17-197d-470d-99bd-8e58b17dc90b,perfected.mobile,available,26.98,,high,low,9,namecheap,,,
-9748b4d3-c8c7-421b-b770-f34e746fc1ff,lecture.mobile,premium,750,,high,low,7,name.com,,,
-f654e9c4-7790-47f6-b1c5-d3511557db41,protest.mobile,premium,750,,high,low,7,name.com,,,
-424d1ece-92aa-4bf1-ac1b-ee278d91a45b,solvable.mobile,available,26.98,,high,low,8,namecheap,,,
-46459956-6f18-4259-a7a3-655e3b260836,maintained.mobile,available,26.98,,high,low,10,namecheap,,,
-8dd0bac7-854a-4261-a999-55f5e2cbe89c,leadership.mobile,premium,750,,high,low,10,name.com,,,
-10a07325-a80d-4835-ac2d-be8d0b395968,jupiter.mobile,premium,375,,high,low,7,name.com,,,
-cbcec929-4439-4c1b-a8a8-cb8e48fe3719,pin.mobile,premium,2500,,high,low,3,name.com,,,
-a1905f53-3a39-4578-bb71-3ee37ffd9976,sexual.mobile,premium,2500,,high,low,6,name.com,,,
+febfc2e2-fcc2-4334-91e5-b09465f60aa4,einstein.mobile,premium,375,,high,low,8,name.com,,,
+53a80acb-cddb-4b17-88a2-35a1d9248978,newbie.mobile,available,22.98,26.98,high,low,6,namecheap,,,24/09/2026 19:51
+e8480b8d-30d5-4fff-b3d0-30f214ea7b48,windless.mobile,available,22.98,26.98,medium,low,8,namecheap,,,13/09/2026 12:14
+329902ff-f377-4d52-8f66-f246183868a6,outpouring.mobile,available,22.98,26.98,high,low,10,namecheap,,,22/09/2026 07:58
+8ccd6e34-33ce-4103-b0b4-3555cf85a7d9,hearts.mobile,premium,375,,high,low,6,name.com,,,
+5aeb3b8b-00d6-41a3-b209-54038f8434f9,blackbeard.mobile,available,22.98,26.98,medium,low,10,namecheap,,,24/09/2026 02:06
+5758f5da-5856-4160-a721-e44ae2b36ac6,clastic.mobile,available,22.98,26.98,high,low,7,namecheap,,,12/08/2026 09:56
 aa94cbf0-f5bf-4e5e-bca1-6279b2e5d2c8,cleverly.mobile,available,26.98,,high,low,8,namecheap,,,
-fffd547a-2a44-48db-ace5-4973a0494e3b,advert.mobile,premium,750,,high,low,6,name.com,,,
-262d26e2-75d2-44d9-b6c7-0fbae8188959,condo.mobile,premium,375,,high,low,5,name.com,,,
-50cbbb74-a24d-4f63-ac40-0d05a63c151e,memory.mobile,premium,218.75,,high,medium,6,name.com,,,
-d154076c-05d4-4d7a-b7da-4ff187414160,psychic.mobile,available,26.98,,high,low,7,namecheap,,,
-b611ff44-491d-411e-87b2-2016665f2a38,choose.mobile,premium,375,,high,low,6,name.com,,,
-1e864bf6-c45b-4f99-b604-b5fef902b317,crossroads.mobile,premium,750,,high,low,10,name.com,,,
-1a40a1c5-53f8-4cd0-93f4-2e6411b73fe9,receipts.mobile,premium,750,,high,low,8,name.com,,,
-9cdd35d8-4be4-43df-9944-b82bf626e5bc,boat.mobile,premium,1250,,high,low,4,name.com,,,
-f3175c0b-599d-42fd-9496-71f23bb2d083,nearly.mobile,premium,750,,high,low,6,name.com,,,
-6f33fc2c-b48c-49b1-bd09-233d8ff5d850,province.mobile,premium,375,,high,low,8,name.com,,,
-de695dd3-4b62-44a1-aad2-ce05ff258e39,marines.mobile,premium,750,,high,low,7,name.com,,,
-6afc4d82-bca9-40ab-bf3b-02135418d8d1,years.mobile,available,26.98,,high,low,5,namecheap,,,
-7224147a-d925-42e9-9ccd-c60af066244a,driver.mobile,premium,375,,high,low,6,name.com,,,
-a06e18c3-4d37-426c-9618-6c09cd688711,allergy.mobile,premium,750,,high,low,7,name.com,,,
-2d99c94e-268a-40b0-8ab3-d81e7c924fbd,travelled.mobile,available,26.98,,high,low,9,namecheap,,,
-c367b6ad-6e45-477f-b892-14f14ae7fa00,shooting.mobile,available,26.98,,high,low,8,namecheap,,,
-78b03e44-cfcf-4b0a-a8f3-fd7650875c2a,getting.mobile,premium,375,,high,low,7,name.com,,,
-925a8bab-e333-4201-b3e9-002dc6d7085d,consultant.mobile,premium,1250,,high,low,10,name.com,,,
-56debf04-5df2-4674-9584-9b7a9f36637c,explorer.mobile,premium,1250,,high,low,8,name.com,,,
-d4bbb462-55d2-4a8d-b881-7dfdc4ff28e2,outlet.mobile,premium,1250,,high,low,6,name.com,,,
-de0e62fc-889c-4bd6-bbe3-a7ade82e8e74,sauna.mobile,premium,100,,high,low,5,name.com,,,
-be0c2fb2-5e4a-4ab4-bafe-9f256e658a7d,pretending.mobile,premium,750,,high,low,10,name.com,,,
-9527cda1-27b2-4936-82e7-9698a2cdfcea,sit.mobile,premium,375,,high,low,3,name.com,,,
-1a398438-1a1f-4779-910d-0c5b2675d4e2,wife.mobile,premium,2500,,high,low,4,name.com,,,
-11d05996-abb1-4d7b-9b7e-366eb80a39cc,psyche.mobile,available,26.98,,high,low,6,namecheap,,,
-4b95868b-257f-4259-b087-007fd7705829,attachment.mobile,premium,750,,high,low,10,name.com,,,
-b717e402-bae7-4b25-bce5-e95fd6b03bf1,inviting.mobile,available,26.98,,high,low,8,namecheap,,,
-91ab1f6e-17c2-46a2-8bc2-ed669622d38c,selfish.mobile,premium,750,,high,low,7,name.com,,,
-551acd9d-ee42-4359-8ae6-3c13fa6036fd,usa.mobile,premium,2500,,high,medium,3,name.com,,,
-8cc66b0b-3c11-4d72-905d-e8fcd2a69692,conspiracy.mobile,available,26.98,,high,low,10,namecheap,,,
-4bf6681e-9897-45cf-adf5-e8e948468eb6,paperback.mobile,premium,750,,high,low,9,name.com,,,
-db600992-74c4-44a6-b754-b2c3326c2564,profound.mobile,premium,750,,high,low,8,name.com,,,
-74cd188a-46f8-4fb5-940d-663abb288176,philip.mobile,premium,375,,high,low,6,name.com,,,
-f21c07a9-4001-4eea-bc12-0b273fd14216,speak.mobile,premium,375,,high,low,5,name.com,,,
-9a341ced-d620-41bb-be39-82888ede5df2,briefly.mobile,premium,375,,high,low,7,name.com,,,
-6088fa0b-2ca5-46ba-b209-3c9568a7ffaf,recent.mobile,premium,750,,high,low,6,name.com,,,
-17a81b0c-5406-48b3-b4b7-2894d43491b0,reception.mobile,premium,750,,high,low,9,name.com,,,
-72eb5ae3-98a3-4bc5-956f-e95472fd8b58,privileged.mobile,premium,750,,high,low,10,name.com,,,
-d1de4a10-ed7e-4740-9ef2-07595a63703b,very.mobile,premium,375,,high,low,4,name.com,,,
-da207fea-914e-4c30-a814-5b44076ace32,heel.mobile,premium,750,,high,low,4,name.com,,,
-2ce1ed56-4214-45a4-a454-888d562ffa8f,dad.mobile,premium,2500,,high,low,3,name.com,,,
-7ba7c070-3563-4df8-9731-79fa0329dd1a,country.mobile,premium,375,,high,low,7,name.com,,,
-7a3d35b7-8913-45fb-b26a-400a1d7247bb,give.mobile,premium,100,,high,low,4,name.com,,,
-2b1a2c10-c851-4ed6-8cb0-3373a6f9a307,medication.mobile,premium,750,,high,low,10,name.com,,,
-81e20dda-c887-4fba-a730-91108423a34f,psychology.mobile,premium,750,,high,low,10,name.com,,,
-929b9332-e389-4fbf-9ec8-a410a0d8df05,respectful.mobile,available,26.98,,high,low,10,namecheap,,,
-ff8f17f5-8490-4a9e-b18a-23e0791703c8,protective.mobile,premium,750,,high,low,10,name.com,,,
-150fd9b7-74ca-4c70-b4c1-7cf901fbfe7b,pivot.mobile,available,26.98,,high,low,5,namecheap,,,
-a39850d7-0bad-4d49-b288-2afc44045be5,plentiful.mobile,premium,750,,high,low,9,name.com,,,
-63e9274a-d41f-4f61-a35e-47ef1970cebe,north.mobile,premium,390,390,high,low,5,namecheap,,,
-e4920527-49d4-4e2c-9a9e-56d67e775cf4,consent.mobile,premium,780,780,high,low,7,namecheap,,,08/09/2026 13:17
-d34d59b7-6603-4649-94bb-64ca368d4c7f,meantime.mobile,available,26.98,,high,low,8,namecheap,,,
-9920a807-44f1-4791-b47f-51e4e384db77,oakland.mobile,premium,750,,high,low,7,name.com,,,
-78ff5d7f-5512-4f2f-a6a3-765a2af34735,premiere.mobile,premium,750,,high,low,8,name.com,,,
-58c291ef-a2af-454c-b1a7-966190e4f6f8,newton.mobile,available,26.98,,high,low,6,namecheap,,,
-b5cf6422-e110-40c6-8ecb-533459082179,press.mobile,premium,375,,high,low,5,name.com,,,
-11879dee-4ace-4ff5-831b-49e6e6deccc1,problem.mobile,premium,218.75,,high,low,7,name.com,,,
-ab6418f4-072b-4219-8a80-ae678bcd68b3,terrified.mobile,available,26.98,,medium,low,9,namecheap,,,
-8d2f8e9e-d765-4a4b-8e75-16b400f2a509,laziness.mobile,available,26.98,,medium,low,8,namecheap,,,
-ea7f56db-7164-421c-932c-ab5c166eb398,harm.mobile,premium,375,375,high,low,4,name.com,,,08/09/2026 07:44
-e6835b71-c9a4-414d-a6aa-c1aa9929e5da,safety.mobile,premium,390,390,high,low,6,namecheap,,,08/09/2026 08:04
-18d9b71f-9f4e-48ba-b544-8dd1ec5b51f7,carry.mobile,premium,375,,high,low,5,name.com,,,
-e8990949-1d99-48e5-a371-2064ded3d514,plastic.mobile,premium,780,780,high,low,7,namecheap,,,
-fddf0b3c-befe-4c18-9396-fd4720023fa7,modest.mobile,premium,750,,high,low,6,name.com,,,
-0ccc6330-0b39-4a80-affe-aa68d5a110a8,analyze.mobile,premium,750,,high,low,7,name.com,,,
-e9dc1d6f-be57-439f-9ea9-7dce0d1e163e,atop.mobile,premium,375,,high,low,4,name.com,,,
-de751e56-eddc-4f0b-a3ca-2e56407b5c2b,tile.mobile,premium,1250,,high,low,4,name.com,,,
-d6966cfe-2800-4ba1-97be-e1b9eb07290d,relations.mobile,premium,750,,high,low,9,name.com,,,
-dda1b662-7bfe-416a-b4bb-531a731f0af1,cassette.mobile,available,26.98,,high,low,8,namecheap,,,
-775247d5-5509-4964-a9ee-cda7f892f245,grocery.mobile,premium,780,780,high,low,7,namecheap,,,08/09/2026 13:48
-75ad655d-70aa-4c56-8841-f16b38152c2f,meaning.mobile,premium,390,390,high,low,7,namecheap,,,
-c54a91f4-55fd-435e-bfd5-2a8329e8cd41,bonus.mobile,premium,375,,high,low,5,name.com,,,
-6520b868-d7aa-42d2-a0a6-a3f1f3b465b7,story.mobile,premium,390,390,high,medium,5,namecheap,,,
-a89962cb-f121-4035-b535-084f277a1b73,parent.mobile,premium,750,,high,low,6,name.com,,,
-552b6ac3-0025-4cb5-8683-30cd759c73be,retracted.mobile,available,26.98,,high,low,9,namecheap,,,
-1a42238d-d3ca-4dec-b50a-bbe81c8b91b5,largely.mobile,premium,750,,medium,low,7,name.com,,,
-af000cea-0e68-4749-810c-695b251160d9,manual.mobile,available,26.98,,high,low,6,namecheap,,,
-26f4f3e1-6f37-4fea-bb89-380121bb89ef,saint.mobile,premium,390,390,high,low,5,namecheap,,,
-99e58ca9-12e4-466b-813c-3cff73f0c666,birthday.mobile,premium,375,,high,low,8,name.com,,,
-db5a9bfe-ab4f-441d-af7c-03384424e486,invitation.mobile,premium,750,,high,low,10,name.com,,,
-c5ef4eb2-c098-4e32-b01e-54f1ebf09c96,barbeque.mobile,premium,1250,,high,low,8,name.com,,,
-e4de8b3f-dd6f-4442-beee-7597784aa5f9,seriously.mobile,premium,750,,high,low,9,name.com,,,
-80904b3e-5e63-4d1e-a96e-8c589a33d2ac,suffer.mobile,premium,750,,high,low,6,name.com,,,
-5dba35f6-cd87-453c-995c-4d2acaad908f,tax.mobile,premium,750,,high,medium,3,name.com,,,
-f63f7b39-6510-4c62-a21b-3871b47d70e2,bali.mobile,premium,375,,high,medium,4,name.com,,,
-0ffd8060-2f5d-4014-9459-b5901c687d6a,stepson.mobile,available,26.98,,high,low,7,namecheap,,,
-a248fb50-2099-46e5-89c0-5c7aa52a43e0,gene.mobile,premium,375,,high,low,4,name.com,,,
-03253f69-8f58-472d-9a53-193070e3685b,oversight.mobile,premium,750,,high,low,9,name.com,,,
-7b01b735-d139-4787-9662-5122c88168c4,tin.mobile,premium,1250,,high,low,3,name.com,,,
-fb1ea642-c228-4558-8979-d536b3aee59a,facet.mobile,premium,375,,high,low,5,name.com,,,
-056add58-c04d-42f5-86c1-b5800247d34d,price.mobile,premium,375,,high,low,5,name.com,,,
-a8e4a5e3-db3d-4d06-b9b9-591205bafb81,cent.mobile,available,26.98,,high,low,4,namecheap,,,
-a3db38b0-6b51-44f2-833c-a7af55194d9a,describe.mobile,premium,750,,high,low,8,name.com,,,
-9c33fed7-d1ea-4669-bd38-8ef3351b5eab,wear.mobile,premium,218.75,,high,low,4,name.com,,,
-662b745f-e6d6-4e33-a68e-0ae87a013f42,detroit.mobile,premium,375,,high,low,7,name.com,,,
-fabc4336-9dd5-4f9c-8960-607e53ce2113,section.mobile,premium,780,780,high,low,7,namecheap,,,08/09/2026 06:07
-0ae2962b-a7d7-4a78-8931-0b8e5721c0c7,tomato.mobile,premium,375,,high,low,6,name.com,,,
-3160b24e-e2c9-4e52-869b-6024bd4f8478,vary.mobile,premium,390,390,high,low,4,namecheap,,,
-ca527d79-48f9-4e99-bc9b-d5e3a6b08d66,actress.mobile,premium,750,,high,low,7,name.com,,,
-c2041b90-c49c-42a8-aa98-a41eeeee47c7,pitfall.mobile,available,26.98,,high,low,7,namecheap,,,
-637399f3-f43d-4ba7-bc57-3058f16e1123,diplomat.mobile,premium,750,,high,low,8,name.com,,,
-cd452849-bdd7-46e3-b2b0-54956cc938c2,supportive.mobile,premium,750,,high,low,10,name.com,,,
-8378f6de-0f7f-4022-9e22-5d74954957f3,suv.mobile,premium,750,,high,low,3,name.com,,,
-a1ae0e38-8016-43c9-b545-74780ab1e4c2,browse.mobile,premium,375,,high,low,6,name.com,,,
-f1213c09-ba7a-4163-b2b9-7ce86673bb74,location.mobile,premium,375,,high,low,8,name.com,,,
-6d1dccbd-9770-4543-bc38-b86e6d2769d1,weave.mobile,available,26.98,,high,low,5,namecheap,,,
-452b3df9-deb9-4ae5-8061-0a80bfeae358,request.mobile,premium,375,,high,low,7,name.com,,,
-6946a4bf-c33b-4594-90e3-71243341ba7c,tell.mobile,premium,1250,,high,low,4,name.com,,,
-ac29f748-67a4-454e-b7e9-5a6bbccf5ac1,defense.mobile,premium,750,,high,low,7,name.com,,,
-f7dee647-da6f-47cb-9a40-3ee514d5d915,grinning.mobile,premium,750,,high,low,8,name.com,,,
-9106d34f-c1b5-4880-b819-c3405a98bd8b,concern.mobile,premium,750,,high,low,7,name.com,,,
-38cea127-c8f4-4c12-92b7-ce4db8511cfa,catch.mobile,premium,375,,high,low,5,name.com,,,
-1273e788-e5b6-40d5-b6aa-88e92268d03c,intrigue.mobile,premium,750,,high,low,8,name.com,,,
-a397eafb-7ad5-4b57-90e6-3a7cd3adc789,kilogram.mobile,available,26.98,,high,low,8,namecheap,,,
-3c4a229b-80be-4a45-b7a9-c4d9a461b4d3,loved.mobile,premium,375,,high,low,5,name.com,,,
-74eb88a0-359a-4c96-bdab-f0ff03d822d9,toy.mobile,premium,1250,,high,low,3,name.com,,,
-7d1decc6-6852-48d5-a1a3-862cf999d293,victim.mobile,premium,750,,high,low,6,name.com,,,
-eae721c2-c4d2-4481-91d7-baaea22680bb,butterfly.mobile,premium,1250,,high,low,9,name.com,,,
-e9481d58-979d-4776-9b46-635f7d661816,stopped.mobile,available,26.98,,high,low,7,namecheap,,,
-a33634ce-0c64-4723-9980-5928febc275e,respected.mobile,available,26.98,,high,low,9,namecheap,,,
-9558bbfc-5421-4f56-b5e4-b1b5781d5a28,located.mobile,available,26.98,,high,low,7,namecheap,,,
-622aa20e-ac4c-4f05-8a55-ed0f9c4e1d6d,block.mobile,premium,218.75,,high,low,5,name.com,,,
-f4216ee8-dacc-436d-bd16-0fc2cec3d838,spirit.mobile,premium,375,,high,low,6,name.com,,,
-bec49d18-084d-4854-9ee1-0bc0dccf8549,fuel.mobile,premium,375,,high,low,4,name.com,,,
-c4e16f78-705d-453f-a966-2cf7d99cc657,marks.mobile,premium,375,,high,low,5,name.com,,,
-c52cae44-e732-4cc2-8764-8f9ea14c5793,stink.mobile,premium,750,,high,low,5,name.com,,,
-5fdbb4ec-3c4a-4d3f-9670-552b98cc71fe,locally.mobile,premium,750,,high,low,7,name.com,,,
-e1dee969-6027-417a-ad75-62eaac9724ec,learn.mobile,premium,375,,high,medium,5,name.com,,,
-4c380d40-1cbe-4d84-bcb3-9c11bbd2d76d,deliver.mobile,premium,375,,high,low,7,name.com,,,
-63922436-0f0e-4b76-a83d-c21abfce420d,polish.mobile,premium,100,,high,low,6,name.com,,,
-896799c7-ccf7-4e39-b389-08c1a6217554,pointless.mobile,premium,750,,high,low,9,name.com,,,
-a8274ff1-1f78-4c93-8c6e-d7f5dad5f0f1,textile.mobile,premium,750,,high,low,7,name.com,,,
-05e49456-da6c-4fa3-89b0-66d133727bbf,snake.mobile,premium,375,,high,low,5,name.com,,,
-4f46251a-f166-496a-b718-4e073ae77a23,cleopatra.mobile,premium,375,,high,low,9,name.com,,,
-ae59e959-a19a-4e17-abc7-0274dbd73a42,judgement.mobile,available,26.98,,high,low,9,namecheap,,,
-80aa73be-91c4-4a88-9fd6-85cdaec4239e,leave.mobile,premium,375,,high,low,5,name.com,,,
-afd8839a-6ebb-49b0-8cfd-cb44633845b6,bacon.mobile,available,26.98,,high,low,5,namecheap,,,
-1fc164e9-4e61-47e6-8664-dac950f1ca43,heaven.mobile,premium,375,,high,low,6,name.com,,,
-40b44fbb-4111-4ed2-aedb-8554fb0d31d7,dracula.mobile,premium,750,,high,low,7,name.com,,,
-c85f8537-8d39-495e-8812-417125747c54,boob.mobile,premium,2500,,high,low,4,name.com,,,
-2e69245e-0d27-4051-8075-131f1502977a,portland.mobile,premium,750,,high,low,8,name.com,,,
-642670d8-2adf-4d9a-8454-ec1e156a29a9,resolute.mobile,premium,750,,high,low,8,name.com,,,
-f5297b6b-30ac-4d84-9142-4fa67b2b1642,cucumber.mobile,available,26.98,,high,low,8,namecheap,,,
-761696ab-65ff-4260-9d24-6b2cbd1f9e2c,die.mobile,premium,2500,,high,low,3,name.com,,,
-215286fe-f204-4027-86ca-e8eab7fa9cb6,loyal.mobile,premium,375,,high,low,5,name.com,,,
-05597ada-13df-4c13-aed1-668564456e3b,piss.mobile,premium,750,,high,low,4,name.com,,,
-f2d3470a-098d-463b-b1aa-f744d289702f,techno.mobile,premium,218.75,,high,low,6,name.com,,,
-537fb897-fd83-49b8-b57d-ab11c90082bc,written.mobile,premium,750,,high,low,7,name.com,,,
-ec09ed26-1cc0-44a3-84a3-46b800f2040c,wounded.mobile,premium,750,,high,low,7,name.com,,,
-9d0ed0e5-13bf-4ba8-a23b-30070375f7bd,galaxy.mobile,premium,218.75,,high,medium,6,name.com,,,
-28f8f85f-800f-4ad7-a45d-ab2c2eaa2dc1,nun.mobile,premium,375,,high,low,3,name.com,,,
-ab6661b5-b919-475f-afb5-dd335160c39a,quite.mobile,premium,375,,high,low,5,name.com,,,
-6d27ec14-d791-4934-a5db-9c0de7add813,testimony.mobile,premium,750,,high,low,9,name.com,,,
-ad599659-1c13-4cdc-83e2-3c66f692557f,rage.mobile,premium,750,,high,low,4,name.com,,,
-3322e218-2f50-4051-b6ee-9a88e399df84,occurrence.mobile,premium,750,,high,low,10,name.com,,,
-4e304190-4468-4284-91cd-3971dc6cb9c8,girth.mobile,available,26.98,,high,low,5,namecheap,,,
-19223e53-8f09-43d8-a221-f4390d535969,nature.mobile,premium,390,390,high,low,6,namecheap,,,08/09/2026 02:43
-87154321-4dd3-4b36-a3a7-bd493bafab2f,shear.mobile,premium,375,,medium,low,5,name.com,,,
-b334c5d8-bc8a-4baf-b822-0af2ffc3e2a3,contempt.mobile,premium,750,,medium,low,8,name.com,,,
-ff9e8b15-4346-4a9b-a7d4-b21c8b7d5bde,scarface.mobile,available,26.98,,high,low,8,namecheap,,,
-65cfaa0e-38cc-4aae-8269-eabd635d851c,glitter.mobile,available,26.98,,high,low,7,namecheap,,,
-6778afed-c39c-436f-aa8f-2ee407e85c86,probable.mobile,premium,750,,high,low,8,name.com,,,
-03b18ef1-e525-4eda-8bed-5061a5f81651,wind.mobile,premium,9375,,high,low,4,name.com,,,
-71c09686-a7a3-4ecd-ac54-376b0333efcf,yelled.mobile,available,26.98,,high,low,6,namecheap,,,
-f7b0477a-e4e4-4d52-8bd9-a6fdf34db444,chairman.mobile,premium,750,,high,low,8,name.com,,,
-234cc78c-bf8f-4fa0-bdcf-728d0a644da2,ocean.mobile,premium,375,,high,low,5,name.com,,,
-91adf929-b371-4dc2-a077-864afddeda6e,pretense.mobile,premium,750,,high,low,8,name.com,,,
-6a3363a5-7ab2-4e6c-b58b-3d90833eed50,glasses.mobile,premium,375,,high,low,7,name.com,,,
-2a6bbdd4-9e02-48e1-9cb4-ab7fce41b4fb,equally.mobile,premium,750,,high,low,7,name.com,,,
-68b171b1-4106-4a02-9777-b4bf89a7e722,goat.mobile,premium,375,,high,medium,4,name.com,,,
-ec323f41-a3aa-4e64-a637-50e16b572219,scandal.mobile,premium,1250,,high,low,7,name.com,,,
-69979d85-3e99-4b33-8f1d-88749fe747fd,known.mobile,premium,375,,high,low,5,name.com,,,
-88ba85c6-4bad-4ec5-8f7c-b4054aed24fa,charge.mobile,premium,375,,high,low,6,name.com,,,
-da22aded-8d4f-4c9e-be89-d86d4b4c484a,contest.mobile,premium,750,,high,low,7,name.com,,,
-12d3f41c-9cd2-4f10-ac2b-940b79aff035,scarred.mobile,premium,375,,medium,low,7,name.com,,,
-4480a3f0-b201-47f8-824a-375f3c2826f3,spot.mobile,premium,375,,high,medium,4,name.com,,,
-c09cc9bf-9bd2-4838-82a9-e1927be0ec1c,autumn.mobile,premium,750,,high,low,6,name.com,,,
-53c07389-2dfc-4363-ac0c-1aa5ca7cc1ae,aunt.mobile,premium,375,,high,low,4,name.com,,,
-00c1b055-94be-4373-8bca-f13c4a2aee20,fiction.mobile,premium,750,,high,low,7,name.com,,,
-37076965-eadf-4ccc-a188-27e5d10f7d12,bug.mobile,premium,375,,high,low,3,name.com,,,
-5f8d134b-29f3-48bf-a228-e2cf41f2d05a,jacket.mobile,premium,750,,high,low,6,name.com,,,
-0379b439-9213-4235-8165-efe0dcbde316,risen.mobile,premium,375,,high,low,5,name.com,,,
-25e3d912-5a45-49d9-9926-a45db36854e1,direction.mobile,premium,375,,high,low,9,name.com,,,
-bc5b44d5-7c1c-48da-8bd7-a076c9a33385,made.mobile,premium,375,,high,low,4,name.com,,,
-977819fd-39f9-4231-b149-a1841095388e,usually.mobile,premium,750,,high,low,7,name.com,,,
-021a2649-9541-4297-a1e7-74955ebccd76,clothes.mobile,premium,1250,,high,low,7,name.com,,,
-b52f7634-7488-4f19-acdb-d64b49b6d078,function.mobile,premium,750,,high,low,8,name.com,,,
-af76936e-52fa-4c19-9aa8-246c94497072,waiter.mobile,available,26.98,,high,low,6,namecheap,,,
-1c1b88c2-a8cc-4480-bff9-adf6bda3964c,outcome.mobile,premium,750,,high,low,7,name.com,,,
-9d89d2ae-15ce-422e-a920-aed62ccaf8c0,recording.mobile,premium,750,,high,low,9,name.com,,,
-47f60bb8-d454-4d47-abe4-66726ed86b19,matched.mobile,premium,780,780,high,low,7,namecheap,,,
-f0c014f9-abda-4867-b977-d765cbc45bb3,repeated.mobile,available,26.98,,high,low,8,namecheap,,,
-897deb78-1283-429c-9061-0f87006d6df0,washing.mobile,premium,750,,high,low,7,name.com,,,
-e37f0066-52ca-499b-a253-97188afdea05,afternoon.mobile,available,26.98,,high,low,9,namecheap,,,
-a7cae641-dcaa-4404-938b-baba23e30cf8,town.mobile,premium,375,,high,low,4,name.com,,,
-4a473cf6-7cd2-4207-8e1d-717d171a6e31,holly.mobile,premium,375,,high,low,5,name.com,,,
-9caa7ddf-3189-4e29-989b-da8fe9270b49,deck.mobile,premium,375,,high,low,4,name.com,,,
-6403b040-a22c-45eb-9f15-360de4767264,dilemma.mobile,premium,750,,high,low,7,name.com,,,
-e559f804-bb17-437b-92ee-8cf8c84cb41d,beam.mobile,premium,1250,,high,medium,4,name.com,,,
-b8e2c162-89a5-4ccd-9a43-772e1d81a8ff,details.mobile,premium,750,,high,low,7,name.com,,,
-02916f6f-3dbb-4a58-b693-4c6fd54b2ba9,omit.mobile,available,26.98,,high,low,4,namecheap,,,
-9191c2b6-40ac-42c2-91b2-1f58943e2c54,appearance.mobile,premium,750,750,high,low,10,name.com,,,08/09/2026 12:55
-229ef07f-97a5-4bac-8d2b-682374a8128d,hamilton.mobile,premium,375,,high,medium,8,name.com,,,
-21132b2d-19bd-48bf-b5d9-aa7de979a349,affluence.mobile,available,26.98,,high,low,9,namecheap,,,
-15983ac1-837f-4042-a58a-48c6fa77beaa,jeep.mobile,premium,1250,,high,medium,4,name.com,,,
-99b348ec-90d1-4f52-b8bb-25d41c5f868e,grass.mobile,premium,375,,high,low,5,name.com,,,
-6b08010a-c673-4f0d-89bc-9de606ede5e4,labour.mobile,premium,375,,high,low,6,name.com,,,
-4584e34f-f5fe-4871-8041-94c94b384353,sauce.mobile,premium,375,,high,low,5,name.com,,,
-ebc43a70-8b62-4d1c-b411-1f49dee4a4dc,chin.mobile,premium,375,,high,low,4,name.com,,,
-c756ed3a-1ffa-471b-80ca-3e974c263028,south.mobile,premium,750,,high,low,5,name.com,,,
-827c6bc0-1b6e-4383-b9ad-7c1538361ecc,stress.mobile,premium,750,,high,low,6,name.com,,,
-c1eb91ac-c4b3-41b2-a096-c98bf9110066,portuguese.mobile,premium,750,,high,low,10,name.com,,,
-b4ca0dd5-11bc-4926-b465-13c836efab37,credit.mobile,premium,1250,,high,low,6,name.com,,,
-424339fc-6b79-4d5c-8b2a-6a0c76654832,metre.mobile,available,26.98,,high,low,5,namecheap,,,
-0af78646-1c3e-474e-bd4e-596c1792cd39,other.mobile,premium,375,,high,low,5,name.com,,,
-c74995f4-cd3a-4524-8b11-b64a757a891f,melt.mobile,available,26.98,,high,low,4,namecheap,,,
-aa6cbb02-d2cb-43b5-8337-1445017efd2e,diligence.mobile,premium,750,,high,low,9,name.com,,,
-56363cd6-956a-4ea3-af8c-8ae6d832f451,ana.mobile,premium,2500,,high,low,3,name.com,,,
-965985f8-c8dd-44e0-91d3-3e0ea255d48d,platter.mobile,premium,1250,,high,low,7,name.com,,,
-5dd3d1da-bcec-4cd5-9439-97e0a236fbec,outback.mobile,premium,375,,high,low,7,name.com,,,
-510ce1bd-6178-4d19-8f36-0828eda2d353,orleans.mobile,premium,750,,high,low,7,name.com,,,
-2caae2e7-f3b1-44e1-957f-b4a6092ec5f7,palm.mobile,premium,375,,high,low,4,name.com,,,
-29d37fa2-5e73-4f74-8cce-21441face066,extremely.mobile,premium,750,,high,low,9,name.com,,,
-2ea1f1eb-ec34-4d8e-b058-41424f6614ec,lion.mobile,premium,375,,high,low,4,name.com,,,
-3479e550-4d33-41e3-a9b1-40811e9becc6,politely.mobile,available,26.98,,high,low,8,namecheap,,,
-dcf00eb3-ca0b-44e7-aa23-8d6f03cb02e1,bruise.mobile,premium,375,,high,low,6,name.com,,,
-50ae6e0a-1d05-4a60-8d92-3932f355b7f0,buddy.mobile,premium,750,,high,low,5,name.com,,,
-36edb792-3770-4b00-8dc3-eeba88a9b1f3,jelly.mobile,premium,375,,high,low,5,name.com,,,
-dfe72f8f-e545-4eed-94c6-bc5e2a484214,wooden.mobile,premium,750,,high,low,6,name.com,,,
-fb7524ae-6154-4006-8e54-57f8eb1cfe9a,insect.mobile,premium,750,,high,low,6,name.com,,,
-a42badcc-a949-4102-b11d-8a7006879992,constantly.mobile,premium,750,,high,low,10,name.com,,,
-1a9d4098-225f-4eee-a59c-49e8455dfa20,disconnect.mobile,premium,750,,high,low,10,name.com,,,
-2fbe0ff5-3a20-43a4-88f1-1bf447cd6aaf,identify.mobile,premium,750,,high,low,8,name.com,,,
-af98a3e6-9bde-4a6f-a7a4-a7a4e7b1a1cb,living.mobile,premium,1250,,high,low,6,name.com,,,
-01858156-00d0-4e9c-991e-79657352463c,leaf.mobile,premium,375,,high,low,4,name.com,,,
-8cacb4d3-6bd6-4766-95f5-bbc476579ca8,niece.mobile,premium,375,,high,low,5,name.com,,,
-675ed332-bfa5-485c-8552-ec56ec10fbd1,sneezing.mobile,premium,750,,medium,low,8,name.com,,,
-012977f0-c094-478c-a897-f058669dce41,lockbox.mobile,premium,218.75,,high,low,7,name.com,,,
-68d5f0be-acab-4d81-a94d-2d577442ca7f,wish.mobile,premium,1250,,high,low,4,name.com,,,
-f9d2c5b8-5231-457d-835e-83346c73e8c9,twice.mobile,premium,375,,high,low,5,name.com,,,
-bec8222c-1727-4edb-8b26-8afb42f1cc89,bulb.mobile,premium,750,,high,low,4,name.com,,,
-edf44861-6316-4be4-83a6-5f0cf0b13d44,missile.mobile,premium,750,,high,low,7,name.com,,,
-64e2ecf8-b943-4a03-a7a5-5e84b9ee6536,modelling.mobile,available,26.98,,high,low,9,namecheap,,,
-a268c785-80c5-49ec-814b-5b79b25ddfab,lately.mobile,premium,750,,high,low,6,name.com,,,
-cbdf64de-3d24-40ec-890b-c254bbe42f1d,sleeping.mobile,premium,375,,high,low,8,name.com,,,
-bb140f08-6ca3-4df0-a3aa-f2f623ebf6ff,foot.mobile,premium,375,,high,low,4,name.com,,,
-1ae56929-9302-4f46-b747-032f32d7b89e,unlike.mobile,premium,750,,high,low,6,name.com,,,
-f44f970a-42de-4a9b-9dff-fa260d54dc2d,tree.mobile,premium,375,,high,low,4,name.com,,,
-b45f0e2e-97dc-47f3-b90f-cfe38c233451,wander.mobile,premium,750,,high,low,6,name.com,,,
-6a76ae7d-7672-492d-988b-638f5ea13f53,shelf.mobile,premium,375,,high,low,5,name.com,,,
-0983bc1e-b257-470f-a995-db296cec44ec,mixture.mobile,premium,780,780,high,low,7,namecheap,,,
-ce179f20-b0f6-4e66-abc8-d5142d38420d,period.mobile,premium,375,,high,low,6,name.com,,,
-efbc4bae-ad1e-441c-afa3-2757a6518737,endurance.mobile,premium,750,,high,low,9,name.com,,,
-96ce9fb2-af37-428b-a3ff-8238b8d501a7,barber.mobile,premium,375,,high,low,6,name.com,,,
-93f7456c-0473-4d2d-b3fc-04ed89702d69,soccer.mobile,premium,5000,,high,low,6,name.com,,,
-6d446b56-f857-4ff6-a466-0c2e8b02d11c,deficit.mobile,premium,750,,high,low,7,name.com,,,
-bb6fb38d-0ed0-4a58-90db-b37d51de6b57,watermelon.mobile,available,26.98,,high,low,10,namecheap,,,
-ac1ebae5-d3c5-4625-bc6d-17500a1f17a2,ted.mobile,premium,375,,high,low,3,name.com,,,
-c102f7e9-d1ed-4974-b88d-373f27e62233,overtime.mobile,available,26.98,,high,low,8,namecheap,,,
-b47dad12-fe48-4526-b1f5-623833bad601,gee.mobile,premium,375,,high,low,3,name.com,,,
-0fb477f9-18e0-4549-9ace-f74fe9dee82f,closest.mobile,premium,750,,high,low,7,name.com,,,
-ae33a592-ce79-4399-bc57-71df9fd6559e,setting.mobile,premium,750,,high,low,7,name.com,,,
-81420791-5428-4436-8517-cedc0dbb9b81,overflow.mobile,premium,375,,high,low,8,name.com,,,
-8067ddcb-f09b-4f6b-84ef-793054e699f1,employment.mobile,premium,750,,high,low,10,name.com,,,
-bd4e8974-80ef-4a6e-b820-29b750dfdad9,quote.mobile,premium,375,,high,low,5,name.com,,,
-b764f28d-cd91-4c96-ac62-af16f6d9cc5d,marijuana.mobile,premium,750,,high,low,9,name.com,,,
-91f64008-9381-4e6b-adb5-072ce7e44ab8,lawn.mobile,premium,375,,high,low,4,name.com,,,
-985d0d72-796f-4713-bdc4-51ea87c2e24c,sudden.mobile,premium,750,,high,low,6,name.com,,,
-6bbd4787-f5f6-4926-9913-acb2307183ad,omen.mobile,premium,375,,high,low,4,name.com,,,
-6d69ee3f-09c8-4d96-9a33-7024d1965e4f,limestone.mobile,premium,750,,high,low,9,name.com,,,
-c9aafe0c-517b-4bd7-9465-89c9a8a0816e,profitable.mobile,premium,750,,high,low,10,name.com,,,
-8d01dc26-a871-4e1e-88f9-ead5f62c9f4b,dating.mobile,premium,750,,high,low,6,name.com,,,
-2e7ecf48-e8bd-45e6-9999-ab1fa6a83c2f,thought.mobile,premium,1250,,high,low,7,name.com,,,
-5f8a5dae-c08f-4ba3-aee7-5cdb8ed44956,radar.mobile,premium,375,,high,low,5,name.com,,,
-094541a6-dbd8-4b34-be6f-b973ac7c9088,paint.mobile,premium,1250,,high,low,5,name.com,,,
-a88e4568-2bec-4ad8-b276-7a1bf7f8a709,young.mobile,premium,375,,high,low,5,name.com,,,
-dfa46d01-dc8d-4bfa-8678-f43fb3d8d8bc,friendship.mobile,premium,1250,,high,low,10,name.com,,,
-7b6699e0-5b5e-475c-aaed-877f94addefe,pitching.mobile,premium,750,,high,low,8,name.com,,,
-0b6ceeda-c775-4465-9737-d499c7f1b422,chased.mobile,available,26.98,,high,low,6,namecheap,,,
-c3cf0a7b-1a6b-40c3-8099-15da396aaef8,speech.mobile,premium,375,,high,low,6,name.com,,,
-aa2740d1-4801-4424-98ef-0d1e19b595fe,aloud.mobile,premium,375,,high,low,5,name.com,,,
-d8ddd707-ef2e-4c0a-88a6-9df7372beb32,currently.mobile,premium,1250,,high,low,9,name.com,,,
-34f24d5f-20ab-4396-b7c4-8741dae4a5cd,highly.mobile,premium,750,,high,low,6,name.com,,,
-90f869ae-b330-4ece-8db2-d0b264b4387d,orphan.mobile,available,26.98,,high,low,6,namecheap,,,
-da108f3b-ea7e-462c-be4f-804222b3588f,minimum.mobile,premium,780,780,high,low,7,namecheap,,,
-dd4732e5-ca2a-4d52-8d96-2f356a82982e,southern.mobile,premium,750,,high,low,8,name.com,,,
-d30c5d21-4156-42bb-b3d2-a3f69b9e74ca,take.mobile,premium,375,,high,low,4,name.com,,,
-c9d9aa6d-3c27-4557-99bf-09ffb520333d,roi.mobile,premium,375,,high,low,3,name.com,,,
-1683f247-cdab-480e-af35-d407596bae1f,loosely.mobile,available,26.98,,medium,low,7,namecheap,,,
-a94930c8-ad27-4cc8-9d55-c79dffec3423,panther.mobile,premium,375,,high,low,7,name.com,,,
-8b545427-ed4f-4699-bf37-2bba576fd54e,quickly.mobile,premium,750,,high,low,7,name.com,,,
-37b2aa29-4801-472b-b992-7287e8340fcf,london.mobile,premium,375,,high,medium,6,name.com,,,
-1f9f29d2-a6cc-4aca-a019-9a33a9b290ff,corruption.mobile,premium,750,,high,low,10,name.com,,,
-b95c962f-0f27-4905-b22f-0b3e3aa78ecf,cocoa.mobile,premium,375,,high,low,5,name.com,,,
-744ba310-2efa-460a-925a-f0ebad4087ee,prompt.mobile,premium,750,,high,medium,6,name.com,,,
-4b10c069-4cf5-453a-bbb7-07929d89c48f,religion.mobile,premium,375,,high,low,8,name.com,,,
-e3af973f-0781-4b26-ade4-f0aceac0fbc3,receipt.mobile,premium,750,,high,low,7,name.com,,,
-90a6b290-a4c2-4afa-a915-12007f985630,attend.mobile,premium,750,,high,low,6,name.com,,,
-b83af624-0771-4785-bf5b-e04c8b564ed2,woman.mobile,premium,1250,,high,low,5,name.com,,,
-7a7c7d2d-6ace-41ed-a1de-b0aac8e432fa,delay.mobile,premium,750,,high,low,5,name.com,,,
-7f73de5a-0866-43b7-98f2-dfc98a742fdc,triple.mobile,premium,218.75,,high,low,6,name.com,,,
-0b877a07-ad05-45aa-8e4d-016a82a7f8fb,cooking.mobile,premium,1300,1300,high,low,7,namecheap,,,08/09/2026 08:19
-389c538d-e487-4582-bcc5-d09c4f8cce47,port.mobile,premium,375,,high,low,4,name.com,,,
-e8121493-ed3f-4007-a1a3-95cdcf53704a,reversible.mobile,premium,750,,high,low,10,name.com,,,
-177866b1-715d-4414-a250-b62522128da8,happily.mobile,premium,750,,high,low,7,name.com,,,
-a47080b5-0522-4691-8f35-26c671233eb1,madrid.mobile,premium,375,,high,low,6,name.com,,,
-9b999d11-196f-46db-a940-90bd4e2e73c6,awareness.mobile,premium,750,,high,low,9,name.com,,,
-2326eb71-8ae5-4a17-8151-304257d20bcb,secluded.mobile,available,26.98,,high,low,8,namecheap,,,
-ec50a097-86f4-4ce6-aa8b-a565b1deb2f1,hazard.mobile,premium,750,,medium,low,6,name.com,,,
-260b2f5f-7c4b-4284-b762-fc883ded02fe,mosque.mobile,premium,375,,high,low,6,name.com,,,
-d4cf429d-2639-4243-a19a-82297fc3314c,humanities.mobile,available,26.98,,high,low,10,namecheap,,,
+2e00eefb-34b6-4a3d-8e03-ab9e0eddbd98,sutherland.mobile,available,22.98,26.98,high,low,10,namecheap,,,25/09/2026 04:37
+d8d3ec16-554b-43d3-af30-cea7979765fa,ascription.mobile,available,22.98,26.98,medium,low,10,namecheap,,,20/09/2026 13:27
+d71cd498-dbd4-472f-878c-ae0fdcef988b,ingrowing.mobile,available,22.98,26.98,medium,low,9,namecheap,,,22/08/2026 04:54
+6c5d214b-0021-4d19-952d-13d1a3dc179d,treelike.mobile,available,22.98,26.98,medium,low,8,namecheap,,,06/08/2026 14:01
+c8e72a7a-e0b2-4f4f-a7fa-d0539643779d,armiger.mobile,available,22.98,26.98,medium,low,7,namecheap,,,20/09/2026 06:59
+f701cb66-2f93-46eb-9d13-d004caa5ac89,cetacean.mobile,available,22.98,26.98,medium,low,8,namecheap,,,12/08/2026 01:02
+674d7868-4aef-4d8c-b295-be4fb1bd5bb3,liable.mobile,available,26.98,,high,low,6,namecheap,,,
+5f0db545-b834-4758-bb14-fb690c301bb4,kay.mobile,available,,,high,low,3,,,,26/09/2026 00:52
+cdeacdf4-15ec-4d53-8bb9-cfcfa6066fad,raging.mobile,premium,780,780,high,medium,6,namecheap,,,09/09/2026 09:44
+2012b918-2b2d-4ba7-9f75-a23e92814ff8,kept.mobile,available,22.98,26.98,high,low,4,namecheap,,,25/09/2026 12:27
+8f8d400b-dce0-4ba4-a875-7baecefb4aaf,alcedo.mobile,premium,780,780,high,low,6,namecheap,,,18/09/2026 03:52
+a14ce7d1-2cf8-4367-a722-df778619125b,unwed.mobile,available,22.98,26.98,medium,low,5,namecheap,,,12/09/2026 22:35
+9441f7f8-0c55-41ec-baa9-4989d137d7b2,rallying.mobile,available,22.98,26.98,high,medium,8,namecheap,,,09/09/2026 09:56
+e4c913be-a971-41a7-96ef-18966ab1e97c,bellows.mobile,premium,780,780,high,low,7,namecheap,,,23/09/2026 06:26
+5173db93-021e-47fd-a74c-9acb031065a1,perinatal.mobile,available,22.98,26.98,medium,low,9,namecheap,,,08/09/2026 17:07
+17189d12-222b-4ca5-a08f-b2e6defcb971,unheralded.mobile,available,22.98,26.98,medium,low,10,namecheap,,,12/09/2026 00:42
+d550e10e-2806-464f-852c-699fa258c25d,upc.mobile,premium,420,420,high,low,3,namecheap,,,
+d64ea893-e168-4e48-88bf-c93cf8b4e4ab,ooze.mobile,premium,390,390,high,low,4,namecheap,,,04/09/2026 15:40
+457404ec-f247-4699-b7ef-5596d3cf08e6,redemptory.mobile,available,22.98,26.98,high,medium,10,namecheap,,,09/09/2026 12:20
+70f13ea4-4404-450d-a6ea-f8c016f082cb,awakening.mobile,premium,750,,high,low,9,name.com,,,
+a0646f30-dab9-49f7-ae27-20cbaa313535,feeder.mobile,premium,750,750,high,low,6,name.com,,,12/08/2026 21:09
+00b2e468-c274-4d48-8154-6f60d60e923d,stanley.mobile,premium,390,390,high,low,7,namecheap,,,25/09/2026 06:08
+883662b4-4a45-4242-bc1c-9a5e6b5c12c6,diocesan.mobile,available,22.98,26.98,medium,low,8,namecheap,,,14/08/2026 08:18
+b0918637-0b29-4e4f-9c32-6c448ef90db2,paralyzed.mobile,available,22.98,26.98,medium,low,9,namecheap,,,08/09/2026 01:29
+43e08bcf-ec25-4bfa-9893-9cc84fa02dfd,merged.mobile,available,22.98,26.98,high,low,6,namecheap,,,22/08/2026 01:59
+092f0847-3f4d-449d-add4-f1aa808f7d9a,honduran.mobile,available,22.98,26.98,medium,low,8,namecheap,,,21/08/2026 13:17
+765180b5-51fb-45bd-8db3-601bcd8b6d28,tantrum.mobile,premium,750,750,high,low,7,name.com,,,18/08/2026 05:41
+bc563dae-7924-4571-9e19-4196acebe59c,niches.mobile,available,22.98,26.98,medium,low,6,namecheap,,,20/09/2026 09:56
+4a98fc2e-763f-4a7f-ac6a-9e616706d7a4,espouse.mobile,available,22.98,26.98,high,low,7,namecheap,,,13/09/2026 09:39
+8f845e0d-5841-427f-8db2-fba0014908ac,soberly.mobile,available,22.98,26.98,medium,low,7,namecheap,,,14/09/2026 22:10
+7abaf168-7b6e-42f7-b86a-8d5302399c71,bagger.mobile,available,22.98,26.98,medium,low,6,namecheap,,,21/09/2026 18:02
+b80f6f45-22f8-431f-9d8a-5aa9828f619c,actifed.mobile,available,22.98,26.98,high,medium,7,namecheap,,,17/09/2026 04:37
+402b3e2b-cce0-430d-81e3-0a18851c27d6,pennies.mobile,available,26.98,,medium,low,7,namecheap,,,
+f17de029-09b5-4607-aa0e-a4cb70cdbe79,privately.mobile,premium,780,780,high,low,9,namecheap,,,15/09/2026 04:43
 b6a52bbd-10da-4acc-968b-85f69e6a2670,pass.mobile,premium,750,,high,low,4,name.com,,,
-fc969db3-6c79-4ce5-9692-659a2a5a7999,destiny.mobile,premium,375,,high,low,7,name.com,,,
-18a2210c-8cc3-4773-8de0-70cde713450b,retire.mobile,premium,750,,high,low,6,name.com,,,
-5d04e692-e851-4a28-8e53-5115fba5ff69,attempt.mobile,premium,750,,high,low,7,name.com,,,
-e30fb4ec-3b78-48e0-87d8-9905699f7f46,tip.mobile,premium,375,,high,low,3,name.com,,,
-799d6915-7af8-4f0e-bf05-d951a1fa9463,lie.mobile,premium,375,,high,low,3,name.com,,,
-d2434b34-cadd-4f6b-95f4-433c2a2ac153,lose.mobile,premium,750,,medium,low,4,name.com,,,
-e3811114-292c-49e0-9054-b56c5ef6ac90,member.mobile,premium,750,,high,low,6,name.com,,,
-cb204ad1-31ed-4016-b3de-b667631eda49,specially.mobile,premium,750,,high,low,9,name.com,,,
-2ce60bd9-e732-4e94-a3b9-9d92b586279c,buffer.mobile,premium,750,,high,low,6,name.com,,,
-b5417f69-e5a8-46e3-953f-6261e291cbfa,january.mobile,premium,375,,high,low,7,name.com,,,
-f29600cb-747e-4703-ba40-5a4337d640fb,club.mobile,resell,375,,high,low,4,"Spaceship, Inc.",16/04/2026 08:16,16/04/2027 08:16,
-60ccc8e9-bee0-40e6-ab20-d885314a21bf,gag.mobile,premium,750,,high,low,3,name.com,,,
-f999234d-b639-4f6b-9042-f3faa2e96afb,played.mobile,premium,375,,high,low,6,name.com,,,
-2a79cd93-6021-4b10-9a9f-63b4c7ee9b1c,wrist.mobile,premium,375,,high,low,5,name.com,,,
-f9ebadb4-7963-437d-83d5-0e27083f65f8,dinner.mobile,premium,375,,high,low,6,name.com,,,
+b0a38b8a-0785-461b-b278-229bc5afa320,librarian.mobile,available,22.98,26.98,high,low,9,namecheap,,,23/09/2026 12:54
+e73fc468-1f0c-4a6e-bc58-ddf8a6995eb1,broadloom.mobile,available,22.98,26.98,medium,low,9,namecheap,,,11/08/2026 04:59
+c782429e-1b9d-4e6e-818d-0406244ebdf9,autochthon.mobile,available,29.99,29.99,medium,low,10,name.com,,,21/09/2026 06:02
+ffc99e85-bae8-4c0f-bc5c-c2f228308389,repel.mobile,premium,750,,high,low,5,name.com,,,
+9171a7d7-7c7b-4720-98ad-825a2c2a5b06,lure.mobile,available,22.98,26.98,high,low,4,namecheap,,,21/09/2026 19:43
+d575aa6e-704b-466b-a335-19a97c84ad39,mangy.mobile,available,22.98,26.98,medium,low,5,namecheap,,,24/08/2026 14:50
+705e0105-e8ae-4b95-94b6-62d5704050e8,afterbirth.mobile,available,22.98,26.98,medium,low,10,namecheap,,,17/09/2026 15:34
+169c4802-c3d3-4cce-9694-f31c27ae2c98,eros.mobile,premium,390,390,high,low,4,namecheap,,,24/09/2026 17:09
+dea27c77-f95e-488d-9c4e-9b6494425d9b,tubby.mobile,premium,780,780,medium,low,5,namecheap,,,08/09/2026 22:29
+49a0d11b-43f2-45be-ba80-e985664c1433,flying.mobile,premium,104,104,high,low,6,namecheap,,,24/09/2026 17:17
+4036a18e-a97e-4e9e-a687-1ad79a7144c9,attends.mobile,available,29.99,29.99,medium,low,7,name.com,,,17/09/2026 22:27
+ca4c47dc-5399-4b1a-9dfa-dfccaa18778f,matrix.mobile,premium,375,,high,medium,6,name.com,,,
+95edc880-b5fd-4240-9bfb-ed53a82451c8,difference.mobile,premium,375,,high,low,10,name.com,,,
+ab8f88ae-52c7-474a-9609-ced3028b2c3d,galactic.mobile,premium,750,750,high,low,8,name.com,,,18/08/2026 19:35
+e8e044ef-d1a8-4721-8f3c-c4d3b0eff639,truelove.mobile,premium,780,780,high,low,8,namecheap,,,10/09/2026 19:36
+5efec2e6-6c59-497a-afa9-3b6182d14c86,wanted.mobile,premium,780,780,high,low,6,namecheap,,,23/09/2026 14:03
+e589f24c-7b20-45d3-83b5-c4688a6f6bc2,choice.mobile,premium,780,780,high,low,6,namecheap,,,22/09/2026 02:45
+3523099f-426d-4490-a784-5294a4ef85b3,arnold.mobile,premium,390,390,high,low,6,namecheap,,,20/09/2026 08:16
 ec80f6f2-690d-4952-af94-ee467fe8d2da,barn.mobile,premium,375,,high,low,4,name.com,,,
-102648fc-f423-40ad-ab67-c7807bb36a8c,accuser.mobile,available,26.98,,high,low,7,namecheap,,,
-aafc877f-707f-406c-b81f-d60d81795570,complaint.mobile,premium,750,,high,low,9,name.com,,,
-1bfb3f37-27f0-4dd2-90c6-28cc66b0dccc,nearest.mobile,premium,750,,high,low,7,name.com,,,
-529d6bc1-9acc-4425-8884-d10b50a7ed32,giza.mobile,premium,375,,high,low,4,name.com,,,
-2b60ad24-b0ef-4a57-8bcf-c394ed9706a1,momentum.mobile,premium,750,,high,medium,8,name.com,,,
-6688a71b-faff-4c54-90e0-069ae1df1535,pushing.mobile,premium,750,,high,low,7,name.com,,,
-30b3899f-aff6-41a2-ac8e-7ed4f5b6b69c,glove.mobile,premium,750,,high,low,5,name.com,,,
-a1b87f35-af8b-4629-9c81-f4d2fe796508,brightness.mobile,premium,750,,high,low,10,name.com,,,
-084ed916-378f-42d8-8e49-00f402708e2c,wobbly.mobile,premium,750,,high,low,6,name.com,,,
-5ea52eb4-f51f-4c67-bc1d-3b78f394a062,hence.mobile,premium,375,,high,low,5,name.com,,,
-0b838844-6bf0-435c-b0ae-a28efe7bfa9e,avon.mobile,premium,1250,,high,low,4,name.com,,,
-5d993abd-2e49-45a7-8512-d534a60ff941,linked.mobile,premium,375,,high,low,6,name.com,,,
-0ad17974-a69c-43a0-9040-8af70487489f,papa.mobile,premium,375,,high,low,4,name.com,,,
-1f394384-0f8b-40cd-84bb-6fd38ea41be4,informally.mobile,available,26.98,,medium,low,10,namecheap,,,
-a8ec4347-672d-4623-a254-ec82c48b88cf,twist.mobile,premium,375,,high,low,5,name.com,,,
-da557729-227c-4f71-8cbb-b3ef5d81824b,anesthesia.mobile,premium,750,,high,low,10,name.com,,,
-83209138-d1b7-491c-acde-0122513046ed,hanoi.mobile,premium,375,,high,low,5,name.com,,,
-7a51d08f-54e1-4b0f-9e18-c782f221fc61,multitude.mobile,premium,750,,high,low,9,name.com,,,
-ae8dbc46-096e-4f5b-b27b-38ad621409c0,cincinnati.mobile,premium,375,,high,low,10,name.com,,,
-0709c039-f033-4c7d-940e-08fb9593eb1b,minor.mobile,premium,390,390,high,low,5,namecheap,,,
-66059326-7054-4268-97e8-5b16ef1e7169,mexican.mobile,premium,390,390,high,low,7,namecheap,,,
-0705ca56-33a4-4b7c-8648-12198c780d7e,numbers.mobile,premium,375,,high,low,7,name.com,,,
-39ef5b09-0a49-435b-8faa-b5278de3ea7e,smoking.mobile,premium,1250,,high,low,7,name.com,,,
-62e279e2-36b7-491c-ae8b-1f5971c732d9,execution.mobile,premium,750,,high,low,9,name.com,,,
-1ffa6e12-e0e4-4bc3-8c4d-7b706763f596,sep.mobile,premium,1250,,high,low,3,name.com,,,
-a8c07399-cfc0-4e74-9fbb-98ff6d4c0d7e,supper.mobile,available,26.98,,high,low,6,namecheap,,,
-4e1641ca-a699-41c7-b9c5-0af939bbbaf6,bulk.mobile,premium,100,,high,low,4,name.com,,,
-fa496723-b3a3-4d51-b343-5d2ab828e927,truth.mobile,premium,375,,high,medium,5,name.com,,,
-71e103b9-46b6-42c7-979b-381f23166080,grey.mobile,premium,390,390,high,low,4,namecheap,,,08/09/2026 07:08
-bf458f76-2804-48ff-a18e-a32fe182fbe8,curiosity.mobile,premium,750,,high,low,9,name.com,,,
-1b155c40-58d8-4066-859a-688027baf254,oreo.mobile,available,26.98,,high,low,4,namecheap,,,
-293fe12d-c009-4bfd-a353-e3ef361b479e,hurry.mobile,premium,750,,high,low,5,name.com,,,
-960be167-100e-4345-ad8d-b93a759e5682,none.mobile,premium,390,390,high,low,4,namecheap,,,
-04305044-ae79-4af1-9331-f1b34b37292b,inception.mobile,premium,375,,high,low,9,name.com,,,
-38230f62-c105-48f5-9549-395439d2bf30,coherently.mobile,available,26.98,,high,low,10,namecheap,,,
-9ed879db-45db-40d1-936e-95f10122211d,sail.mobile,premium,375,,high,low,4,name.com,,,
-6a31d694-6b49-4ae2-b951-d983b625c40c,yesterday.mobile,premium,750,,high,low,9,name.com,,,
-9469d904-84e8-4c3d-8678-063a62cb912f,norwegian.mobile,premium,390,390,high,low,9,namecheap,,,
-8cab5daf-3779-4817-aa3d-5970bf711fa1,shadow.mobile,premium,375,,high,low,6,name.com,,,
-b63be10d-e09c-48e8-9c14-5378e74f04a4,speculate.mobile,premium,750,,high,low,9,name.com,,,
-6512172f-8c32-4fe8-a7ed-66280f53a42c,past.mobile,premium,375,,high,low,4,name.com,,,
-9d76f93c-accf-44db-9620-364b37c64278,pencil.mobile,premium,750,,high,low,6,name.com,,,
-51349970-e891-486e-bf48-36217e3936da,barely.mobile,premium,750,,high,low,6,name.com,,,
-cc1f16c7-aa30-4de7-982d-cd17d0d0850b,pronounced.mobile,available,26.98,,high,low,10,namecheap,,,
-091a6d44-0053-47d0-8b5a-cb54e5da9cee,clearance.mobile,premium,780,780,high,low,9,namecheap,,,08/09/2026 08:11
-32efb9f3-5296-452d-adf8-85414e55ed78,brushing.mobile,available,26.98,,high,low,8,namecheap,,,
-e24a60a0-24d4-43be-8226-6ff581a420c7,clue.mobile,premium,375,,high,low,4,name.com,,,
-29a6a96d-4d2a-4652-bce2-43c0d11bcbb6,bead.mobile,premium,750,,high,low,4,name.com,,,
-56a20d29-c98b-402f-9e53-563bd36f19a0,jewelry.mobile,premium,1250,,high,low,7,name.com,,,
-0b8a8df9-d5e5-4f4c-98ba-ba31b294d982,worse.mobile,premium,750,,high,low,5,name.com,,,
-9e3d2dd2-c950-4169-8724-b6c06288dcba,matt.mobile,premium,227.5,227.5,high,high,4,namecheap,,,
-56411206-2188-4588-a9d0-3319e461261f,multiple.mobile,premium,780,780,high,low,8,namecheap,,,
-39a69e6f-0168-4657-ba42-8ec799ad1e4b,detour.mobile,premium,750,,high,low,6,name.com,,,
-7a906553-9338-4299-80eb-e74e36bacc34,various.mobile,premium,750,,high,low,7,name.com,,,
-968b53a8-e374-4418-a26a-8e829001fff7,extension.mobile,premium,375,,high,low,9,name.com,,,
-8db327c6-e02c-45fc-a639-ad8e01563325,browsing.mobile,available,26.98,,high,low,8,namecheap,,,
-f4815783-319b-4ada-a23e-58b906582f02,count.mobile,premium,390,390,high,low,5,namecheap,,,
-208b0fcb-a191-49aa-b51c-2873aa15b7f7,suppose.mobile,premium,750,,high,low,7,name.com,,,
-4011ef1a-a210-4c17-a5a4-1f3c021c2083,courtyard.mobile,available,26.98,,high,low,9,namecheap,,,
-b8313205-0b31-4bfb-9c44-4a3a96e4be5c,arm.mobile,premium,375,,high,medium,3,name.com,,,
-392e08d7-caec-41a8-956b-72df07d6dd8c,polythene.mobile,available,26.98,,high,low,9,namecheap,,,
-936dfdd7-8c9d-47fe-a313-a5744f70c236,winner.mobile,premium,375,,high,low,6,name.com,,,
-0138fc6b-4b8f-496e-bbfb-648796b620fe,interim.mobile,premium,750,,high,low,7,name.com,,,
-428d1e84-cab9-44bc-b8b2-4cb5c58b266d,roar.mobile,premium,375,,high,low,4,name.com,,,
-7d244b24-ae64-43c8-8938-2bb917d2b23c,athletics.mobile,premium,375,,high,medium,9,name.com,,,
-785ed0b3-501c-4a84-b50d-a02251ce54ca,wash.mobile,premium,375,,high,low,4,name.com,,,
-8bb250e8-4fb8-4515-8e34-87f82f50deb7,onion.mobile,premium,375,,high,low,5,name.com,,,
-db970b7c-34ca-4eed-b07a-50775fe83ac5,invite.mobile,premium,750,,high,low,6,name.com,,,
-702edfc1-7e15-403f-877f-8f5190b7527c,step.mobile,premium,1250,,high,low,4,name.com,,,
-b0f0651e-4058-47ef-9a69-5d753b3f7e95,kiev.mobile,premium,375,,high,low,4,name.com,,,
-717233e8-6448-4862-8f3a-1a87fb35c105,mode.mobile,premium,375,,high,low,4,name.com,,,
-68ea0214-ec49-45d5-b6f6-62dc4035c709,factor.mobile,premium,750,,high,low,6,name.com,,,
-2cfac6e3-d9e7-4c83-a66b-b18b622abeed,man.mobile,premium,2500,,high,low,3,name.com,,,
-9610be68-b519-4380-9996-27a60baba4c2,ever.mobile,premium,750,,high,medium,4,name.com,,,
-87d0c488-a23b-47c2-8dbd-991862e0f4a7,actually.mobile,premium,750,,high,low,8,name.com,,,
-5719b8a5-74d2-4a9b-bc35-6767112d5adb,dick.mobile,premium,1250,,high,low,4,name.com,,,
-9c9fbda5-3121-4a6c-bf0f-34f5ab5a3875,field.mobile,premium,375,,high,low,5,name.com,,,
-b41e68c7-5b7b-491b-9456-48fab6fcbc8a,roomy.mobile,available,26.98,,high,low,5,namecheap,,,
-ccc51b0a-11f7-420d-b3b2-51c53eb24c50,valid.mobile,premium,375,,high,low,5,name.com,,,
-04279985-17f5-4ed3-b27f-4662d580fc07,europe.mobile,premium,2500,,high,low,6,name.com,,,
-cfff3b77-fee8-4997-bd5a-f5ccab6e6908,inverse.mobile,premium,750,,high,low,7,name.com,,,
-571a4c6c-0a79-4b8c-98da-a91a39540244,bull.mobile,premium,375,,high,low,4,name.com,,,
-8b41ab1d-67b0-4588-9e4d-af23e0723aae,professor.mobile,premium,750,,high,low,9,name.com,,,
-5be1f25e-84d6-4d97-90a3-962d72678e29,humane.mobile,premium,750,,high,low,6,name.com,,,
-6826064d-c4b0-4fcb-828d-c3b6f6cbcdbd,policy.mobile,premium,750,,high,low,6,name.com,,,
-4d050290-5302-4b6f-b7e8-51028dec7716,revealing.mobile,premium,750,,high,low,9,name.com,,,
-5581098e-669c-48b4-85ef-f53871309edf,style.mobile,premium,780,780,high,low,5,namecheap,,,08/09/2026 07:22
-b29d4b33-c050-4552-95bd-5a11ae081036,tire.mobile,premium,375,,high,low,4,name.com,,,
-38539e67-30e5-4805-aebe-5311bc9d4069,rainbow.mobile,available,26.98,,high,medium,7,namecheap,,,
-7a99d9e7-981f-4f16-8ebc-d2a6286fb19a,everywhere.mobile,premium,750,,high,low,10,name.com,,,
-5dd2ff0f-99f2-4198-bbd6-7267426091fc,cairo.mobile,premium,375,,high,low,5,name.com,,,
-37d27dbe-b3e5-4cca-91fb-49cf349fdcc5,chop.mobile,available,26.98,,high,low,4,namecheap,,,
-6c2b9f10-6130-4077-96d3-c593e6556f98,stuff.mobile,premium,390,390,high,low,5,namecheap,,,
-9a77d932-9614-41ee-9290-95e997fbcb8a,mouse.mobile,premium,1250,,high,low,5,name.com,,,
-938f48a1-9873-4394-b0e8-94c27589fca1,recap.mobile,premium,375,,high,low,5,name.com,,,
-f190699d-c55c-4597-9132-5844616faa6d,acts.mobile,premium,375,,high,low,4,name.com,,,
-0760cb12-b7fa-4c27-a906-c808ba5665ff,retardant.mobile,available,26.98,,high,low,9,namecheap,,,
-87c0c3ef-7d0a-4894-8d65-2aa59e5ddc42,testing.mobile,premium,375,,high,low,7,name.com,,,
-4b558ee8-961b-4783-a129-a4bd046b7d26,push.mobile,premium,375,,high,low,4,name.com,,,
-33afb6fc-c831-4379-af80-d479e927692e,dishonesty.mobile,available,26.98,,high,low,10,namecheap,,,
-0930a39f-0bf4-45e5-a4a4-8174334a0c79,bern.mobile,available,26.98,,high,low,4,namecheap,,,
-4fd625ea-206f-4446-a74f-9f127f9eac92,snore.mobile,available,26.98,,high,low,5,namecheap,,,
+46709243-ac9b-4d3d-9b77-f36ee0388153,beria.mobile,available,22.98,26.98,medium,low,5,namecheap,,,23/09/2026 09:22
+df5d9c13-532a-40eb-9562-87e491395eb1,otis.mobile,premium,390,390,high,low,4,namecheap,,,25/09/2026 05:28
+22547d71-22db-4bec-910e-e7c4b7c40f0d,patterned.mobile,premium,780,780,high,low,9,namecheap,,,08/09/2026 10:49
+4e3adaaf-a20a-40be-8f32-05944ffabd84,dream.mobile,premium,375,,high,medium,5,name.com,,,
+61104230-6dcb-4c3a-9b85-1797840fb30d,tangy.mobile,available,22.98,26.98,high,low,5,namecheap,,,22/08/2026 23:32
+f60814cf-e128-4446-9680-a6c4dde6a897,dissociate.mobile,available,22.98,26.98,medium,low,10,namecheap,,,14/08/2026 11:11
+f0a8daf7-26fb-4dce-95ce-0facb2fe1fc5,bitmap.mobile,premium,780,780,high,low,6,namecheap,,,23/09/2026 22:40
+2f668861-0ae6-4ba5-b8b7-eae3c4e1b22f,marble.mobile,premium,750,,high,low,6,name.com,,,
 c54240f1-47b1-4dce-867c-ac1406c56940,rubber.mobile,premium,750,,high,low,6,name.com,,,
-3830d177-bbf2-4119-bdfa-0fc72497aa79,drinking.mobile,premium,375,,high,low,8,name.com,,,
-07870d44-a5c8-492f-871f-155bbd801de0,unusual.mobile,premium,750,,high,low,7,name.com,,,
-bb9aa6f7-8101-48a6-b75e-9a353a690233,survey.mobile,premium,750,,high,low,6,name.com,,,
-92636a7c-ea93-41c3-a07e-d8c88c7892ab,executing.mobile,available,26.98,,high,low,9,namecheap,,,
-dff87984-de14-4441-9a9f-c706bd083347,diner.mobile,premium,375,,high,low,5,name.com,,,
-e087535c-6d27-4025-9b48-973b7e9d324c,oriented.mobile,available,26.98,,high,low,8,namecheap,,,
-d06ee4d4-9b24-48ea-a220-01cf082086ff,conquest.mobile,premium,750,,high,low,8,name.com,,,
-5c530592-fbce-4d72-a19a-746e059b4b3d,spirits.mobile,premium,375,,high,low,7,name.com,,,
-a774d404-cae9-41a1-b6a2-560cddaf3bfc,brownie.mobile,premium,375,,high,low,7,name.com,,,
-8ccc3782-48e9-43c8-803c-bb86dc2200c0,striking.mobile,premium,750,,high,low,8,name.com,,,
-510d00c9-3696-4ce9-a2d3-9508e548171b,pound.mobile,premium,375,,high,low,5,name.com,,,
-916f4511-4f30-4eab-a365-efc5376261cd,president.mobile,premium,750,,high,low,9,name.com,,,
-91680a6a-4a01-4408-b4ee-17f5e40542b0,household.mobile,premium,750,,high,low,9,name.com,,,
-64fde127-1d13-4e70-be5d-4daf381e8fb0,mono.mobile,premium,390,390,high,low,4,namecheap,,,
-18281c01-f3b5-4137-95c8-73d694c79f9f,dakar.mobile,premium,375,,high,low,5,name.com,,,
-a5b46df0-c156-4962-83c8-7ba70054b547,pride.mobile,premium,375,,high,low,5,name.com,,,
-82f7acbf-0289-4c73-bd3e-35a1f5be2133,rip.mobile,premium,2500,,high,low,3,name.com,,,
-9b46feea-c52c-4791-896b-41c4f216cc1c,report.mobile,premium,750,,high,low,6,name.com,,,
-3a581835-10a6-49f9-aa79-5611920fd745,olive.mobile,premium,375,,high,low,5,name.com,,,
-212d02b7-2e38-4c2b-ba8e-7dda25145566,book.mobile,premium,1250,,high,medium,4,name.com,,,
-a19d5ee6-ee82-4f2d-b6ab-8b5c918ca50d,bump.mobile,available,26.98,,high,low,4,namecheap,,,
-1e29079a-5b08-4f5b-aaf3-54053bc4a1d8,season.mobile,premium,750,,high,low,6,name.com,,,
-21607614-c9c4-4843-a86e-47f57c937ae4,graphics.mobile,premium,750,,high,low,8,name.com,,,
-13e225e3-21bc-4acb-b110-f063b202cd3b,ability.mobile,premium,750,,high,low,7,name.com,,,
-c01eeb57-fb7c-4692-9ab5-975784080941,cot.mobile,premium,750,,high,low,3,name.com,,,
-ba8a616a-33bb-4390-9f40-c5558f2327f0,wedge.mobile,premium,750,,high,low,5,name.com,,,
-2a95f9fc-57d7-4c4c-9c90-f966105f9328,devotion.mobile,available,26.98,,high,low,8,namecheap,,,
-a882e754-efab-479c-a8dd-5ff335022ce5,conscience.mobile,premium,750,,high,low,10,name.com,,,
-97952972-83d2-409c-a0fc-b0cf3f5a527a,affinity.mobile,premium,100,,high,high,8,name.com,,,
-002c65fb-c8d9-482a-9324-1259fee4f60f,bullet.mobile,premium,750,,high,low,6,name.com,,,
-6aab34a0-8d85-4d0e-804a-59f78c6d5395,detox.mobile,premium,1250,,high,low,5,name.com,,,
-2cf1d0cd-3334-4621-b11c-f6013eb38d16,dissent.mobile,premium,750,,high,low,7,name.com,,,
-ee26c1c2-6ced-405b-aa9f-9fb75e50af6b,jason.mobile,premium,375,,high,low,5,name.com,,,
-8102c542-c20a-482e-baab-39ae71ee8f56,relation.mobile,premium,750,,high,low,8,name.com,,,
-88657d99-4a5d-4d95-82e7-81d15f4e52e6,barter.mobile,available,26.98,,high,low,6,namecheap,,,
-7c479815-5e0d-4068-98ae-f202a733a5ad,condolence.mobile,available,26.98,,high,low,10,namecheap,,,
-3f98d600-526a-487e-8474-ab186d78ef76,democracy.mobile,premium,375,,high,low,9,name.com,,,
-2264adb7-3f29-4aab-bebc-ef8fa69d200e,duck.mobile,premium,375,,high,low,4,name.com,,,
-aab55415-e45b-4b12-848d-923c5ca3d7d3,disneyland.mobile,premium,375,,high,low,10,name.com,,,
-e82ab652-54cf-478a-8ed1-8c0d6e40bfc6,tape.mobile,premium,750,,high,low,4,name.com,,,
+75485950-b13c-4463-b143-12c32f50c166,cocky.mobile,premium,375,375,high,low,5,name.com,,,12/08/2026 15:02
+3ed43d37-ccc1-433e-8eb1-9dd92656d042,avoid.mobile,premium,390,390,high,low,5,namecheap,,,13/09/2026 06:44
+14cc6a6c-fa37-487a-bd7f-2107aa71738f,berlage.mobile,available,29.99,29.99,medium,low,7,name.com,,,23/09/2026 09:36
+2abeca81-6854-4d2d-836d-ab8c8a68b327,dafla.mobile,available,22.98,26.98,medium,low,5,namecheap,,,16/09/2026 16:37
+146ee0c1-b627-4406-b0f1-7793210d25f3,dreamily.mobile,available,22.98,26.98,medium,low,8,namecheap,,,14/09/2026 14:15
+ccb1ede6-aee7-4e93-be7b-e00cede1825f,casteless.mobile,available,22.98,26.98,medium,low,9,namecheap,,,11/08/2026 20:25
+f5233e43-fec4-4f81-87e4-463177cfc0a1,anaemia.mobile,available,26.98,,medium,low,7,namecheap,,,
+23fece67-7775-4eb9-8048-6b2e315b54df,woodbine.mobile,available,22.98,26.98,high,low,8,namecheap,,,18/09/2026 20:11
+7ba7c070-3563-4df8-9731-79fa0329dd1a,country.mobile,premium,375,,high,low,7,name.com,,,
+bef7de3a-01a2-4ef3-94ba-b10d9a3e39a6,rivalrous.mobile,available,22.98,26.98,medium,low,9,namecheap,,,09/09/2026 18:06
+a09a370b-4111-4030-8c88-57c5c8c5c299,mueller.mobile,available,22.98,26.98,high,low,7,namecheap,,,26/09/2026 03:22
+96364d6e-e050-4b90-b336-b4f142c2419c,archly.mobile,available,22.98,26.98,medium,low,6,namecheap,,,13/09/2026 20:39
+44796f3b-b04d-4c8c-8f68-57ba4a40d909,soaked.mobile,premium,375,375,medium,low,6,name.com,,,09/08/2026 15:52
+b5da0131-1419-43e4-9a49-88a6b289ef48,trends.mobile,premium,390,390,high,low,6,namecheap,,,17/09/2026 19:12
+e0e90d47-2baa-4e18-95c8-c4dd7de6e0dd,puzzle.mobile,premium,1300,1300,high,medium,6,namecheap,,,21/09/2026 17:28
+8b15b2db-8bc4-4c8a-986e-29fcfea594cc,kinky.mobile,premium,375,375,high,low,5,name.com,,,17/08/2026 22:20
+fc7b23a5-872c-4079-9ddc-f6c114310508,airdrop.mobile,premium,390,390,high,low,7,namecheap,,,17/09/2026 23:06
+420df537-cb6e-4f99-a39f-dd94b2ff7591,sisters.mobile,premium,750,750,high,low,7,name.com,,,
+a7ab3c9f-0077-46fc-b329-b1e764be2051,hoarse.mobile,available,22.98,26.98,medium,low,6,namecheap,,,21/08/2026 10:10
+3487d8e3-fe33-4801-9cf7-f5bdc6d78caf,scratch.mobile,premium,390,390,high,low,7,namecheap,,,16/09/2026 16:58
+51ebb39e-7c28-430c-9995-50ba25e3c1dc,honeymoons.mobile,available,26.98,,medium,low,10,namecheap,,,20/09/2026 01:32
+9ce7758a-d984-47a8-9953-4171c77bcf96,rebel.mobile,premium,375,375,high,medium,5,name.com,,,22/08/2026 07:47
+7cdeb404-039c-4c84-8541-d17f381545bc,wipes.mobile,premium,390,390,medium,low,5,namecheap,,,20/09/2026 09:39
+4011ef1a-a210-4c17-a5a4-1f3c021c2083,courtyard.mobile,available,26.98,,high,low,9,namecheap,,,
+a584902d-086a-4a75-99f8-b7282b7e6cd1,pod.mobile,premium,375,375,high,medium,3,name.com,,,12/08/2026 15:05
+3a94587a-492f-4d32-81b0-8cb973f3dbe0,graduated.mobile,premium,750,750,high,low,9,name.com,,,11/08/2026 14:18
+0f0221dd-835e-4799-a5d3-af9b227a4590,patent.mobile,premium,375,375,high,low,6,name.com,,,06/08/2026 05:19
+2ced7f48-fc3c-44a3-9adf-4d5b59bf4b58,abampere.mobile,available,22.98,26.98,medium,low,8,namecheap,,,16/09/2026 13:54
+b4eb6e85-df4c-4516-a207-ac45accae179,clitoral.mobile,available,22.98,26.98,medium,low,8,namecheap,,,12/08/2026 11:25
+7dc75d81-5926-46ce-b277-afb98941b615,validated.mobile,available,22.98,26.98,high,low,9,namecheap,,,13/09/2026 00:59
+bbe63c0e-0179-46f7-9388-2126a133959d,tent.mobile,premium,375,375,high,low,4,name.com,,,11/08/2026 15:59
+c4337026-2938-421c-a66d-2a0c09713c39,alexis.mobile,premium,227.5,227.5,high,low,6,namecheap,,,19/09/2026 02:23
+c729640d-cd1f-45f5-90d0-83073f0c918c,amorphous.mobile,available,22.98,26.98,medium,low,9,namecheap,,,
+d772886a-ab30-4ef3-81fa-53f8e62bd051,chronic.mobile,premium,750,750,high,low,7,name.com,,,12/08/2026 07:24
+a8bda3e7-f6e3-4f25-b9ee-c2542a4093aa,landless.mobile,available,22.98,26.98,medium,low,8,namecheap,,,22/08/2026 19:24
+36c2c856-bd9d-4eee-9e1d-90ecdbccd2b9,existent.mobile,premium,750,750,high,low,8,name.com,,,
+e62a6975-0d95-420f-9c9a-20af35e06733,chechen.mobile,available,22.98,26.98,high,low,7,namecheap,,,12/08/2026 03:34
+b5fcad67-7328-488a-bbd1-1ce1b0ba510f,alcahest.mobile,available,22.98,26.98,medium,low,8,namecheap,,,18/09/2026 03:43
+94632a2e-6436-4af0-807a-f461d1b3af43,binge.mobile,premium,390,390,high,low,5,namecheap,,,23/09/2026 17:18
+83c40653-a4c0-4184-8b51-d3613bd71c9e,hexagonal.mobile,available,22.98,26.98,medium,low,9,namecheap,,,21/08/2026 07:50
 276ed6fb-4ff2-45e0-b708-32bea163ba47,lunch.mobile,premium,375,,high,low,5,name.com,,,
-28dc4997-1237-439a-b8a4-4c0f4c58a4e6,annually.mobile,premium,750,,high,low,8,name.com,,,
-fdb64786-7a60-4d6f-9581-7e164f51a6af,anymore.mobile,available,26.98,,high,low,7,namecheap,,,
+85f5661f-2415-4c11-8210-75b9b2975538,nascent.mobile,premium,390,390,high,low,7,namecheap,,,03/09/2026 13:35
+9c313b5a-fb8d-4056-86fd-0130380487e6,markedly.mobile,available,22.98,26.98,medium,low,8,namecheap,,,15/09/2026 13:31
+237bc4fb-a621-4fd3-b31d-68fd6571b322,steiner.mobile,available,22.98,26.98,high,low,7,namecheap,,,25/09/2026 10:28
+17d80224-8d84-4fe5-9d1b-5fec0e5744ae,jewels.mobile,premium,390,390,high,low,6,namecheap,,,18/09/2026 06:31
+49053f64-399c-4d77-8c10-d377b5f941e7,undulate.mobile,available,22.98,26.98,medium,low,8,namecheap,,,12/09/2026 08:33
+d6c43bba-a0d3-4924-a017-004af0ad2651,aerogram.mobile,available,22.98,26.98,high,low,8,namecheap,,,17/09/2026 13:04
+6854c1ab-8805-4d3d-abd9-1097635124e6,breasted.mobile,available,22.98,26.98,medium,low,8,namecheap,,,11/08/2026 03:12
+635f49f0-a658-4a8e-b375-789fc0119fdc,assail.mobile,available,22.98,26.98,medium,low,6,namecheap,,,20/09/2026 15:49
+948f54ca-dbe1-4f4b-a358-f545c0604c40,balzac.mobile,available,22.98,26.98,medium,low,6,namecheap,,,22/09/2026 00:32
+7cbeb367-09e1-46db-bcd6-355e525c9917,yankee.mobile,available,22.98,26.98,high,low,6,namecheap,,,13/09/2026 14:12
+5de7d17f-2d80-4057-8b34-6cf833550043,coefficient.mobile,available,26.98,,high,low,11,namecheap,,,
+5202b806-e672-42f2-9d89-9065529f6244,craggy.mobile,available,22.98,26.98,medium,low,6,namecheap,,,13/08/2026 04:44
+f2fe99d7-ef03-43e9-88cf-851f270ed2c3,ecological.mobile,premium,780,780,high,low,10,namecheap,,,22/09/2026 21:01
+09f5b79b-3836-4486-a237-22494be0fb51,louis.mobile,premium,390,390,high,low,5,namecheap,,,25/09/2026 07:59
+8d6e089b-d7e9-479b-ab63-19e99f3ca23b,gin.mobile,premium,780,780,high,low,3,namecheap,,,24/09/2026 18:31
+684b691f-ed58-4af2-9aa8-f866552742a9,ciliary.mobile,available,22.98,26.98,medium,low,7,namecheap,,,12/08/2026 08:04
+ce38e827-b3b7-4678-bd3d-b2e18a265ac0,usernames.mobile,available,22.98,26.98,medium,low,9,namecheap,,,20/09/2026 06:18
+683c1085-8ef0-4656-a5f1-4f950d24bff3,pumpkin.mobile,premium,390,390,high,low,7,namecheap,,,21/09/2026 08:26
+3485f1ad-13cf-43dd-af68-c675580878a6,glimpse.mobile,premium,390,390,high,low,7,namecheap,,,24/09/2026 18:42
+17892b8b-e278-4992-96d2-b807afe9dd01,transcend.mobile,available,22.98,26.98,high,low,9,namecheap,,,11/09/2026 17:23
+bfaf967e-a7cf-45f3-a6fa-668ad390de20,pup.mobile,premium,375,,high,low,3,name.com,,,
+6dc09299-4a52-4497-95d8-5b09a80474be,evidence.mobile,premium,750,750,high,low,8,name.com,,,24/08/2026 15:05
+4ac8a5a4-a57d-493d-a32d-043f6f5af12b,allograph.mobile,available,22.98,26.98,medium,low,9,namecheap,,,18/09/2026 11:54
+4647afe2-7024-4d97-9eda-f603c79b8b07,tomboyish.mobile,available,22.98,26.98,medium,low,9,namecheap,,,21/08/2026 14:32
+2987ceca-c32f-475b-b829-96b028f2c281,plough.mobile,premium,390,390,medium,low,6,namecheap,,,23/09/2026 14:29
+918ce428-3660-49b9-b487-64972f2c7457,packsack.mobile,premium,1250,1250,high,low,8,name.com,,,21/09/2026 14:40
+57ef703a-5ddf-466a-be6c-adb2a79a2daf,engineer.mobile,premium,390,390,high,low,8,namecheap,,,25/09/2026 16:08
+90475e86-fc77-4325-963e-9d52df8ef020,calorie.mobile,premium,780,780,high,low,7,namecheap,,,24/09/2026 11:50
+0d83b5f7-f7be-4a53-8312-af27c5f83c84,pussy.mobile,premium,1250,,high,low,5,name.com,,,
+3497a283-9f37-4d6a-a0e8-8591c559c670,spiral.mobile,premium,780,780,high,low,6,namecheap,,,23/09/2026 14:59
+7a4f14f6-67ef-43a2-8683-ae2b32d0f9d2,ambrose.mobile,available,22.98,26.98,high,low,7,namecheap,,,18/09/2026 17:22
+441f46f9-da91-488c-ac19-b91ecb048af7,inhabit.mobile,premium,750,750,high,low,7,name.com,,,24/08/2026 07:51
+482abf04-344a-4872-88bd-694223b215bc,chevalier.mobile,available,22.98,26.98,high,low,9,namecheap,,,11/08/2026 22:49
+b21e1a9b-8985-4858-afc8-73229f2a98d9,devil.mobile,premium,2600,2600,high,low,5,namecheap,,,23/09/2026 01:20
+e7d26db4-34b3-45dc-825b-a2a42be13eb8,matters.mobile,available,22.98,26.98,medium,low,7,namecheap,,,25/09/2026 17:05
+5061508f-2e39-462d-9152-a3a0b8418cdf,sterope.mobile,available,22.98,26.98,low,low,7,namecheap,,,20/09/2026 17:14
+82cfa1dd-7e60-43c7-8d63-f25735e30895,sear.mobile,available,22.98,26.98,medium,low,4,namecheap,,,14/08/2026 19:05
+19e04941-f7d7-470e-b497-e8ef9d2b59bf,jonson.mobile,available,29.99,29.99,high,low,6,name.com,,,23/09/2026 07:26
+57a9df5f-077d-4344-8667-2d34759adf60,albee.mobile,available,22.98,26.98,medium,low,5,namecheap,,,18/09/2026 02:31
+30820446-1608-4aa5-b31c-ce430ad74402,bitumen.mobile,available,22.98,26.98,medium,low,7,namecheap,,,23/09/2026 23:13
+0c1b9468-ff79-4177-af28-287084b77e3e,communities.mobile,premium,390,390,high,low,11,namecheap,,,17/09/2026 18:41
+818fd32b-f1ab-44a1-9410-4cdbfc470cbb,isle.mobile,available,26.98,,high,low,4,namecheap,,,
+de751e56-eddc-4f0b-a3ca-2e56407b5c2b,tile.mobile,premium,1250,,high,low,4,name.com,,,
+81b86567-6ca0-4d82-8861-2b120eafbee7,malevolent.mobile,available,22.98,26.98,medium,low,10,namecheap,,,24/08/2026 13:52
+19ad84a5-af41-4bdb-82c0-b2d69e2f3765,broadwise.mobile,available,22.98,26.98,medium,low,9,namecheap,,,14/09/2026 01:26
+20d6793f-9b03-4481-9ee1-01b7c3660fd7,highbrow.mobile,available,22.98,26.98,high,low,8,namecheap,,,21/08/2026 09:09
+576c31f4-6702-44c2-9c89-1a967017eb41,opens.mobile,available,22.98,26.98,high,low,5,namecheap,,,18/09/2026 23:02
+3907e180-3354-4053-859a-418cf235ceac,looted.mobile,available,22.98,26.98,medium,low,6,namecheap,,,24/08/2026 09:45
+0d2edace-0d9f-4d55-bb13-889accd4fcf7,typically.mobile,premium,750,,medium,low,9,name.com,,,
+9ddabdde-cfd6-46af-b860-35443c96f4c0,racial.mobile,premium,390,390,high,low,6,namecheap,,,09/09/2026 09:19
+5dbedc61-af1b-440c-b5e0-5a1975489f75,blindfold.mobile,available,22.98,26.98,high,low,9,namecheap,,,10/08/2026 14:26
+0f5968ee-d6d4-499a-b966-8f6d89754332,austral.mobile,premium,750,750,medium,low,7,name.com,,,07/08/2026 18:26
+e9481d58-979d-4776-9b46-635f7d661816,stopped.mobile,available,26.98,,high,low,7,namecheap,,,
+11503ae7-ecb7-4790-8950-07c126e1d28b,dogging.mobile,premium,2500,2500,medium,low,7,name.com,,,14/08/2026 15:03
+df80f750-525e-4e78-a6db-8089bd9d7990,gidgee.mobile,available,22.98,26.98,medium,low,6,namecheap,,,16/09/2026 20:01
+da494e27-9bd5-4918-acdf-c1ae8459b780,ballistics.mobile,premium,780,780,high,low,10,namecheap,,,21/09/2026 22:57
+4d2d053a-7eb5-4560-8eb5-4b161b16d544,topmost.mobile,available,22.98,26.98,medium,low,7,namecheap,,,11/09/2026 17:46
+112862e1-2fc3-4115-b75d-a5cc7c522bd9,hackmatack.mobile,available,29.99,29.99,medium,low,10,name.com,,,22/09/2026 00:09
+a71ee866-b9e3-4aa7-b21d-d91b8c0bcc2b,tender.mobile,premium,780,780,high,low,6,namecheap,,,21/09/2026 21:47
+ce19b0c2-7e02-4056-980e-cb0e6eeb41f3,endurable.mobile,available,22.98,26.98,medium,low,9,namecheap,,,09/08/2026 04:33
+bedcd599-8159-4f0f-b792-e5e3ad9f8a69,above.mobile,premium,390,390,high,low,5,namecheap,,,21/09/2026 14:29
+d800f3b5-1691-49fa-8ac2-a5042d555b70,joke.mobile,premium,1300,1300,high,low,4,namecheap,,,22/09/2026 06:20
+37b5fc3e-ea31-4181-83f0-4a575321d807,gonzalez.mobile,premium,780,780,high,low,8,namecheap,,,25/09/2026 16:13
+21352d8c-9973-4d88-b852-1e76c6ef0649,bones.mobile,available,26.98,,high,low,5,namecheap,,,
+6f99c0e9-869d-4dd6-bead-f2ed3bcd0ddf,stud.mobile,premium,2600,2600,high,low,4,namecheap,,,24/09/2026 23:35
+a08db1d2-0de8-4a43-b02c-a59ae517881e,desultory.mobile,available,22.98,26.98,medium,low,9,namecheap,,,14/08/2026 04:36
+a54777bd-4609-458b-8d94-ff0a0d7c56e3,speeds.mobile,premium,390,390,medium,low,6,namecheap,,,20/09/2026 02:30
+7bb7b7e9-c4f3-4b44-a91d-f4529bf4af2b,reportable.mobile,available,22.98,26.98,medium,low,10,namecheap,,,09/09/2026 14:36
+5de42745-0c8a-4330-9a16-8c0ae9a3e875,liaise.mobile,available,22.98,26.98,high,low,6,namecheap,,,22/08/2026 08:15
+d8f007a3-01b3-4911-adcb-dbae5697a979,theorise.mobile,available,22.98,26.98,high,low,8,namecheap,,,24/09/2026 17:20
+450d4625-b666-4236-8d07-82401397746f,zillion.mobile,premium,780,780,high,low,7,namecheap,,,11/09/2026 19:50
+5170d9d0-6c38-455d-8921-f6a464b63711,acadian.mobile,available,22.98,26.98,high,low,7,namecheap,,,16/09/2026 20:29
+9117e866-3861-4683-878d-31c1a37a933d,excitement.mobile,premium,780,780,high,low,10,namecheap,,,25/09/2026 05:50
+484cbe42-2cd8-4801-8637-36f7829a43d8,loth.mobile,premium,375,375,medium,low,4,name.com,,,24/08/2026 08:19
+8195eed5-bd54-45ee-922b-8bb72e7728db,rateable.mobile,available,22.98,26.98,high,medium,8,namecheap,,,09/09/2026 10:32
+a3302747-2cc7-4a83-b803-0843f5e7564c,forthright.mobile,available,22.98,26.98,high,low,10,namecheap,,,11/08/2026 16:42
+7dddda15-9702-46f8-91fe-f23a7408d05c,conformist.mobile,available,22.98,26.98,medium,low,10,namecheap,,,12/08/2026 21:13
+19e3209e-aba7-4ac9-92b7-ca1b50b8511d,brutal.mobile,premium,750,750,medium,low,6,name.com,,,08/08/2026 15:45
+2d3dc17f-c9f7-42c2-88ab-a69d8a825ec1,budding.mobile,premium,750,750,high,low,7,name.com,,,11/08/2026 07:42
+1234a4fb-f603-4266-8b27-78a63d99b803,ail.mobile,premium,390,390,high,low,3,namecheap,,,17/09/2026 21:05
+d24d0bd4-72e7-4171-99b3-a6caf1a3e109,noxious.mobile,available,22.98,26.98,medium,low,7,namecheap,,,03/09/2026 22:21
+f99b0cf4-3c0c-425c-beb8-9049360e3cd2,dilute.mobile,premium,750,750,high,low,6,name.com,,,
+7f092c74-c2db-4a6a-b168-bc345c51e2fe,sphingine.mobile,available,22.98,26.98,high,medium,9,namecheap,,,10/09/2026 15:32
+56454e45-54ef-45db-bdd9-7fdd8b16060a,selling.mobile,premium,780,780,high,low,7,namecheap,,,25/09/2026 09:15
+89692d24-4074-4c34-abd7-eec928003c89,stormbound.mobile,available,22.98,26.98,low,low,10,namecheap,,,10/09/2026 21:22
+83420584-e5c5-4526-88e5-de8066382402,fatso.mobile,available,22.98,26.98,medium,low,5,namecheap,,,17/08/2026 23:54
+1f5adbb1-f9ee-415c-94bf-8cde20e6ed61,enraged.mobile,premium,750,750,medium,low,7,name.com,,,
+ce44a78f-41fb-44d1-9cd2-7f6f2668a12c,amora.mobile,available,22.98,26.98,high,low,5,namecheap,,,18/09/2026 22:38
+906c57be-5ad6-45c6-9268-0319f445f0e9,rattling.mobile,premium,750,750,high,low,8,name.com,,,11/08/2026 04:30
+c95ecedf-fd32-4caf-914b-4f14b2c91eb9,makes.mobile,premium,390,390,high,low,5,namecheap,,,16/09/2026 09:30
+07b9dfc4-ae99-4d1d-8c1a-d005520e9d71,stomachic.mobile,available,22.98,26.98,medium,low,9,namecheap,,,18/08/2026 20:37
+cb1a81eb-474e-43a0-b2ea-527231a01533,pollen.mobile,premium,375,,high,low,6,name.com,,,
+c48e1c78-c656-4abc-82a3-72edb2e2693e,arrival.mobile,premium,390,390,high,low,7,namecheap,,,20/09/2026 09:13
+9c771d66-d716-45de-9c20-53d2b79fb9f4,relaxed.mobile,premium,390,390,high,low,7,namecheap,,,09/09/2026 13:24
+76830d12-94f8-474b-917d-98f6bae94491,acres.mobile,available,22.98,26.98,high,low,5,namecheap,,,17/09/2026 02:56
+fffb3a48-b1d9-4947-9ede-50d5d73b55c2,logy.mobile,premium,375,375,medium,low,4,name.com,,,18/08/2026 09:55
+2e576997-fec7-43c9-b416-d4730ea92d81,midweek.mobile,premium,780,780,high,low,7,namecheap,,,13/09/2026 09:34
+2674f84b-7431-48db-b3b4-4a09120ccca1,aweigh.mobile,available,22.98,26.98,low,low,6,namecheap,,,07/08/2026 14:29
+1550692d-0e1a-4c9c-acbb-eb9d93264baf,divers.mobile,premium,375,,high,low,6,name.com,,,
+b1219304-7d14-4852-aeb6-cab27c5c44f7,civilized.mobile,premium,750,750,high,low,9,name.com,,,12/08/2026 09:06
+85d7cf85-4050-439b-9b9d-50add9775a4c,auberge.mobile,premium,375,375,high,low,7,name.com,,,21/09/2026 02:29
+bf5c02f0-95b3-4c87-adb1-2b7a54d6c575,blinded.mobile,available,22.98,26.98,medium,low,7,namecheap,,,10/08/2026 14:24
+7bdcd18e-edf4-4ef9-8fdc-f0d49a868003,construct.mobile,premium,390,390,high,low,9,namecheap,,,24/09/2026 10:59
+269e5ed7-ec05-4a7b-927e-80e3f7e66d19,aqua.mobile,premium,390,390,high,medium,4,namecheap,,,19/09/2026 22:48
+fd60d120-ef51-468e-8490-558de360e444,procedural.mobile,premium,780,780,high,low,10,namecheap,,,09/09/2026 02:31
+f7607440-cbfb-418d-b63b-67c510e5e9c9,dial.mobile,premium,227.5,227.5,high,medium,4,namecheap,,,24/09/2026 22:10
+29a85333-6bee-4853-a3ce-e370989eb3b5,canary.mobile,premium,750,750,high,low,6,name.com,,,11/08/2026 16:10
+e445bbb8-1fb7-445c-8f29-7ee3305143da,winkle.mobile,available,22.98,26.98,medium,low,6,namecheap,,,18/08/2026 06:48
+a34335e7-bb2c-4c53-bea4-eac1e4ddb14f,gramme.mobile,premium,375,,high,low,6,name.com,,,
+781af632-cffc-4787-a1d8-d62f5cfff5c3,pickaback.mobile,available,22.98,26.98,medium,low,9,namecheap,,,15/09/2026 19:48
+dc6bdca2-d61e-4150-ac40-e1eb9bb21d40,caprice.mobile,premium,780,780,high,low,7,namecheap,,,24/09/2026 12:38
+ac3ac8f9-ece7-45f8-9524-917614cb7adc,inbred.mobile,available,22.98,26.98,medium,low,6,namecheap,,,22/08/2026 00:42
+bfd81059-5752-4d0c-af31-ef318478d43a,babar.mobile,premium,390,390,high,low,5,namecheap,,,21/09/2026 12:14
+9ffaf022-8eef-419b-969c-758ac967d942,sulphur.mobile,available,22.98,26.98,medium,low,7,namecheap,,,20/09/2026 22:29
+7464d793-42bb-4062-9b1d-bbd0ada7e51c,divisible.mobile,available,22.98,26.98,high,low,9,namecheap,,,14/08/2026 13:57
+2bb94a19-d3b9-44f9-ac97-586c3450b6c6,perverse.mobile,premium,750,750,medium,low,8,name.com,,,14/08/2026 02:31
+8b6e7ccd-c7e2-4e14-bec1-46c9b24adf0b,overfed.mobile,available,22.98,26.98,medium,low,7,namecheap,,,04/09/2026 20:33
+cdb2f1c9-85be-4df3-aa53-550aa886a47a,dirt.mobile,premium,52,52,high,low,4,namecheap,,,24/09/2026 10:53
+b2496e3e-c269-4afc-9ded-c372570d012f,miniskirt.mobile,premium,750,750,high,low,9,name.com,,,24/08/2026 23:47
+7c51d265-fdff-46a0-b794-23254ec3bc6c,warning.mobile,premium,780,780,high,low,7,namecheap,,,13/09/2026 08:25
+1794f2ba-e72d-4a4c-a3f0-dfe1aa3c86e4,cord.mobile,premium,375,,high,low,4,name.com,,,
+e47aa7d3-ddfa-4321-b5a8-4669ed22ada4,ferial.mobile,available,22.98,26.98,medium,low,6,namecheap,,,18/08/2026 01:56
+5e3a3ac8-fbfa-4360-8029-47a774e79cf5,upper.mobile,premium,375,,high,low,5,name.com,,,
+8d4ce730-232b-42b3-98b7-64a84b358213,anyways.mobile,available,22.98,26.98,medium,low,7,namecheap,,,13/09/2026 20:13
+a6c0ce98-b404-4e00-9a1f-c71e113341d6,baldr.mobile,available,22.98,26.98,medium,low,5,namecheap,,,21/09/2026 21:35
+8a28d689-d1c5-458c-a773-9e72abae56a2,innocent.mobile,premium,750,750,high,low,8,name.com,,,12/08/2026 10:16
+f02bdc96-faaa-4823-b03b-9daa51d20baa,stuttgart.mobile,premium,780,780,high,low,9,namecheap,,,25/09/2026 10:46
+7d5e5604-be44-4d00-935d-cb9cf79a547d,stubby.mobile,available,22.98,26.98,high,low,6,namecheap,,,10/09/2026 22:56
+0b70ba1e-50e8-4673-b258-0f0f6e41aacd,taxing.mobile,available,22.98,26.98,medium,low,6,namecheap,,,11/08/2026 10:33
+87aaee20-631c-4976-8386-a4ce4712d6df,infertile.mobile,available,22.98,26.98,medium,low,9,namecheap,,,22/08/2026 04:24
+d4765b60-198e-4e3e-929b-a2b6eed41e74,derivative.mobile,available,22.98,26.98,high,low,10,namecheap,,,14/08/2026 03:01
+c08e83d7-45fb-4d8b-a1ee-df457905c374,unyielding.mobile,available,22.98,26.98,high,low,10,namecheap,,,14/08/2026 15:01
+ada94bf3-e9a3-468a-b469-92cb2cdee70b,noise.mobile,premium,750,,high,low,5,name.com,,,
+0da5105f-8b69-46ed-bec5-861f051eea41,agony.mobile,premium,780,780,high,low,5,namecheap,,,11/09/2026 01:10
+2a9cb19a-9e8b-4801-9ebe-40dba26e5839,aboulic.mobile,available,22.98,26.98,medium,low,7,namecheap,,,
+a4a92910-7174-45fe-8d14-3453a5d50f91,continuous.mobile,premium,750,750,high,low,10,name.com,,,23/09/2026 22:20
+11201929-a104-4ebf-b62e-470373e0ba51,migrant.mobile,premium,750,750,high,low,7,name.com,,,24/08/2026 22:47
+904b26bf-20b2-486e-ac02-d1fba3ef0fb1,jewelled.mobile,available,22.98,26.98,high,low,8,namecheap,,,18/08/2026 21:12
+cc57f955-8c61-429b-a914-c1ad22343bcf,directory.mobile,premium,227.5,227.5,high,low,9,namecheap,,,24/09/2026 22:24
+ef85cea2-ffcc-4bbc-b375-5bee076309e8,starving.mobile,available,22.98,26.98,medium,low,8,namecheap,,,10/09/2026 19:04
+5cd24103-e77a-4697-be47-bcb83154e8db,timeworn.mobile,available,22.98,26.98,medium,low,8,namecheap,,,08/08/2026 11:14
+3e90f3f4-247c-403a-82c0-e4f2f6f2640a,dope.mobile,premium,1250,1250,high,low,4,name.com,,,24/08/2026 10:28
+b138428e-d47a-4876-b233-74d814daba2b,truculent.mobile,available,22.98,26.98,medium,low,9,namecheap,,,11/09/2026 20:29
+0dae55e3-77d6-4d96-a3d7-cc03f275285f,precursory.mobile,available,22.98,26.98,high,medium,10,namecheap,,,09/09/2026 01:20
+3cd61884-d681-4c15-a26e-547853fd43b7,farsighted.mobile,available,22.98,26.98,high,low,10,namecheap,,,17/08/2026 22:41
+b921579f-7c16-4c7b-a40f-2164e8d4e2fb,treble.mobile,available,22.98,26.98,high,low,6,namecheap,,,14/08/2026 16:41
+107d48d3-d8c8-49de-97a1-8cb9f7d76728,spareribs.mobile,available,22.98,26.98,high,low,9,namecheap,,,22/09/2026 04:41
+cb7f97ed-b0af-48e1-9ffb-c5897704f1d5,afp.mobile,premium,390,390,high,low,3,namecheap,,,17/09/2026 15:12
+8b367f73-d72d-4385-a565-df1f05cb7512,tarry.mobile,premium,780,780,medium,low,5,namecheap,,,09/09/2026 15:16
+9e367323-117b-46a1-95e4-9546884bb141,litigate.mobile,premium,780,780,medium,low,8,namecheap,,,17/09/2026 05:06
+df8d57a5-986e-4899-83f9-dae3bc0a8852,anodic.mobile,available,22.98,26.98,high,low,6,namecheap,,,
+93330a36-739c-40df-97f8-6ff874d00407,hotfoot.mobile,available,22.98,26.98,high,low,7,namecheap,,,09/09/2026 19:44
+9f0e1d7f-5123-45e8-9e67-cd631354783b,bunk.mobile,available,22.98,26.98,medium,low,4,namecheap,,,03/09/2026 20:32
+dd401d55-7916-4635-a1bb-5d9bae2bf5be,nursery.mobile,premium,390,390,high,low,7,namecheap,,,24/09/2026 23:01
+f8d8f737-8902-412d-a33a-6a19f94a2aa3,poke.mobile,premium,375,375,high,low,4,name.com,,,22/08/2026 18:45
+33d1d0fe-1fcf-4462-9a74-32dfc24295e0,used.mobile,premium,390,390,high,low,4,namecheap,,,25/09/2026 07:44
+a2005091-dde4-4121-82cb-707d62ce271e,amazement.mobile,available,22.98,26.98,high,low,9,namecheap,,,18/09/2026 16:18
+5a8f6365-bf1d-404a-b90a-9bec26f6ddad,totally.mobile,premium,780,780,high,low,7,namecheap,,,22/09/2026 00:22
+650bcb34-e27f-472b-b378-d15052b4833e,costume.mobile,premium,780,780,high,low,7,namecheap,,,24/09/2026 18:31
+78dff3ca-6028-4d96-908f-186d2c595966,proved.mobile,premium,375,,high,low,6,name.com,,,
+a3799f28-1966-44e5-8902-8c9069dbe1c5,gum.mobile,premium,780,780,high,low,3,namecheap,,,24/09/2026 14:25
+b6ab39b2-8b6e-476c-8e73-0ccc75f9862b,terminus.mobile,premium,780,780,high,low,8,namecheap,,,11/09/2026 11:48
+cd0de75a-da2f-41f9-bd66-81833cb78719,trinity.mobile,available,22.98,26.98,high,medium,7,namecheap,,,21/09/2026 13:07
+d031147e-851f-4d5a-ab45-a14f730f035d,dessert.mobile,premium,390,390,high,low,7,namecheap,,,25/09/2026 10:39
+d6228206-bc0c-4d2f-88fd-c9b10b3806c1,audiotape.mobile,premium,1300,1300,high,low,9,namecheap,,,21/09/2026 03:01
+9f9349c1-1705-4fa2-9cdb-e5b5af245e7f,unvalued.mobile,available,22.98,26.98,medium,low,8,namecheap,,,12/09/2026 22:02
+c2367995-fdea-44ab-843b-0605db6daa96,bechamel.mobile,available,29.99,29.99,high,low,8,name.com,,,22/09/2026 22:33
+b51b9494-7699-42b5-a875-505fbb0dec7d,anointer.mobile,available,22.98,26.98,medium,low,8,namecheap,,,19/09/2026 11:18
+f1d212aa-f7d4-458e-b344-b2d9ee5610ee,record.mobile,premium,390,390,high,low,6,namecheap,,,24/09/2026 19:29
+d8f823dd-a820-4176-b33b-bd23942ae175,brummagem.mobile,available,22.98,26.98,medium,low,9,namecheap,,,11/08/2026 06:42
+1cb86ce7-81ac-4351-9f8d-1c2aaaf1e987,untested.mobile,available,22.98,26.98,medium,low,8,namecheap,,,12/09/2026 21:13
+f7096431-3012-4136-8a21-b92d0cc43996,allusive.mobile,available,22.98,26.98,high,low,8,namecheap,,,
+db4e11d4-4b1b-47ab-a787-33e7ae42496d,selective.mobile,premium,780,780,high,low,9,namecheap,,,10/09/2026 01:58
+7d3b0705-fba8-448b-adfe-4ed0dfafe2f3,raining.mobile,available,22.98,26.98,high,low,7,namecheap,,,19/09/2026 11:06
+3a095363-8c88-4c82-b3f9-b8c16a6a6d43,replying.mobile,available,22.98,26.98,medium,low,8,namecheap,,,18/09/2026 12:55
+a4631e93-c4aa-47bb-b087-106104957dbc,ascendable.mobile,available,22.98,26.98,medium,low,10,namecheap,,,07/08/2026 00:35
+ae7fdde4-a983-4c67-bb89-5eb4fa4ba20d,single.mobile,premium,780,780,high,low,6,namecheap,,,21/09/2026 10:43
+56032bb9-21ea-4f16-b39d-eb0d6a0d8698,unprepared.mobile,premium,780,780,medium,low,10,namecheap,,,12/09/2026 17:22
+f8d2253a-e708-4787-bc8d-f8eec7fdbcf8,seaborne.mobile,available,22.98,26.98,medium,low,8,namecheap,,,10/09/2026 00:34
+57a7b64b-cff0-41cc-b984-4d591f84bf69,backwater.mobile,available,29.99,29.99,high,low,9,name.com,,,21/09/2026 16:21
+55ba4fc2-482e-4def-bca1-845d63b6c3c4,rustling.mobile,available,22.98,26.98,high,low,8,namecheap,,,03/09/2026 11:20
+5d5cbde0-7e52-437b-a9fe-4a232496ebe8,incompatible.mobile,premium,750,,high,low,12,name.com,,,
+a7128f12-408d-431c-9593-9e6ebf07bbc7,chinch.mobile,available,22.98,26.98,medium,low,6,namecheap,,,22/09/2026 22:46
+bb8f1f58-12e9-4a19-aaa6-3ec23e80f17a,audubon.mobile,premium,780,780,medium,low,7,namecheap,,,21/09/2026 03:14
+78c68690-0db4-4de0-ae88-8d3b7a9eeeee,parisian.mobile,premium,780,780,high,low,8,namecheap,,,08/09/2026 01:34
+7033a32f-8d52-47c7-9ebf-803249db0347,ethically.mobile,available,22.98,26.98,high,low,9,namecheap,,,14/09/2026 16:20
+deb2f7d8-4330-49a4-aae5-2143f23c2452,actuator.mobile,available,22.98,26.98,medium,low,8,namecheap,,,17/09/2026 05:24
+cc68c6f6-07f7-4f95-8ed1-35f19b6ba259,products.mobile,premium,390,390,high,low,8,namecheap,,,08/09/2026 11:31
+b5b7ab74-735e-4526-8009-226199ecbacb,unedited.mobile,available,22.98,26.98,medium,low,8,namecheap,,,12/09/2026 08:51
+3ecb8b18-60d8-420e-b135-f9caba6ecc30,bottom.mobile,premium,750,750,high,low,6,name.com,,,09/08/2026 11:50
+f50141fb-e838-4651-bb5c-6dd1e16aefc0,instate.mobile,available,26.98,,medium,low,8,namecheap,,,
+c1d3b2f7-f99a-49e6-bd28-aa51376b5a11,southwest.mobile,premium,1300,1300,high,medium,9,namecheap,,,10/09/2026 14:57
+1c8f7d73-efbb-484c-a973-0102aaf1cb9c,straying.mobile,available,22.98,26.98,high,low,8,namecheap,,,10/09/2026 22:14
+263a0e7b-5d56-4f3c-b8dc-0d405a1543e8,stroller.mobile,available,22.98,26.98,high,low,8,namecheap,,,18/09/2026 17:04
+2ecd1db3-e30e-4b00-b125-38726fe8765f,biracial.mobile,available,22.98,26.98,high,low,8,namecheap,,,10/08/2026 05:42
+5dba35f6-cd87-453c-995c-4d2acaad908f,tax.mobile,premium,750,,high,medium,3,name.com,,,
+010c0b49-71df-4e99-a2df-e3b126ec8377,sunset.mobile,premium,375,,high,low,6,name.com,,,
+89644b15-34b0-4ead-a782-4f887a6bf654,unattended.mobile,available,22.98,26.98,medium,low,10,namecheap,,,12/09/2026 01:17
+58ae05ab-f57c-4c34-b7af-e29eda030948,seconds.mobile,premium,780,780,high,low,7,namecheap,,,25/09/2026 18:47
+b9f1b7bf-a4aa-4237-adad-357d07b55316,donation.mobile,premium,750,,high,low,8,name.com,,,
+135e4d67-e22c-4502-85f0-3fb8288eb57b,andalucia.mobile,available,22.98,26.98,high,low,9,namecheap,,,19/09/2026 03:58
+f9b609a8-55e4-4045-aa47-6ef5afda9717,date.mobile,premium,1250,,high,low,4,name.com,,,
+2182dd54-54eb-45af-9990-1f2029acf65f,arctium.mobile,available,22.98,26.98,medium,low,7,namecheap,,,20/09/2026 02:49
+6020a02c-6bc6-4555-b4d0-61856b07ccd4,briton.mobile,premium,375,375,high,low,6,name.com,,,11/08/2026 04:48
+cd1b92e3-be92-4de8-9461-e8a894e8b9f8,atrocity.mobile,premium,750,750,medium,low,8,name.com,,,21/09/2026 00:49
+fabc4336-9dd5-4f9c-8960-607e53ce2113,section.mobile,premium,780,780,high,low,7,namecheap,,,08/09/2026 06:07
+9cadb7cd-657d-46fd-8c11-f6ee778e28df,verpa.mobile,available,29.99,29.99,medium,low,5,name.com,,,23/09/2026 05:34
+6f9e2789-3185-4706-b740-443849634431,bricks.mobile,premium,375,,high,low,6,name.com,,,
+40ba1615-751d-47ec-a09e-e7fa06a0c299,omissive.mobile,available,22.98,26.98,medium,low,8,namecheap,,,04/09/2026 02:28
+e963be95-1274-4504-951a-afba3d187d31,cpr.mobile,premium,1300,1300,high,low,3,namecheap,,,24/09/2026 12:51
+0bdf5710-a112-4d3b-9b5d-eb3bf55b3975,gita.mobile,premium,390,390,high,low,4,namecheap,,,23/09/2026 12:33
+ab0ff378-e22c-444a-a022-91550c7cae3b,pawpaw.mobile,available,22.98,26.98,high,low,6,namecheap,,,20/09/2026 14:11
+e8fccc92-fc6a-4853-9880-767d62bbe19b,ecru.mobile,available,22.98,26.98,medium,low,4,namecheap,,,09/08/2026 12:26
+d7c86d3d-7dc4-48f6-aa49-846eec95d88e,ruminant.mobile,available,22.98,26.98,high,medium,8,namecheap,,,09/09/2026 19:22
+b4c3fbf9-655d-444e-8c78-de9d0a8909c9,middling.mobile,available,22.98,26.98,medium,low,8,namecheap,,,22/08/2026 13:46
+1ddd114c-8858-4b42-8981-85f2d1c424c0,perjury.mobile,available,22.98,26.98,medium,low,7,namecheap,,,22/09/2026 21:18
+8c8b051e-e04c-493b-aa66-a86d97031da3,alces.mobile,available,22.98,26.98,high,low,5,namecheap,,,18/09/2026 03:55
+aaca5f20-e122-4bc3-85c0-d4a19fe773b5,ferrous.mobile,available,22.98,26.98,medium,low,7,namecheap,,,18/08/2026 02:09
+66704ff5-7d91-456f-84db-0f2d916c0475,flies.mobile,premium,390,390,high,low,5,namecheap,,,25/09/2026 06:05
+0129dece-5f75-475c-bb6f-d95a347da4d5,riotous.mobile,available,29.99,29.99,medium,low,7,name.com,,,13/08/2026 20:26
+fa553dca-1bea-489d-a522-855e92eb6f10,oppressed.mobile,premium,780,780,medium,low,9,namecheap,,,04/09/2026 16:50
+81a91f17-7924-4667-b9a3-07a9765da979,esfahan.mobile,premium,780,780,medium,low,7,namecheap,,,20/09/2026 14:33
+761065da-ba48-4b10-a6ff-ce269dde970f,agnomen.mobile,premium,780,780,medium,low,7,namecheap,,,17/09/2026 18:44
+b30ba970-cd06-443f-819b-bc9d38cd8e90,simulate.mobile,premium,750,750,high,low,8,name.com,,,10/09/2026 05:47
+07ac06f1-e1fa-42af-b74d-281cb4664e07,suspend.mobile,premium,750,,high,low,7,name.com,,,
+219f97f7-c0a6-4127-9aa8-b3dfedaf1fab,color.mobile,premium,1300,1300,high,low,5,namecheap,,,23/09/2026 15:05
+f642f1d7-a4f6-4457-94b7-faf9f975f240,necessity.mobile,premium,750,750,high,low,9,name.com,,,24/09/2026 15:20
+dc383019-7f7b-439c-9d51-5c36514c5e65,valueable.mobile,available,26.98,,medium,low,9,namecheap,,,
+c69ac5b6-d6a6-4932-91ae-e2cac1c86352,jamaican.mobile,premium,750,750,high,low,8,name.com,,,22/08/2026 12:11
+dac5ceb1-4bda-47a3-915c-87a660c5f0fa,horizontal.mobile,premium,375,375,high,low,10,name.com,,,21/08/2026 14:00
+00364488-6869-4d41-bbfa-b1e99cefd3b4,out.mobile,premium,2600,2600,high,low,3,namecheap,,,25/09/2026 17:35
+34e8287b-1e44-4148-bb4c-e5adc3401cc7,florid.mobile,available,22.98,26.98,medium,low,6,namecheap,,,07/08/2026 17:26
+3d588ca6-e9bc-4471-afb6-fb79b0db4b28,arp.mobile,premium,390,390,high,low,3,namecheap,,,20/09/2026 08:35
+67c17590-ec18-4835-9053-87fa7334e32d,plump.mobile,available,22.98,26.98,high,low,5,namecheap,,,12/08/2026 07:35
+f8c16ef6-89c0-4153-9d22-3d0fef10733e,enumerable.mobile,available,22.98,26.98,medium,low,10,namecheap,,,13/08/2026 03:30
+0a71a47b-3333-40a3-9a7e-644407882dfb,envelope.mobile,premium,1300,1300,high,low,8,namecheap,,,25/09/2026 22:36
+d24c9d77-9fce-4932-adc0-232608d71412,blankly.mobile,available,22.98,26.98,medium,low,7,namecheap,,,14/09/2026 00:13
+4c7ada6f-e2f6-4461-86c7-b0d3bd2baac5,aga.mobile,premium,390,390,high,low,3,namecheap,,,17/09/2026 15:58
+87007105-88ca-4b33-8e0c-b9f6b05e335e,extrovert.mobile,available,22.98,26.98,high,low,9,namecheap,,,17/08/2026 19:27
+8a02132e-4bd1-4605-821f-1e5c6d245a8c,believer.mobile,premium,390,390,high,low,8,namecheap,,,23/09/2026 05:13
+674d0d7b-6fed-4524-bdaf-53c22d1a54d8,bidet.mobile,premium,780,780,high,low,5,namecheap,,,23/09/2026 13:46
+eb9a4693-588d-4df2-8ea3-cf04bd07d952,abdominal.mobile,available,22.98,26.98,high,low,9,namecheap,,,21/09/2026 13:47
+88892ddf-19d0-4004-8672-504768f11175,letters.mobile,premium,750,,high,low,7,name.com,,,
+5c084105-15f1-4be0-83e8-8d5910246b92,clxxv.mobile,available,22.98,26.98,medium,low,5,namecheap,,,
+7df7fdf9-e653-4f0f-a414-b1698c614098,aromatic.mobile,available,22.98,26.98,high,low,8,namecheap,,,22/09/2026 08:02
+ba622d06-569b-4008-b5cc-12ae1606b2c8,libyan.mobile,premium,750,750,high,low,6,name.com,,,23/08/2026 00:54
+79abcd64-4340-463a-818f-246d0456ed7d,surefooted.mobile,available,22.98,26.98,high,low,10,namecheap,,,18/08/2026 10:50
+9e67c805-8c2d-4721-9be9-3a1b45cbe5cc,realistic.mobile,premium,780,780,high,low,9,namecheap,,,03/09/2026 13:57
+d5941dc9-abe0-4ba3-8559-454a9ddc0db3,swaggie.mobile,premium,1300,1300,medium,low,7,namecheap,,,11/09/2026 05:03
+adfa59a5-b58b-4e28-9094-0a4114b348c9,beetling.mobile,available,22.98,26.98,medium,low,8,namecheap,,,09/08/2026 08:22
+f07f088b-8cc5-4011-bb3e-20ea55d188af,ahura.mobile,premium,780,780,high,low,5,namecheap,,,17/09/2026 20:40
+09053b51-5f29-43bc-ad51-082261606c48,fleshy.mobile,available,22.98,26.98,medium,low,6,namecheap,,,18/08/2026 08:02
+f9e3e3aa-d9b9-4d1e-97e5-22e4ea7108d7,aggregated.mobile,available,22.98,26.98,high,low,10,namecheap,,,
+72f26643-1b01-49c4-bcac-7094ccf68046,expense.mobile,premium,780,780,high,low,7,namecheap,,,24/09/2026 22:30
+4c7bf273-a81f-4678-886e-dfeda897a81a,sixer.mobile,available,22.98,26.98,medium,low,5,namecheap,,,
+558a24aa-f1cd-4902-b84f-9f47ceb6c347,romanist.mobile,available,22.98,26.98,medium,low,8,namecheap,,,05/09/2026 01:28
+fc0dc3cf-cc97-4b1f-9ca5-38260da09eae,shovels.mobile,premium,750,750,medium,low,7,name.com,,,20/09/2026 10:22
+c6ad8701-1c18-424d-a784-43b9ff41bdc5,droll.mobile,available,22.98,26.98,medium,low,5,namecheap,,,14/08/2026 19:39
+c751d3ea-3685-4c67-a9d0-ee6225f004b0,guinean.mobile,available,22.98,26.98,high,low,7,namecheap,,,20/08/2026 20:52
+759c90da-b8fe-4123-8a24-fa97ee975c7a,audiometry.mobile,available,22.98,26.98,medium,low,10,namecheap,,,21/09/2026 02:58
+4bbe6f47-adb6-4e60-a019-ac441934d868,brothel.mobile,premium,2600,2600,medium,low,7,namecheap,,,21/09/2026 18:15
+997c7fc9-65bf-4837-ac74-f35d636632e7,donatus.mobile,available,22.98,26.98,medium,low,7,namecheap,,,17/09/2026 12:26
+10ff7a88-2e9a-4341-af08-77ca032cfbb5,rectangle.mobile,premium,750,,high,low,9,name.com,,,
+e31f9e85-16ed-4920-baba-921f831857bb,hunt.mobile,premium,390,390,high,medium,4,namecheap,,,25/09/2026 23:08
+2b580f3f-dce9-495b-8976-388d9d06b67a,inhabited.mobile,premium,750,750,high,low,9,name.com,,,22/08/2026 04:59
+777f6d02-991b-4c5e-9f0a-f76447167e9f,rhombic.mobile,available,22.98,26.98,medium,low,7,namecheap,,,09/09/2026 16:43
+4f94455a-8975-4c10-bcfe-86283dd3e76f,jazzy.mobile,available,22.98,26.98,high,low,5,namecheap,,,22/08/2026 12:35
+ea6c5133-1709-457d-9dc7-35c96b872a2b,norvasc.mobile,available,22.98,26.98,medium,low,7,namecheap,,,18/09/2026 21:58
+0be49a88-741a-4b0b-bc3c-47f7c18b2d2d,moderate.mobile,premium,750,750,high,low,8,name.com,,,12/08/2026 00:16
+c05490d6-8561-499b-9953-6a8bcc6e9db3,perky.mobile,premium,390,390,high,low,5,namecheap,,,08/09/2026 17:33
+1588f5a0-6eed-43bf-84e0-cb36abb3b88c,renewal.mobile,premium,750,,high,low,7,name.com,,,
+af5d50eb-92b0-4fe5-a9fe-6e6be6e3b70a,steak.mobile,premium,375,,high,low,5,name.com,,,
+87c93200-d6a4-416e-b0a6-f26ecbd032e9,belladonna.mobile,premium,780,780,high,low,10,namecheap,,,21/09/2026 00:55
+148b37ca-e1cb-45cc-a060-8a2e18efd900,peregrine.mobile,available,22.98,26.98,medium,low,9,namecheap,,,25/08/2026 02:20
+15a70d91-e770-40fd-9e3b-08b03755fe47,bedbug.mobile,available,22.98,26.98,medium,low,6,namecheap,,,22/09/2026 22:45
+d42171c5-6a08-4957-bf5f-e4b17b5496f8,hereto.mobile,available,22.98,26.98,medium,low,6,namecheap,,,15/09/2026 00:34
+336d3454-230b-4657-abf8-613e37f4a40b,purposely.mobile,available,22.98,26.98,high,low,9,namecheap,,,13/09/2026 17:36
+57a72337-6665-4596-9971-eeafa8b0a5da,observation.mobile,premium,750,750,high,low,11,name.com,,,26/09/2026 00:49
+c6ae5a7f-fb9f-4c2c-ba7d-5a100ebb954c,cantonal.mobile,available,22.98,26.98,medium,low,8,namecheap,,,11/08/2026 17:44
+848c0d76-8fa2-4d57-bb72-2f90c0ba3c68,bib.mobile,premium,780,780,high,low,3,namecheap,,,23/09/2026 12:42
+fedb4bf9-a96e-4a40-80e0-edf649afd589,raconteur.mobile,available,22.98,26.98,high,low,9,namecheap,,,19/09/2026 05:14
+a910d382-64cc-42ed-b38f-4f30260e404b,restlessly.mobile,available,22.98,26.98,medium,low,10,namecheap,,,15/09/2026 23:29
+3607caee-38f1-426a-8b2f-2869f002b232,becomingly.mobile,available,22.98,26.98,medium,low,10,namecheap,,,13/09/2026 23:45
+a4823dfd-e189-424b-9476-a61589ab0c77,offerings.mobile,available,22.98,26.98,medium,low,9,namecheap,,,18/09/2026 10:39
+58731d8f-6ff5-4876-9db7-88e5fe56badf,albedo.mobile,available,22.98,26.98,high,low,6,namecheap,,,18/09/2026 02:30
+50d3fc33-bd5e-4226-8b48-30dca2c776ee,exhaustive.mobile,available,22.98,26.98,medium,low,10,namecheap,,,17/08/2026 17:08
+f3fc3ebd-8e03-4f65-985d-1e0fd5a64627,lxiii.mobile,available,22.98,26.98,medium,low,5,namecheap,,,
+3d152c64-7347-49b2-a1a2-5615e460cfcf,cathectic.mobile,available,22.98,26.98,medium,low,9,namecheap,,,11/08/2026 21:45
+d736298f-a30d-4ef2-b8d2-d20d3987e3bb,cleaver.mobile,premium,375,,medium,low,7,name.com,,,
+06eeb156-6a1a-4bca-99df-358f25d7158c,rewards.mobile,premium,390,390,high,low,7,namecheap,,,20/09/2026 02:14
+8667c075-d08c-4d88-ab96-a07903a65090,prismatic.mobile,available,22.98,26.98,high,low,9,namecheap,,,09/09/2026 02:09
+1431e193-0c23-4da1-9d14-6533879680c5,stealing.mobile,premium,780,780,medium,low,8,namecheap,,,11/09/2026 13:24
+74d31a5a-0a82-402c-8ecc-691b061d9cd5,debut.mobile,premium,780,780,high,low,5,namecheap,,,24/09/2026 21:09
+d9f7709e-8c5c-4496-b606-332d8d8ab50f,consort.mobile,premium,780,780,high,low,7,namecheap,,,16/09/2026 22:56
+5031bdcd-b86a-4422-99b2-b4f02de65b2c,pedagogic.mobile,available,22.98,26.98,medium,low,9,namecheap,,,08/09/2026 12:15
+b9cc0a82-c940-4450-a0a9-a3d74eccb7ff,sobersided.mobile,available,22.98,26.98,high,medium,10,namecheap,,,10/09/2026 13:07
+d4666c59-7107-4cc7-9c34-20bff6b1509c,atelier.mobile,premium,780,780,high,medium,7,namecheap,,,20/09/2026 11:53
+36e91980-11c4-45ec-a79b-6c10c78e05ba,orderly.mobile,premium,780,780,high,low,7,namecheap,,,03/09/2026 14:34
+1b7609d6-98f2-43a2-9636-5d8a0a5f37ee,illusional.mobile,available,22.98,26.98,medium,low,10,namecheap,,,21/08/2026 20:11
+49fffe74-97d9-480b-bc59-10c306b9b2fe,vagrant.mobile,available,22.98,26.98,high,low,7,namecheap,,,14/08/2026 19:18
+7a868081-39c0-4d00-a10e-6d6f14203d90,furnished.mobile,available,22.98,26.98,high,low,9,namecheap,,,18/08/2026 18:50
+937e0429-6f12-4a67-a7c3-9438c0fd7b16,denny.mobile,available,22.98,26.98,high,low,5,namecheap,,,25/09/2026 15:22
+1e5ff785-25ee-4ee0-ae86-22d6684ed0bf,fierce.mobile,premium,390,390,high,low,6,namecheap,,,23/09/2026 01:48
+a96f7ab5-e8b5-42c4-87c6-27bad952cac9,cadmium.mobile,available,22.98,26.98,high,low,7,namecheap,,,11/08/2026 22:59
+06dbf69a-3388-4fe0-85d9-516eeb1c2fde,maladroit.mobile,available,22.98,26.98,medium,low,9,namecheap,,,24/08/2026 13:35
+11a4cbb3-bad9-47d3-9547-9cefec8fd4b3,enlivening.mobile,available,22.98,26.98,medium,low,10,namecheap,,,
+040fff2c-e6b1-4e2b-b6e2-1bd9a1c96e0e,bookish.mobile,available,22.98,26.98,high,low,7,namecheap,,,10/08/2026 19:09
+5928d1ea-142d-48f9-bc6f-e3a4afea1ff3,bleach.mobile,premium,390,390,high,low,6,namecheap,,,24/09/2026 03:49
+05681cc3-373d-4096-b274-1e05049079f9,argal.mobile,available,22.98,26.98,medium,low,5,namecheap,,,20/09/2026 04:10
+4d145370-707a-434d-ab86-8a607be37317,hock.mobile,available,22.98,26.98,high,low,4,namecheap,,,09/09/2026 16:33
+ee0ba547-205a-4751-bf8a-ff6e55ae558d,unmannered.mobile,available,22.98,26.98,low,low,10,namecheap,,,08/08/2026 07:28
+9af8223f-c16b-4afd-8dea-f1930abca2e0,sigmoid.mobile,available,22.98,26.98,high,medium,7,namecheap,,,10/09/2026 07:58
+dccd0c3d-f1d5-4f6e-bb7d-b89ca5db3852,pout.mobile,available,22.98,26.98,high,low,4,namecheap,,,18/09/2026 18:12
+5a2074a6-08e5-4b31-ad9b-47e584a9e1b2,skim.mobile,premium,390,390,high,low,4,namecheap,,,10/09/2026 09:32
+662a6313-a24b-4b28-8866-0159fda7dc37,wooded.mobile,available,22.98,26.98,high,low,6,namecheap,,,13/09/2026 13:11
+cfdff6c8-c785-4a70-a5f1-15ef7ad40931,angioma.mobile,available,22.98,26.98,medium,low,7,namecheap,,,19/09/2026 06:14
+426f382f-a720-453a-8cfa-6f54d005918b,clonal.mobile,available,22.98,26.98,medium,low,6,namecheap,,,12/08/2026 12:01
+1f578bd0-f222-4e3b-b793-b3b49e216a5c,equivalent.mobile,premium,780,780,high,low,10,namecheap,,,24/09/2026 14:50
+61fffc35-22d1-443b-890c-130f74997835,unlearned.mobile,available,22.98,26.98,medium,low,9,namecheap,,,21/08/2026 18:31
+e59e5589-e578-4f18-b0b4-89129c98f212,axseed.mobile,available,22.98,26.98,medium,low,6,namecheap,,,21/09/2026 10:31
+d603726b-d615-4f09-93c0-60da20207f5d,arid.mobile,premium,375,375,medium,low,4,name.com,,,06/08/2026 18:58
+74f3b0a7-cbfb-4186-9303-c938211cf7ce,hanoverian.mobile,available,22.98,26.98,medium,low,10,namecheap,,,20/08/2026 23:44
+f084f5b9-e63b-49ba-bd60-496f60edae78,scrunch.mobile,available,22.98,26.98,medium,low,7,namecheap,,,13/08/2026 07:18
+99ed7208-dcb4-4202-8eb7-c53b51066d9c,creatively.mobile,available,26.98,,high,low,10,namecheap,,,
+6270dc3d-7c74-401e-b07c-9249bf6cab86,velocities.mobile,premium,780,780,medium,low,10,namecheap,,,18/09/2026 19:40
+73f69be8-7414-4434-8e36-0e48704428dc,abuzz.mobile,available,22.98,26.98,medium,low,5,namecheap,,,
+9513c234-d0f0-457c-98cc-824d2716d1d7,altruistic.mobile,available,22.98,26.98,high,low,10,namecheap,,,22/09/2026 02:48
+5e5ed1e4-0f73-4045-b96d-a8f203b2f056,beckett.mobile,available,29.99,29.99,high,low,7,name.com,,,22/09/2026 22:39
+1f7797ea-fb90-4233-a62a-adf7cdc9a090,undyed.mobile,available,22.98,26.98,medium,low,6,namecheap,,,12/09/2026 02:08
+3df859e0-4da2-4eb2-9b6d-f7cf8352a108,bodily.mobile,premium,1250,1250,high,low,6,name.com,,,10/08/2026 16:52
+d30c5d21-4156-42bb-b3d2-a3f69b9e74ca,take.mobile,premium,375,,high,low,4,name.com,,,
+0772c23d-58e1-4d2a-b146-44ffb44c6480,jolty.mobile,available,22.98,26.98,medium,low,5,namecheap,,,11/08/2026 09:50
+849c1237-9285-4124-8194-f2204fe059c0,xcii.mobile,available,22.98,26.98,medium,low,4,namecheap,,,
+e552792b-b263-42af-bb3a-af2fe08065c0,walmart.mobile,premium,840,840,high,high,7,namecheap,,,
+937316cc-04af-402d-998c-524bd56f8c31,weathered.mobile,available,22.98,26.98,high,low,9,namecheap,,,13/09/2026 09:21
+3da18165-3c07-4dd1-b57e-15156b603a9d,edgy.mobile,premium,375,375,high,low,4,name.com,,,15/08/2026 08:39
+61c150fd-c0e9-4a49-8ae5-9c2b20f60c74,asserted.mobile,available,22.98,26.98,medium,low,8,namecheap,,,07/08/2026 05:54
+b6b4a840-be12-4f5b-9d88-fa2f67984276,moment.mobile,premium,750,,high,low,6,name.com,,,
+34cf9183-d800-4cf5-b131-d3e510ae118a,expression.mobile,premium,750,,high,low,10,name.com,,,
+3a08f2b7-98df-44dd-900c-48ad04281272,tartaric.mobile,available,22.98,26.98,medium,low,8,namecheap,,,11/09/2026 08:48
+fc1574b7-cac1-444b-8487-22ff1352da51,family.mobile,premium,390,390,high,medium,6,namecheap,,,25/09/2026 12:40
+13dec647-c252-4ae8-8ea7-bc1f86458a33,blinking.mobile,premium,780,780,high,low,8,namecheap,,,22/09/2026 21:58
+012b0524-523d-4461-b004-d29b768d0905,apocynum.mobile,available,22.98,26.98,medium,low,8,namecheap,,,19/09/2026 18:15
+1952a428-614c-425e-b3f3-c3ec2111ad6e,intimate.mobile,premium,780,780,high,low,8,namecheap,,,25/09/2026 10:27
+dd2b37b4-1980-4edd-ade3-c583a2453316,steady.mobile,premium,390,390,high,low,6,namecheap,,,24/09/2026 18:34
+c2973b72-6a45-405c-867a-325b563e3ac5,crownless.mobile,available,22.98,26.98,medium,low,9,namecheap,,,13/08/2026 08:38
+34ec8d08-2892-40c0-b45e-e87d5c3c7860,abeyant.mobile,premium,750,750,medium,low,7,name.com,,,
+2b3af27c-a693-4095-a51d-5e3dca270435,eighty.mobile,available,22.98,26.98,high,low,6,namecheap,,,
+506ebbb4-55d8-4d93-a593-899ea915264c,cancel.mobile,premium,375,,high,low,6,name.com,,,
+7b70b4e9-2515-45c1-b632-2ad047b20f31,acanthion.mobile,available,22.98,26.98,medium,low,9,namecheap,,,16/09/2026 20:39
+7ed8953e-1419-4698-8945-07fafc605c78,atomic.mobile,premium,375,375,high,medium,6,name.com,,,22/09/2026 11:03
+2f8e3d8a-2cc2-4713-827b-e7c9b5311640,disbelief.mobile,premium,780,780,high,low,9,namecheap,,,24/09/2026 22:29
+cf25c8fa-268c-4afb-9def-9489c8ee23cc,firmly.mobile,premium,780,780,high,low,6,namecheap,,,19/09/2026 17:07
+2674eb5e-3570-40a7-951c-c76a39ff39bb,similitude.mobile,available,22.98,26.98,medium,low,10,namecheap,,,18/09/2026 07:51
+0f43b54d-c4e9-481d-a538-78282df3a754,avaram.mobile,available,22.98,26.98,medium,low,6,namecheap,,,21/09/2026 08:40
+10c24186-27e4-469e-811b-2ce16cdde6ca,election.mobile,available,26.98,,high,low,8,namecheap,,,
+c5fe1383-eb2c-4747-afd8-af1e32d6a6af,aesir.mobile,available,22.98,26.98,medium,low,5,namecheap,,,17/09/2026 13:23
+07516cad-2d63-4485-9f97-c8ae1065420a,seventh.mobile,available,22.98,26.98,high,low,7,namecheap,,,
+14299ea2-25a9-4f9f-baf4-06688bc22be9,hard.mobile,premium,375,375,high,low,4,name.com,,,06/08/2026 16:55
+3ac2582a-ea1d-40f4-b3a1-d0bf98df96af,pluto.mobile,premium,390,390,high,low,5,namecheap,,,17/09/2026 20:47
+9b2838aa-069b-46d4-aca9-de48b9b71124,aleve.mobile,available,22.98,26.98,medium,low,5,namecheap,,,17/09/2026 15:07
+71dbebc7-e004-4808-a542-7f7a57b459d6,weirdness.mobile,available,22.98,26.98,high,low,9,namecheap,,,23/09/2026 23:18
+4204c704-faae-4b62-b64a-04a4a6a3aab9,ghastly.mobile,premium,750,750,medium,low,7,name.com,,,12/08/2026 02:39
+75ff8683-1268-412f-a803-7160230147c2,stagy.mobile,available,22.98,26.98,medium,low,5,namecheap,,,10/09/2026 18:04
+3bc04ef0-5bf2-437f-a839-eb298dd138fa,quantized.mobile,available,22.98,26.98,medium,low,9,namecheap,,,09/09/2026 07:30
+c42b85fb-721d-4377-84a5-198f71cd14d0,borodin.mobile,available,22.98,26.98,high,low,7,namecheap,,,18/09/2026 05:02
+3f614c83-b4b6-4214-b88b-6cbd2107af6d,achene.mobile,available,22.98,26.98,medium,low,6,namecheap,,,17/09/2026 00:28
+e6c49079-ad88-438a-9dfc-7cf05025782b,informer.mobile,available,22.98,26.98,high,low,8,namecheap,,,23/09/2026 11:26
+8ba04c41-7420-4b3c-9548-9fa149a9f0bd,sesotho.mobile,available,22.98,26.98,medium,low,7,namecheap,,,22/09/2026 13:00
+597a5cc2-a8ad-4bbf-aa53-0f3dce7c3fb8,scary.mobile,premium,218.75,218.75,high,low,5,name.com,,,12/08/2026 05:23
+68e2c605-d870-4e4f-8f28-1bebab0cf289,wisent.mobile,available,22.98,26.98,medium,low,6,namecheap,,,21/09/2026 04:34
+bb1f06d8-045c-4423-8bb9-3d9eee4c93ea,disturbing.mobile,premium,750,750,medium,low,10,name.com,,,14/08/2026 13:16
+d5c30939-e531-4981-a4c1-c493fb37270a,banister.mobile,available,22.98,26.98,high,low,8,namecheap,,,22/09/2026 00:28
+59cd9b85-329f-41a8-8ab4-8d4852aa47d3,stripping.mobile,premium,2600,2600,medium,low,9,namecheap,,,22/09/2026 05:59
+dc0b6476-aee8-46d2-997b-e2053be26669,bruce.mobile,available,26.98,,high,low,5,namecheap,,,
+4e60581a-4d0d-4360-b888-99918abee33b,schoolbook.mobile,available,22.98,26.98,medium,low,11,namecheap,,,19/09/2026 07:03
+b4257ce7-e7b7-49c4-8c45-5ee05c8989f3,grin.mobile,premium,375,,high,low,4,name.com,,,
+e0a91deb-5cda-4cb2-9446-15e9098cf41a,cheetah.mobile,premium,390,390,high,low,7,namecheap,,,17/09/2026 01:33
+4c603563-5d53-4d0a-87c3-a3d495112311,consoling.mobile,available,22.98,26.98,high,low,9,namecheap,,,12/08/2026 22:42
+ce67a835-e6cf-41c3-b2eb-8d7e1614c85c,joyous.mobile,premium,375,375,high,low,6,name.com,,,22/08/2026 14:06
+65843cf7-4360-4d35-9218-56032e561482,occupier.mobile,available,22.98,26.98,high,low,8,namecheap,,,09/09/2026 14:58
+58105312-2b22-477b-b2a2-8c4bd713a5fc,aarhus.mobile,available,22.98,26.98,medium,low,6,namecheap,,,16/09/2026 13:27
+323f15b8-ea7e-4fd6-938e-dc42bd289216,roving.mobile,available,22.98,26.98,high,low,6,namecheap,,,25/08/2026 02:22
+3d90c304-60d5-4790-8d81-3c8104696818,benison.mobile,available,22.98,26.98,high,low,7,namecheap,,,23/09/2026 08:11
+446980ca-57bf-4f6e-8aef-4f43d37b98c6,dickey.mobile,available,22.98,26.98,medium,low,6,namecheap,,,14/08/2026 06:29
+a38e7dcb-add0-436e-b97b-72eb9511b618,scag.mobile,premium,390,390,medium,low,4,namecheap,,,23/09/2026 14:40
+b1fa3e1a-cdc4-49ca-9cff-42c7f28bc05e,amends.mobile,premium,390,390,high,low,6,namecheap,,,18/09/2026 18:41
+5498cd96-00e7-49b0-9ae2-88d72fdc6af1,cynthia.mobile,premium,780,780,high,low,7,namecheap,,,20/09/2026 10:13
+dcafb88f-45cb-447a-98ad-74efd64364f6,storm.mobile,premium,390,390,high,medium,5,namecheap,,,25/09/2026 10:14
+b880378c-cd5d-4c6f-9f7a-401c33ed587f,reentrant.mobile,available,22.98,26.98,medium,low,10,namecheap,,,09/09/2026 10:51
+92a78bb5-1ec7-473d-9ad1-2e9282277fe8,withdraw.mobile,premium,780,780,high,low,8,namecheap,,,24/09/2026 19:10
+84e6b0f6-98d1-4730-98d8-057d1b70372e,part.mobile,premium,390,390,high,low,4,namecheap,,,15/09/2026 19:03
+546917b1-178e-4092-99dc-2d7dfe240b17,banff.mobile,premium,390,390,high,low,5,namecheap,,,22/09/2026 01:44
+4efea187-4465-4646-ad04-9f63068b6719,impostor.mobile,available,22.98,26.98,medium,low,8,namecheap,,,09/09/2026 04:59
+b50bc80f-b718-44c9-a275-cb96e76c1a18,silvertip.mobile,premium,750,750,high,low,9,name.com,,,20/08/2026 20:13
+ba7f8238-13f7-45c4-beef-b82c5877f64f,hindoo.mobile,available,22.98,26.98,medium,low,6,namecheap,,,21/08/2026 09:33
+d5a6d807-0ba8-4293-bef0-d4733d635985,alcoholic.mobile,premium,375,375,high,low,9,name.com,,,
+cc2ff7dc-2e2a-4dd8-8787-7f158e29d90d,stand.mobile,premium,375,,high,low,5,name.com,,,
+c56940ad-1af6-4b39-8b86-5bcd5c63e4cf,haversack.mobile,available,22.98,26.98,high,low,9,namecheap,,,21/09/2026 14:43
+3f951e94-e73e-4e28-bdb5-b79ed28c3515,blahs.mobile,available,22.98,26.98,medium,low,5,namecheap,,,24/09/2026 03:42
+0c637641-079f-483f-bfe5-27780776dc33,rome.mobile,premium,390,390,high,low,4,namecheap,,,25/09/2026 03:56
+8ab92324-d54f-427c-8961-282f33674b28,sued.mobile,available,26.98,,low,low,4,namecheap,,,
+00aaa0c0-96b8-46d5-aa75-742471d604b2,cosmologic.mobile,available,22.98,26.98,medium,low,10,namecheap,,,13/08/2026 02:56
+420f2352-b8be-40fc-b8c1-1c52cb5180a9,atrial.mobile,available,22.98,26.98,medium,low,6,namecheap,,,07/08/2026 14:24
+545d5771-a8d8-4054-80cf-14bef4a4d588,skinner.mobile,premium,780,780,high,low,7,namecheap,,,21/09/2026 11:52
+9590c3f0-fee7-4129-8668-8f274bcc7faa,lied.mobile,premium,52,52,high,low,4,namecheap,,,25/09/2026 08:58
+1d129c84-3adf-4021-a670-86b9ecfd2dd7,cuvier.mobile,available,29.99,29.99,high,low,6,name.com,,,22/09/2026 07:06
+07f0cd6f-3ddc-4e22-8ba4-59ce83fa2e7b,crooked.mobile,premium,375,375,medium,low,7,name.com,,,13/08/2026 07:51
+084cb11c-6643-4bdc-a35b-bf52a19c4b53,didactic.mobile,available,22.98,26.98,high,low,8,namecheap,,,14/08/2026 06:41
+c986ea23-a33a-4a3a-b410-4aae1c457a21,divorce.mobile,premium,750,750,high,low,7,name.com,,,14/08/2026 11:12
+01cde6e4-bdcd-4982-84a9-29d2b6bfca46,neodymium.mobile,available,22.98,26.98,medium,low,9,namecheap,,,20/09/2026 23:22
+12178afb-7646-47ed-8d2e-05c904d3d8b5,digest.mobile,premium,780,780,high,low,6,namecheap,,,24/09/2026 10:44
+d0f42f46-5270-456a-9ca7-a95f90ff2f08,simplicity.mobile,premium,375,,high,low,10,name.com,,,
+88fdf3a8-32c7-46db-b1a4-980d2f683110,underwater.mobile,premium,780,780,high,low,11,namecheap,,,16/09/2026 17:58
+c54a49c6-b36c-4d1e-b4c0-4a63cb37f4bb,activewear.mobile,premium,1300,1300,high,low,10,namecheap,,,17/09/2026 05:14
+d8ff1ce0-649d-4965-9efa-7dc04f230996,worked.mobile,available,26.98,,high,low,6,namecheap,,,
+465bc65c-9173-4ad9-bbf7-00d139d7b4bf,smaller.mobile,premium,780,780,high,low,7,namecheap,,,25/09/2026 14:03
+acf39036-0bd3-41eb-92e5-55f21dc6b0c3,forgotten.mobile,premium,750,750,high,low,9,name.com,,,14/08/2026 12:18
+c82594a8-6da2-485d-afc2-2789fb61e6a4,paediatric.mobile,available,22.98,26.98,high,low,10,namecheap,,,04/09/2026 22:51
+86237806-3060-47cf-b432-5971b8fd14d9,kingpin.mobile,available,22.98,26.98,high,low,7,namecheap,,,23/09/2026 15:25
+c9329b35-d8d0-4944-9722-225a2413178f,sentential.mobile,available,22.98,26.98,medium,low,10,namecheap,,,10/09/2026 03:50
+ecd8aa7b-285b-4908-93fd-d95cdbc49f4d,balinese.mobile,available,22.98,26.98,high,low,8,namecheap,,,21/09/2026 22:03
+e626f0e1-fe94-4f0e-b33f-e58495821d99,besom.mobile,available,22.98,26.98,medium,low,5,namecheap,,,23/09/2026 10:25
+34f5156c-271c-48dd-a69d-3e4c89ef74a4,status.mobile,premium,375,,high,medium,6,name.com,,,
+f1cdeac5-1525-4d02-b0bf-c8c167c5db8b,stronger.mobile,available,26.98,,high,low,8,namecheap,,,
+7c987e46-b104-4f17-b27f-9a1f5de4e418,jarvis.mobile,premium,390,390,high,medium,6,namecheap,,,27/09/2026 01:43
+073f461e-70f8-4c40-8bdc-4c99cbc64a53,unwavering.mobile,premium,750,750,high,low,10,name.com,,,18/08/2026 05:12
+6ba63688-9500-4435-91b4-6ca9402ede4f,income.mobile,premium,750,,high,low,6,name.com,,,
+b9ac8cb3-6d6a-4c2b-ad87-535504d53a6c,consultive.mobile,available,22.98,26.98,medium,low,10,namecheap,,,
+e20e1fd6-fa89-4731-a7a4-3ca21a4c2ba8,gripe.mobile,available,22.98,26.98,high,low,5,namecheap,,,23/09/2026 00:19
+e36eee84-1579-4f27-b36d-7a37edd5bcc4,isaiah.mobile,available,22.98,26.98,high,low,6,namecheap,,,24/09/2026 06:53
+8becfed9-60c3-432d-a89c-a6ac2606ba2e,hinder.mobile,premium,780,780,high,low,6,namecheap,,,24/09/2026 23:48
+023b98fd-718a-4321-a41c-10bd76b20ce7,temporary.mobile,premium,780,780,high,low,9,namecheap,,,25/09/2026 07:53
+c671a3b6-258e-4076-8926-5eaa44ca6211,vibration.mobile,premium,1300,1300,high,low,9,namecheap,,,19/09/2026 17:28
+45a87180-72a0-45f7-8520-b4afef54e962,aeronautic.mobile,available,22.98,26.98,high,low,10,namecheap,,,
+f09c7795-5ae2-4d5c-b1cc-8eb75b73929e,inharmonic.mobile,available,22.98,26.98,low,low,10,namecheap,,,14/08/2026 10:54
+80c938f8-b5f2-4de1-ac93-55be2c0418de,sums.mobile,available,22.98,26.98,medium,low,4,namecheap,,,18/09/2026 07:08
+32695eb6-7fc9-448c-ac81-43541a8bef33,bosky.mobile,available,22.98,26.98,medium,low,5,namecheap,,,10/08/2026 20:17
+abc829bb-2a31-4987-a87f-d97a62c343d0,unsound.mobile,available,22.98,26.98,medium,low,7,namecheap,,,24/09/2026 16:24
+0a1a5846-7e1e-4847-8507-757cb8cbb23c,xxxiv.mobile,available,22.98,26.98,medium,low,5,namecheap,,,
+7b3dfd99-01c1-4c23-9558-94aace9ccc9d,sweetener.mobile,available,22.98,26.98,high,low,9,namecheap,,,21/09/2026 19:45
+fbf58d84-7774-4b98-86ba-6c1f5a62b317,kid.mobile,premium,390,390,high,low,3,namecheap,,,25/09/2026 12:09
+49dde2c7-139e-429d-b87f-3484159064bc,restrain.mobile,premium,750,,high,low,8,name.com,,,
+6968eb6b-5aec-4ba3-88e5-f43ce55967b4,retinal.mobile,available,22.98,26.98,high,low,7,namecheap,,,09/09/2026 15:37
+19797789-abc9-4430-9c32-665ab9935255,sterilization.mobile,premium,780,780,high,low,13,namecheap,,,16/09/2026 21:54
+207e5da4-9986-45df-b215-fd19968b764d,picky.mobile,premium,375,375,high,low,5,name.com,,,18/08/2026 05:00
+ed44a2c8-738b-493a-99cc-2c1df8831a02,rock.mobile,premium,1250,,high,low,4,name.com,,,
+91398a28-7acf-4fe1-a480-06df89b88d5f,falsely.mobile,available,22.98,26.98,medium,low,7,namecheap,,,14/09/2026 17:35
+02d6619b-2d25-4d91-b819-ae561647f7e2,visualized.mobile,available,22.98,26.98,high,low,10,namecheap,,,24/09/2026 14:20
+f7210e50-7dd0-481f-8370-68b117fff4f9,refractory.mobile,available,22.98,26.98,medium,low,10,namecheap,,,18/08/2026 13:55
+26f65c09-21a5-4f4e-8cb7-a6b989d421e4,critical.mobile,premium,780,780,high,low,8,namecheap,,,24/09/2026 02:02
+d7f76793-9be5-46fb-a7c2-f1af9c38d24e,reanimated.mobile,available,22.98,26.98,medium,low,10,namecheap,,,09/09/2026 10:58
+162fde21-975c-4086-91e4-e3a573eb395e,angelo.mobile,available,22.98,26.98,high,low,6,namecheap,,,25/09/2026 16:57
+3163f653-d681-4455-8c20-1842dfdd3c0b,mcpherson.mobile,premium,780,780,high,low,9,namecheap,,,17/09/2026 21:28
+64ae7346-75ba-44d2-8c03-1ac62276f095,stygian.mobile,available,22.98,26.98,medium,low,7,namecheap,,,
+a8a5f934-dcee-4874-9d77-37fcf0f778e7,then.mobile,premium,375,,high,low,4,name.com,,,
+abcbed02-0807-41ed-bc09-ec217d6d9b43,physically.mobile,premium,780,780,high,low,10,namecheap,,,19/09/2026 14:53
+6716a028-e31c-4a0a-b53e-1c69193fe62e,maleficent.mobile,available,22.98,26.98,medium,low,10,namecheap,,,24/08/2026 13:58
+5b2eecde-0904-468f-91be-73c0d3443e1b,amble.mobile,available,22.98,26.98,high,low,5,namecheap,,,18/09/2026 16:54
+134af58d-87d0-495e-a024-80f9664bdc83,brussels.mobile,premium,780,780,high,low,8,namecheap,,,23/09/2026 04:57
+c5bf3d53-c262-47a6-b928-b785ea849e31,skyline.mobile,premium,780,780,high,low,7,namecheap,,,19/09/2026 20:18
+8d44c21f-0822-44b0-810f-d4901651792c,sandaled.mobile,available,22.98,26.98,high,medium,8,namecheap,,,09/09/2026 21:11
+6aed3d4d-ce7b-46f9-9b29-831e4ae11270,hurried.mobile,premium,750,750,high,low,7,name.com,,,21/08/2026 15:45
+8f5a4c1a-3860-475a-ae99-8301ba81cb48,accommodate.mobile,premium,750,,high,low,11,name.com,,,
+762217be-c101-4ff9-989e-61598dca5543,dickson.mobile,premium,780,780,high,low,7,namecheap,,,25/09/2026 15:42
+7d667d4e-a4d9-4019-af22-17e72a102403,fossorial.mobile,available,22.98,26.98,high,low,9,namecheap,,,18/08/2026 13:21
+aeafa46f-0143-426b-a32b-e129ad937f68,auld.mobile,available,22.98,26.98,medium,low,4,namecheap,,,07/08/2026 17:21
+98a7626b-65bf-4177-9ebf-4d28a7004b9a,turn.mobile,premium,390,390,high,low,4,namecheap,,,24/09/2026 22:27
+427de432-e6c0-4f10-92d7-38b3770fad8e,churl.mobile,available,22.98,26.98,medium,low,5,namecheap,,,13/08/2026 05:00
+cb1c2869-9c11-4e12-a25e-aabcf1c1c4d3,dryly.mobile,available,22.98,26.98,medium,low,5,namecheap,,,14/09/2026 14:21
+99aa0481-9127-47ba-bf31-0647ae6228f2,situated.mobile,premium,780,780,medium,low,8,namecheap,,,25/09/2026 14:16
+20a4dc16-8bad-474c-92c3-b247fcbbedd2,position.mobile,premium,780,780,high,low,8,namecheap,,,19/09/2026 04:25
+62839518-83a6-47d4-82f8-cd7ea236fe71,operant.mobile,available,22.98,26.98,high,low,7,namecheap,,,04/09/2026 16:22
+16b805c9-d1c7-44d3-986b-a3bfa66126be,phage.mobile,available,22.98,26.98,medium,low,5,namecheap,,,21/09/2026 16:31
+0e1c9a8c-c7b0-4357-a802-e13f64a2ef3c,quint.mobile,premium,750,750,medium,low,5,name.com,,,
+8e8b68e2-7935-4a9a-bb8c-bd33d3f98955,nympho.mobile,premium,2600,2600,medium,low,6,namecheap,,,03/09/2026 23:18
+cd421b24-d370-4278-932c-26e8876a7b9c,angelus.mobile,available,22.98,26.98,high,low,7,namecheap,,,19/09/2026 06:03
+bd5c2339-1eb1-4e7c-8570-da2b38fa95e1,soggy.mobile,premium,750,750,high,low,5,name.com,,,10/08/2026 17:14
+4856c8a8-77ac-4b0c-8580-9bd47cd10856,mogul.mobile,premium,390,390,high,low,5,namecheap,,,23/09/2026 14:17
+7aff417b-3592-4690-8502-6a92c86f49c2,raw.mobile,premium,2500,2500,high,low,3,name.com,,,08/08/2026 18:20
+3e1a1d9a-6d6c-45fd-bc35-46c54c68b861,awhile.mobile,available,26.98,,medium,low,6,namecheap,,,
+ce93bc97-7da8-44ec-a9e4-7644368b09dd,blackbuck.mobile,premium,780,780,medium,low,9,namecheap,,,19/09/2026 14:39
+e46fd17a-98ed-4851-af86-dc5ad2db6061,tetchy.mobile,available,22.98,26.98,medium,low,6,namecheap,,,22/08/2026 10:31
+ab4c18b8-3d3f-44dc-889d-cc8843aefeea,nescience.mobile,premium,780,780,medium,low,9,namecheap,,,12/09/2026 14:26
+b88f512b-c398-4d0d-8266-758d083c8474,covering.mobile,premium,750,,high,low,8,name.com,,,
+004fa002-fd2b-40c7-b33b-0ff6598d2a6b,gerard.mobile,available,22.98,26.98,medium,low,6,namecheap,,,25/09/2026 13:17
+3f6c2891-64a2-485d-afe2-b3c351f179d8,ammeter.mobile,available,22.98,26.98,medium,low,7,namecheap,,,18/09/2026 22:00
+9d3d0ada-4564-4b6a-b049-5ba4068674f9,sunburn.mobile,available,22.98,26.98,high,low,7,namecheap,,,11/09/2026 07:53
+1275c2b2-81a8-467d-ab51-d228e8e504be,brunet.mobile,premium,375,375,high,high,6,name.com,,,11/08/2026 06:54
+ab98c494-ad84-4801-b29e-3519d7457d7b,bise.mobile,available,22.98,26.98,medium,low,4,namecheap,,,23/09/2026 21:37
+7224147a-d925-42e9-9ccd-c60af066244a,driver.mobile,premium,375,,high,low,6,name.com,,,
+0ba6aac7-05ce-4ce4-9bdf-849e0f283a6d,aubergine.mobile,premium,780,780,high,low,9,namecheap,,,21/09/2026 02:33
+5053cc91-082a-4165-8d5e-4bae874a0487,abstractly.mobile,available,22.98,26.98,medium,low,10,namecheap,,,13/09/2026 16:42
+8449a31f-1409-4cf0-bbff-402463a3ad61,abs.mobile,premium,390,390,high,low,3,namecheap,,,16/09/2026 17:29
+b308a112-1d1a-49aa-b3f7-8eb891296ed6,sectorial.mobile,available,22.98,26.98,medium,low,9,namecheap,,,10/09/2026 01:22
+ea195b2b-5cdf-4231-8654-9561e5359a00,generations.mobile,premium,390,390,medium,low,11,namecheap,,,17/09/2026 19:20
+d19084e3-a6ed-4a93-b163-cfbadc4d1597,faster.mobile,premium,390,390,high,low,6,namecheap,,,14/09/2026 17:46
+2eda8481-4158-45fe-9687-4faa3ad2fe58,probative.mobile,available,22.98,26.98,medium,low,9,namecheap,,,09/09/2026 02:27
+8ede7782-646c-48f3-b481-e5f9bb7b1a22,guest.mobile,premium,375,,high,low,5,name.com,,,
+fd51f646-17af-4c4a-b285-9a5605406948,admissible.mobile,available,22.98,26.98,high,low,10,namecheap,,,
+58db30e3-7fe7-44d8-a5e4-cf4cffe1afb6,euphonious.mobile,available,22.98,26.98,medium,low,10,namecheap,,,17/08/2026 14:17
+4a619824-51e3-4fc1-b81c-11b48e5de2ba,soph.mobile,available,22.98,26.98,medium,low,4,namecheap,,,10/09/2026 14:20
+1775597a-d576-440e-8e79-594c92e59de8,hume.mobile,available,22.98,26.98,high,low,4,namecheap,,,25/09/2026 04:46
+09f36c28-f7b1-43d3-9267-4b2af7b1b856,vinous.mobile,available,22.98,26.98,medium,low,6,namecheap,,,13/09/2026 05:47
+2809cbaf-9f1f-4830-8200-6abb3631ac0a,opposite.mobile,premium,780,780,high,low,8,namecheap,,,23/09/2026 22:35
+75bacc80-8361-4500-b15f-ac6e732e476e,headless.mobile,available,22.98,26.98,medium,low,8,namecheap,,,11/08/2026 01:43
+cf5e0a28-33da-4159-bf16-bc93772ad841,hannah.mobile,premium,780,780,high,low,6,namecheap,,,25/09/2026 11:24
+ffc86c07-6340-467c-9521-62e7feeb2099,yourselves.mobile,available,26.98,,medium,low,10,namecheap,,,
+1214d609-bf44-482e-a220-8718c78ca3df,rove.mobile,premium,375,375,high,low,4,name.com,,,10/09/2026 22:12
+a6ffd93e-21c4-4ea7-a677-cdf27b41b1f3,assiduity.mobile,available,22.98,26.98,medium,low,9,namecheap,,,20/09/2026 16:21
+45f2f280-8295-4c39-bdc4-3c6dd27ae44d,idyllic.mobile,available,22.98,26.98,high,low,7,namecheap,,,21/08/2026 18:14
+eead6a65-cc71-49d0-9c74-5b94b77e4bdc,troublous.mobile,available,22.98,26.98,low,low,9,namecheap,,,11/09/2026 20:27
+51b63cfc-f404-4b6d-93f6-2c42a4bf52f0,queried.mobile,available,22.98,26.98,medium,low,7,namecheap,,,20/09/2026 15:21
+cb30bd62-8b3b-4136-9414-858ea2238f42,apologise.mobile,available,26.98,,high,low,9,namecheap,,,
+a180d44d-c341-4d08-a348-6d12ee603bce,counter.mobile,premium,390,390,high,low,7,namecheap,,,22/09/2026 05:49
+4eacbfee-3f65-4530-a4b5-59193cdd7265,arsehole.mobile,premium,780,780,medium,low,8,namecheap,,,20/09/2026 09:34
+f6e18ee3-e130-4f23-b69c-de1b1c2a5641,tical.mobile,available,22.98,26.98,medium,low,5,namecheap,,,21/09/2026 18:48
+fb19444d-f695-423c-8741-66e3d681e80a,puffy.mobile,premium,375,375,high,low,5,name.com,,,10/08/2026 21:34
+c20360f0-90a3-41ce-b253-0501c1f80d45,detailing.mobile,premium,750,,high,low,9,name.com,,,
+0590f30d-31b0-495f-be8c-81316e7be44d,anthozoa.mobile,available,22.98,26.98,medium,low,8,namecheap,,,17/09/2026 05:01
+c9c7a323-e8b6-4515-a7b8-9d9dd49d165c,cytotoxic.mobile,available,29.99,29.99,medium,low,9,name.com,,,13/08/2026 14:44
+b3f985e7-e44d-4c62-8b49-d96ffae41942,antigone.mobile,available,22.98,26.98,medium,low,8,namecheap,,,19/09/2026 14:26
+4c759599-a6fa-4997-9ff8-d1a1a9764e0d,epidermic.mobile,available,29.99,29.99,medium,low,9,name.com,,,13/08/2026 13:09
+87d9006c-88e0-4dec-8f2f-c468457b2745,eighteenth.mobile,available,22.98,26.98,high,low,10,namecheap,,,
+1f6f0e54-b0be-4402-896d-b4ee47004a82,braided.mobile,premium,750,750,high,low,7,name.com,,,11/08/2026 01:28
+316a518a-11e9-4f8c-a12e-a58232ad74f1,cagey.mobile,available,22.98,26.98,medium,low,5,namecheap,,,11/08/2026 13:19
+07d5ed0a-d931-4bce-9f58-fdfc7a52497f,messed.mobile,available,22.98,26.98,medium,low,6,namecheap,,,17/09/2026 16:53
+7c5d4326-7e55-44b6-8eb6-6a71ed058dd9,charles.mobile,premium,375,,high,low,7,name.com,,,
+b6a27e01-394a-4abf-812e-f7c55128fa32,dud.mobile,premium,375,375,high,low,3,name.com,,,14/08/2026 20:55
+3b7e34c2-c0c3-4e85-9780-41ebed1bd625,rumanian.mobile,available,22.98,26.98,high,medium,8,namecheap,,,09/09/2026 18:28
+ca669056-fc9d-492a-a7d6-63ca314b014f,regimented.mobile,available,22.98,26.98,high,medium,10,namecheap,,,09/09/2026 12:55
+263837b4-7b06-4d2b-9595-389cda22f965,uprightly.mobile,available,22.98,26.98,medium,low,9,namecheap,,,15/09/2026 01:06
+d51df5d9-fe9e-4ec9-a683-274987c82d81,indigent.mobile,available,22.98,26.98,medium,low,8,namecheap,,,14/08/2026 04:34
+4b1a13f4-c926-418d-9caa-c53389d5a2cb,load.mobile,premium,390,390,high,low,4,namecheap,,,21/09/2026 20:07
+9dd845f8-483b-42fd-9da5-54f9d79cfc3d,guerilla.mobile,premium,750,750,high,low,8,name.com,,,22/08/2026 10:15
+c4975f17-2d56-4336-ba73-c6b939801075,exec.mobile,premium,375,,high,low,4,name.com,,,
+7e74968e-ab43-416a-98e5-a76b845d32e2,optic.mobile,premium,780,780,high,low,5,namecheap,,,25/09/2026 23:58
+3de84e30-6375-4664-9588-da5e4d51fff5,syncopated.mobile,available,22.98,26.98,high,low,10,namecheap,,,11/09/2026 06:19
+d1b08074-c40c-496e-9b59-48079e53a5af,suitably.mobile,available,22.98,26.98,high,low,8,namecheap,,,13/09/2026 20:30
+8ec5016d-8fcc-4a29-bac7-b830ee84d853,show.mobile,premium,390,390,high,low,4,namecheap,,,24/09/2026 16:06
+877a7d31-345d-4fac-bd16-a6e3bea6d2a2,whats.mobile,premium,227.5,227.5,medium,low,5,namecheap,,,20/09/2026 02:25
+3d967a45-fd18-43ea-8c02-4b4272477e1d,anhydride.mobile,available,22.98,26.98,medium,low,9,namecheap,,,19/09/2026 08:24
+477c0cee-473c-4ac5-817d-ffcbecff97a5,livingston.mobile,premium,780,780,high,low,10,namecheap,,,25/09/2026 09:01
+23f74f4e-2ad1-4df6-9e9a-e56515a5c7a7,unhearing.mobile,available,29.99,29.99,medium,low,9,name.com,,,13/08/2026 19:50
+b99cc3ad-bef6-4956-b1ca-a7ee38aeaed2,aigrette.mobile,available,22.98,26.98,medium,low,8,namecheap,,,17/09/2026 20:55
+d75e79b3-e856-4182-8737-e96a86a820b8,declining.mobile,available,26.98,,high,low,9,namecheap,,,
+9acaa7ba-d4e3-47da-af03-d3252fe302dc,values.mobile,premium,375,,high,low,6,name.com,,,
+3b915e02-8af1-43a7-bd67-bcfe6962678b,leonard.mobile,available,22.98,26.98,high,low,7,namecheap,,,25/09/2026 22:27
+42154b75-8a20-4c8c-85a0-4dcd88525785,awol.mobile,premium,375,375,high,low,4,name.com,,,08/08/2026 01:46
+2e59b643-5b3c-448d-8926-b9b65136ac63,worried.mobile,premium,780,780,high,low,7,namecheap,,,24/09/2026 11:23
+2f71c398-65aa-43c4-ac35-f65129a13261,sinuous.mobile,available,22.98,26.98,high,low,7,namecheap,,,10/09/2026 08:38
+3b0f0265-6beb-447e-a3cd-f7605bd290b6,belling.mobile,available,22.98,26.98,medium,low,7,namecheap,,,23/09/2026 06:11
+a286f4f6-ef72-4ca9-b8ee-9ec620e35e9a,hoot.mobile,available,29.99,29.99,high,low,4,name.com,,,13/08/2026 16:12
+332989ab-3ce8-4f90-9c24-f83f923d2b30,northerly.mobile,available,22.98,26.98,high,low,9,namecheap,,,03/09/2026 21:23
+af98a889-5600-4530-b832-afe22df3d531,credulous.mobile,available,22.98,26.98,medium,low,9,namecheap,,,13/08/2026 05:56
+89c19725-dcb6-4cc9-8803-ad0ed5878395,bumbling.mobile,available,22.98,26.98,medium,low,8,namecheap,,,11/08/2026 09:34
+fcc4552a-bbf7-46a6-adc1-ddd7b40f3b53,stunningly.mobile,available,22.98,26.98,medium,low,10,namecheap,,,16/09/2026 06:09
+39cdd137-3acd-48e6-acb3-28f475fe96ce,tests.mobile,premium,390,390,medium,low,5,namecheap,,,17/09/2026 22:12
+f2668c6a-ef60-4277-970b-3e90feea905c,appealing.mobile,premium,750,750,high,low,9,name.com,,,06/08/2026 05:51
+de24b107-ea7f-40fd-a67b-26013fff74d0,aqueduct.mobile,available,22.98,26.98,high,low,8,namecheap,,,19/09/2026 23:10
+133c1981-a1e2-4053-b061-69063c8902c9,adelie.mobile,available,22.98,26.98,medium,low,6,namecheap,,,17/09/2026 07:17
+b87fcfec-50bd-4a88-9398-010231b1be2b,machinery.mobile,premium,780,780,high,low,9,namecheap,,,25/09/2026 03:53
+fac50031-7475-4b26-b2e0-99e67a04b5b4,intuitions.mobile,available,22.98,26.98,medium,low,10,namecheap,,,20/09/2026 19:28
+74c05829-f4c6-4943-8fa4-5a2d17450b4d,soundly.mobile,available,22.98,26.98,high,low,7,namecheap,,,16/09/2026 05:34
+b4054790-313e-44e3-8b90-53f61c58fdee,drenched.mobile,available,22.98,26.98,high,low,8,namecheap,,,14/08/2026 18:51
+d621fc8e-b6db-48bb-8844-8e256506d9f3,centered.mobile,available,22.98,26.98,high,low,8,namecheap,,,12/08/2026 00:03
+80ff2d2f-2c82-4e4b-a7f1-d3879ef90b7c,floodlit.mobile,available,22.98,26.98,medium,low,8,namecheap,,,18/08/2026 08:47
+693f7057-726f-4935-89ae-35573c226b34,sixteenth.mobile,available,22.98,26.98,high,low,9,namecheap,,,
+6665a220-0369-41de-b7a6-110dfc46bcf8,approve.mobile,premium,780,780,high,low,7,namecheap,,,03/09/2026 23:23
+88998f51-1f8c-4410-91f4-1056767fd35b,leftish.mobile,available,22.98,26.98,medium,low,7,namecheap,,,22/08/2026 22:47
+6fb3a6c8-3f81-4ef2-a175-9d08ac6f9a18,arse.mobile,available,22.98,26.98,medium,low,4,namecheap,,,09/08/2026 10:35
+4c5af6ac-415e-4be1-a54a-f107a77f8d57,devotee.mobile,available,22.98,26.98,high,low,7,namecheap,,,11/08/2026 07:49
+6167325a-5f80-48a0-b7b5-7c43b71d2bd6,unhappy.mobile,premium,780,780,high,low,7,namecheap,,,24/09/2026 12:43
+d5d50b23-75ff-4e36-9342-7d07f5d98d85,adorable.mobile,premium,390,390,high,low,8,namecheap,,,21/09/2026 19:18
+1f1db86f-b09a-4adc-9650-a02d76d3a6e1,ruling.mobile,premium,780,780,high,medium,6,namecheap,,,09/09/2026 12:58
+1492201b-63ff-4b5f-9d7d-4bb372798a17,reversed.mobile,available,26.98,,high,low,8,namecheap,,,
+0f5b64a8-92dc-42c0-9a50-9aa9744f3939,shrugs.mobile,available,22.98,26.98,medium,low,6,namecheap,,,20/09/2026 12:14
+4e03fc70-8d8b-425d-8b85-cbc06f64410c,allusion.mobile,available,22.98,26.98,high,low,8,namecheap,,,18/09/2026 12:15
+664d7a0a-2d32-4399-a01f-f94d1ef4d8f4,write.mobile,premium,375,,high,low,5,name.com,,,
+9d77b294-cf89-4af3-a59a-007dba2378a0,managed.mobile,premium,780,780,high,low,7,namecheap,,,23/09/2026 07:14
+c1687d08-2d9a-49aa-ba82-3673e02b6eb4,pianistic.mobile,available,22.98,26.98,high,medium,9,namecheap,,,08/09/2026 19:28
+e65048fe-9546-42d4-8bae-c904b7cac45f,changing.mobile,premium,390,390,high,low,8,namecheap,,,23/09/2026 13:46
+f9975ab4-63b3-4353-be5e-35d1129ad056,resistant.mobile,premium,750,750,high,low,9,name.com,,,09/09/2026 15:18
+28c6b304-b9a0-486e-9b65-7a090f0ef37f,arjuna.mobile,premium,780,780,high,low,6,namecheap,,,20/09/2026 06:08
+3c9c9a76-ab0b-42c7-9837-22d7e9538531,understandable.mobile,available,26.98,,high,low,14,namecheap,,,
+5c211809-1aa7-489b-aa32-12908443a473,nicky.mobile,premium,420,420,high,low,5,namecheap,,,
+cdc33326-a4e2-4de2-8f6b-7fe30d96a8de,shakeable.mobile,available,22.98,26.98,medium,low,9,namecheap,,,10/09/2026 05:34
+35980fef-bb49-4490-8ecc-eccd1b0da679,exothermic.mobile,available,22.98,26.98,medium,low,10,namecheap,,,17/08/2026 17:46
+f3aded31-e676-417c-bcfd-23f76af70690,igneous.mobile,available,22.98,26.98,medium,low,7,namecheap,,,21/08/2026 18:16
+c67e9838-340a-4064-ba8e-0708d4245729,breathtaking.mobile,available,26.98,,high,low,12,namecheap,,,
+7dfce213-1789-4b9a-bc96-9a3b0aa67b71,calla.mobile,premium,390,390,high,low,5,namecheap,,,20/09/2026 12:12
+b2353307-bb0f-4e43-8335-f89f31235772,heartsick.mobile,available,22.98,26.98,medium,low,9,namecheap,,,11/08/2026 05:30
+7d03b91a-1b8f-45f0-9ca8-e9b8f7b4ce0e,annum.mobile,available,22.98,26.98,high,low,5,namecheap,,,19/09/2026 11:04
+18184c33-0184-4ad7-865e-363a3c510ebf,feasible.mobile,available,22.98,26.98,high,low,8,namecheap,,,17/08/2026 16:48
+6d4d6548-1ee0-468e-a92b-872437e5921f,amir.mobile,premium,227.5,227.5,high,low,4,namecheap,,,18/09/2026 17:58
+aa171b96-1c4a-41f9-acb0-be035861a8e5,level.mobile,premium,1300,1300,high,medium,5,namecheap,,,24/09/2026 15:32
+89163d0e-5520-4fa3-b095-c3b0b7292a1c,eatable.mobile,available,22.98,26.98,medium,low,7,namecheap,,,12/08/2026 18:47
+41e7dca2-1d90-473e-8f40-9032b59b40f1,amaryllis.mobile,available,22.98,26.98,high,low,9,namecheap,,,18/09/2026 15:59
+a15fc81d-e14f-463d-9efd-c831389bd306,families.mobile,premium,375,,medium,low,8,name.com,,,
+c43d0508-83b4-4d7c-9a60-8850b1b5b70c,debasement.mobile,available,22.98,26.98,medium,low,10,namecheap,,,17/09/2026 10:16
+e51a66d1-f117-4870-9ca7-74395f7b97c2,irony.mobile,premium,390,390,high,low,5,namecheap,,,24/09/2026 13:17
+c5c29fef-3ed8-4942-a284-b08730ca9d26,phantasmal.mobile,available,22.98,26.98,medium,low,10,namecheap,,,06/08/2026 05:33
+92cfc022-e91c-4298-80c4-da82904e9b3c,supplicant.mobile,available,22.98,26.98,medium,low,10,namecheap,,,11/09/2026 03:28
+f4ff87eb-5aae-4d34-9ab1-8d3d5971ddf9,differently.mobile,premium,780,780,medium,low,11,namecheap,,,26/09/2026 03:11
+050d357c-b23f-4e78-8bc0-387213f48dcd,dike.mobile,premium,375,375,medium,low,4,name.com,,,11/08/2026 11:33
+89de7d8f-c049-4708-9151-dc3b3beff06d,madrono.mobile,available,22.98,26.98,medium,low,7,namecheap,,,20/09/2026 01:04
+65cc6ba0-b2b0-4b40-b151-1e2667d413a3,floury.mobile,available,22.98,26.98,medium,low,6,namecheap,,,18/08/2026 09:00
+48a698b4-0c50-4206-bf51-5c40f748fa1e,hays.mobile,available,22.98,26.98,medium,low,4,namecheap,,,20/09/2026 10:51
+d96f5efb-56ee-4774-86cf-0b0dba3765f2,allsorts.mobile,available,22.98,26.98,low,low,9,namecheap,,,16/09/2026 05:53
+e503bb52-52b9-4ae4-80f7-b0f730211917,boehm.mobile,available,29.99,29.99,high,low,5,name.com,,,23/09/2026 03:39
+d6b63193-a715-413a-8ed1-0213916c0432,disheveled.mobile,available,22.98,26.98,medium,low,10,namecheap,,,14/08/2026 10:56
+163ad29b-08b0-4fee-a004-565491ecc81a,slowest.mobile,available,22.98,26.98,medium,low,7,namecheap,,,16/09/2026 02:44
+64658ca2-6c6e-432a-9d57-a2a3f1102f9c,adviseable.mobile,available,26.98,,high,low,10,namecheap,,,
+053721ca-70d8-4539-8a87-a147b80b930f,tang.mobile,premium,390,390,high,low,4,namecheap,,,24/09/2026 01:32
+626c3f4c-f22e-4e61-912a-cbc3339b828b,hoarfrost.mobile,available,22.98,26.98,medium,low,9,namecheap,,,21/08/2026 10:07
+8b00764b-7dbc-40de-8264-e1b56fc33251,strangled.mobile,available,22.98,26.98,high,medium,9,namecheap,,,10/09/2026 12:13
+030adca8-c2d6-4c97-a950-afb9ef414947,weedless.mobile,available,22.98,26.98,medium,low,8,namecheap,,,13/09/2026 10:00
+a2e581fc-da31-4945-8be1-83427a924359,reactive.mobile,premium,780,780,high,low,8,namecheap,,,09/09/2026 10:56
+153d6962-7dde-4b67-adaf-1841ac5c2968,resistible.mobile,available,22.98,26.98,medium,low,10,namecheap,,,09/09/2026 15:20
+701ad2bd-82dc-4df7-bcad-2189ef68c7f8,objector.mobile,available,22.98,26.98,medium,low,8,namecheap,,,14/08/2026 12:43
+008c504c-63ef-41aa-a259-cb512e1fce79,froze.mobile,premium,750,,medium,low,5,name.com,,,
+65ee49fb-ad5b-45a5-85aa-2048fee1fdbd,mistreat.mobile,available,22.98,26.98,medium,low,8,namecheap,,,16/09/2026 19:06
+a32566aa-c4b4-4ab0-8aac-496eb965542d,melodious.mobile,available,22.98,26.98,high,low,9,namecheap,,,24/08/2026 19:38
+2f59528e-7ba0-46ce-a9a0-f4d21a205e0f,persistence.mobile,premium,750,,high,low,11,name.com,,,
+718f0b14-7cef-4af8-871b-f121449bbf00,balls.mobile,available,26.98,,high,low,5,namecheap,,,
+329526b7-0b37-4858-ad78-58c2367a7c82,astaire.mobile,available,22.98,26.98,medium,low,7,namecheap,,,20/09/2026 16:54
+01b37d37-d1e2-4e21-9f7c-5c09272d43ec,adoptable.mobile,available,22.98,26.98,high,low,9,namecheap,,,
+30a0a4bc-d6cd-4f7d-86eb-af3db21eb4b0,cantaloup.mobile,available,22.98,26.98,high,low,9,namecheap,,,24/09/2026 12:08
+53badc5a-7779-49ea-a907-3592f049acfd,america.mobile,premium,9375,,high,low,7,name.com,,,
+e0e48f84-a546-4f04-bddd-5bf04ec33d3f,expandable.mobile,available,22.98,26.98,high,low,10,namecheap,,,17/08/2026 17:51
+af11a5fd-4014-4f01-8cab-e07cf918eda4,already.mobile,premium,750,,high,low,7,name.com,,,
+e1b3b472-3fbb-4ce6-8d10-763639d6e21b,playstation.mobile,premium,1400,1400,high,high,11,namecheap,,,
+83c54054-64bb-473f-bab1-ff3fb631d103,draws.mobile,premium,375,375,high,low,5,name.com,,,
+822e6942-5585-47e1-81d3-cde133d3ed34,unhappiness.mobile,available,26.98,,medium,low,11,namecheap,,,
+73aebda9-1cab-4f70-a11b-1205fed1228b,neem.mobile,premium,780,780,high,low,4,namecheap,,,20/09/2026 05:40
+0d86855d-7450-4368-8ab8-314af6ca789f,uncharged.mobile,available,22.98,26.98,medium,low,9,namecheap,,,12/09/2026 05:06
+a3d384b3-27b7-4a9a-a66a-169e2bda277e,miranda.mobile,premium,780,780,high,low,7,namecheap,,,25/09/2026 12:16
+49913fa6-05bb-4df9-aca0-2bacb1b2a945,alhambra.mobile,available,22.98,26.98,high,low,8,namecheap,,,18/09/2026 07:18
+7b88cf40-6d11-4752-8678-d3efdb6cff5a,welcoming.mobile,available,22.98,26.98,high,low,9,namecheap,,,13/09/2026 10:14
+83e09420-9677-464e-a3ed-658a0b82c30d,aerial.mobile,premium,750,750,high,low,6,name.com,,,
+e497a857-47d4-405c-9e14-e4e036093fe1,ant.mobile,premium,2500,,high,medium,3,name.com,,,
+71018b20-1ca8-49fa-befc-e1fa6a173f08,hush.mobile,available,22.98,26.98,high,low,4,namecheap,,,09/09/2026 08:50
+dce67458-3544-4405-9443-7b04e7350fc7,rican.mobile,available,22.98,26.98,high,low,5,namecheap,,,25/09/2026 13:13
+3d1cae42-0f81-4a0f-990e-cfca45e39664,exclamation.mobile,premium,750,,high,low,11,name.com,,,
+0a88b732-e109-4c27-85c8-ed74e0ec35cc,comparably.mobile,available,22.98,26.98,medium,low,10,namecheap,,,14/09/2026 07:37
+bf3f240b-a86a-44e6-a838-b5604be6e66a,orphaned.mobile,available,22.98,26.98,medium,low,8,namecheap,,,04/09/2026 18:01
+10115e60-dc00-42c9-802c-2166dd5eac67,walters.mobile,premium,780,780,high,low,7,namecheap,,,25/09/2026 15:56
+60a5606d-01e1-4e2a-86b3-cca6ff6c480d,neverending.mobile,premium,750,,high,low,12,name.com,,,
+6d755ed6-a463-496e-aa1f-d6ef8e84a0e5,tapering.mobile,available,22.98,26.98,high,low,8,namecheap,,,14/08/2026 21:50
+198159e1-42c4-4108-9f16-da085a24d4ec,lighten.mobile,available,26.98,,high,low,7,namecheap,,,
+e3b9d6dd-3d65-4baa-ad65-4b576786c475,optically.mobile,available,22.98,26.98,medium,low,9,namecheap,,,15/09/2026 18:03
+7d470ac5-88e8-4fcd-b47e-486b8c62f033,subsidiary.mobile,premium,780,780,high,low,10,namecheap,,,22/09/2026 14:17
+b0f0ef56-7e95-4581-adf4-aa5de5d1b693,permanent.mobile,premium,750,750,high,low,9,name.com,,,22/08/2026 20:24
+4149ceff-6ab3-44f2-92e6-c6e3817caff7,milky.mobile,available,22.98,26.98,high,low,5,namecheap,,,24/08/2026 23:02
+3819fd1d-3d8f-409e-ace6-b6b3da06634c,solitary.mobile,premium,750,750,high,low,8,name.com,,,24/08/2026 08:55
+fce728d9-59aa-4a2b-8f8f-aada919da4c2,clausal.mobile,available,22.98,26.98,medium,low,7,namecheap,,,12/08/2026 10:00
+56cb45e3-2d4d-4f76-8bbb-1508d1e2b317,spectral.mobile,premium,750,750,high,low,8,name.com,,,06/08/2026 05:38
+3a9daa7a-19cd-405f-b95c-325a96026a87,mixing.mobile,premium,750,,high,low,6,name.com,,,
+2d7b87f5-2b28-47fe-a61e-ffcd212736d9,ratings.mobile,premium,780,780,medium,low,7,namecheap,,,19/09/2026 11:52
+18b76562-9c65-4a0d-9b45-a6659b660a8b,casual.mobile,premium,780,780,high,low,6,namecheap,,,23/09/2026 13:14
+25fb65ff-8342-4e0b-934c-95f0ac55c88e,underling.mobile,available,22.98,26.98,medium,low,9,namecheap,,,11/09/2026 00:39
+074b8c2e-ce1a-431d-9f88-e5ad06fc67fe,confucian.mobile,available,22.98,26.98,high,low,9,namecheap,,,12/08/2026 21:15
+c02d37c5-b67c-4642-ac27-7337008a3158,peck.mobile,available,22.98,26.98,high,low,4,namecheap,,,25/08/2026 00:37
+cbfec944-ad95-4186-8780-2990b8a76394,downy.mobile,available,22.98,26.98,high,low,5,namecheap,,,14/08/2026 17:40
+70c87d37-3651-4d8f-8b12-964f927f5999,recaptured.mobile,available,22.98,26.98,medium,low,10,namecheap,,,18/09/2026 19:20
+34da2fd9-79f2-4965-8b4b-63dc72ef3aa8,murphy.mobile,premium,227.5,227.5,high,low,6,namecheap,,,25/09/2026 07:49
+8ec0d86e-cb33-44e3-9450-ab0031fcea9b,apex.mobile,premium,390,390,high,medium,4,namecheap,,,19/09/2026 16:45
+45265d71-a56f-42dc-bd74-40f3b4dc80b9,relating.mobile,available,26.98,,high,low,8,namecheap,,,
+1a9247e1-6c98-45d9-96c0-0a1d1599fabd,clap.mobile,available,26.98,,high,low,4,namecheap,,,
+1d599d3e-ac53-451c-80e4-1cbadf29c668,wilcox.mobile,premium,390,390,medium,low,6,namecheap,,,27/09/2026 01:45
+51af53bd-af1b-4094-92b9-6794c27db30e,engineers.mobile,premium,390,390,high,low,9,namecheap,,,24/09/2026 21:33
+83e78ff6-26a2-4a22-9114-d9798c49bc51,achira.mobile,available,22.98,26.98,medium,low,6,namecheap,,,17/09/2026 00:42
+4644eb46-0271-484d-9e4d-9767d02d50dc,sandhopper.mobile,available,22.98,26.98,medium,low,10,namecheap,,,22/09/2026 18:44
+f1213c09-ba7a-4163-b2b9-7ce86673bb74,location.mobile,premium,375,,high,low,8,name.com,,,
+5e415d75-200d-4f10-a99b-78205c60e435,alopex.mobile,available,22.98,26.98,medium,low,6,namecheap,,,18/09/2026 13:19
+1063eb81-47e5-4966-b9bc-eacf34edbc90,compounded.mobile,available,22.98,26.98,high,low,10,namecheap,,,12/08/2026 19:34
+6c1ad47f-43c4-45e4-a98c-b9f8f13cf085,erotic.mobile,premium,2500,2500,high,low,6,name.com,,,17/08/2026 12:42
+cc67814d-0102-44c2-8050-470f95e750ad,camouflage.mobile,available,26.98,,high,low,10,namecheap,,,
+cf766bf5-4779-4b38-b0f7-18e19bcc422c,parochial.mobile,premium,780,780,medium,low,9,namecheap,,,08/09/2026 01:46
+b9c3139c-de78-4343-9a8b-160c9f65697c,nondrinker.mobile,premium,750,750,medium,low,10,name.com,,,
+07e3e1f5-7036-474a-923a-d8b11e5fe5a7,again.mobile,premium,375,,high,low,5,name.com,,,
+4f7343d9-6fb8-454c-bd23-759d239993bd,magically.mobile,available,22.98,26.98,high,low,9,namecheap,,,13/09/2026 21:17
+7190e822-c01b-4aee-9555-ffc960a3fb30,abdicable.mobile,available,22.98,26.98,medium,low,9,namecheap,,,
+3bd1f06e-d2ba-4c1a-accd-053943750194,jelled.mobile,available,22.98,26.98,medium,low,6,namecheap,,,12/08/2026 21:27
+9977fae9-9089-4ede-8f8a-fb88bfd0f23d,daylong.mobile,available,29.99,29.99,medium,low,7,name.com,,,13/08/2026 18:51
+81c22071-ac8b-45ad-a57e-21319640b832,increase.mobile,premium,375,,high,low,8,name.com,,,
+5bcb35d2-7eaa-4c19-9e40-701390ac232f,deserved.mobile,available,22.98,26.98,high,low,8,namecheap,,,14/08/2026 03:27
+c0966417-af3e-4ed5-a4c7-11cb03fdefbf,infinite.mobile,premium,750,750,high,medium,8,name.com,,,13/08/2026 03:37
+2fea822d-8397-4a89-80de-ee8939b199fc,aging.mobile,premium,780,780,high,low,5,namecheap,,,21/09/2026 22:40
+1eb8e7ae-2936-48e0-867f-14451fb469a9,undercover.mobile,available,22.98,26.98,high,low,10,namecheap,,,12/08/2026 09:28
+acef1c89-bd13-41d5-bf31-e471925e9992,scaphoid.mobile,available,22.98,26.98,medium,low,8,namecheap,,,03/09/2026 14:11
+30326a07-cd31-432b-8296-f1b1c977c6c5,peninsula.mobile,premium,750,,high,low,9,name.com,,,
+1d3645ae-d3fc-471d-a966-0a97332f6b23,recurring.mobile,available,22.98,26.98,high,low,9,namecheap,,,09/09/2026 11:58
+ee26fbf4-7bd6-4a02-9ba3-97f1de707f26,curable.mobile,available,22.98,26.98,high,low,7,namecheap,,,13/08/2026 10:59
+a1ee8171-f995-4148-ad8a-bf68531431cf,danny.mobile,available,22.98,26.98,medium,low,5,namecheap,,,25/09/2026 17:19
+f65d5b80-2f92-44da-a81d-0509bc6c695e,spheric.mobile,available,22.98,26.98,medium,low,7,namecheap,,,08/08/2026 10:16
+484ebd81-63f1-4665-8bb5-940be73995d1,biology.mobile,premium,780,780,high,low,7,namecheap,,,24/09/2026 02:45
+82e2270c-2394-4fee-b201-401d8635c2b5,disclosure.mobile,premium,750,,high,low,10,name.com,,,
+e85f1fc5-8c68-407a-a927-752da8478c16,became.mobile,available,26.98,,medium,low,6,namecheap,,,
+96b98071-4f3f-4526-89af-53f18ff39246,arterial.mobile,available,22.98,26.98,high,low,8,namecheap,,,06/08/2026 22:29
+1ed39f6a-c12c-4539-a65b-db313bd3cc39,loser.mobile,premium,780,780,medium,low,5,namecheap,,,18/09/2026 14:19
+a5a84ed0-758d-4e5f-8df1-a101b2be04a2,clinquant.mobile,available,22.98,26.98,medium,low,9,namecheap,,,12/08/2026 11:08
+77ddc66c-3bf7-4caa-a143-ffa5864753cb,cresson.mobile,available,22.98,26.98,medium,low,7,namecheap,,,13/08/2026 06:16
+035c4748-3e45-4fa3-8c61-c26c2d658297,usda.mobile,premium,390,390,high,low,4,namecheap,,,17/09/2026 19:25
+dfe2d91a-7f0c-4543-ba7f-2a420f7fb32e,shoppers.mobile,premium,390,390,high,low,8,namecheap,,,20/09/2026 20:14
+e8658d40-8a5f-4e50-bca0-3cd64d799660,scroll.mobile,premium,390,390,high,low,6,namecheap,,,24/09/2026 20:30
+05d6703e-a49b-4fb8-bc67-34e472eaa445,too.mobile,premium,1250,,high,low,3,name.com,,,
+cd1fa86b-ccc4-4fb7-8e6a-6fd85fb5c629,pepperidge.mobile,available,22.98,26.98,medium,low,10,namecheap,,,24/09/2026 00:49
+6c845637-286b-46a8-9931-0e8f12ad47d4,pneumatic.mobile,premium,780,780,high,low,9,namecheap,,,08/09/2026 22:06
+9071ab6f-2589-470a-a908-13f287de4d69,catholicism.mobile,available,22.98,26.98,high,low,11,namecheap,,,17/09/2026 00:07
+0b2800e4-0762-467f-8912-a881394fa194,laconic.mobile,available,22.98,26.98,medium,low,7,namecheap,,,22/08/2026 18:14
+7cea5949-65f7-422f-89eb-ad89920494e8,going.mobile,premium,780,780,high,low,5,namecheap,,,24/09/2026 22:35
+d8024f18-0f6b-4e33-8d7d-e3f3731c5edf,creditably.mobile,available,22.98,26.98,medium,low,10,namecheap,,,14/09/2026 09:30
+23173e1c-3dda-465b-86ce-84a01b6cedf4,calls.mobile,premium,390,390,high,low,5,namecheap,,,18/09/2026 14:59
+1302e214-f701-4bf3-a392-596bb1b69d58,swords.mobile,available,26.98,,medium,low,6,namecheap,,,
+846996e1-976a-449c-be9a-4d9ae02e6e6f,praetorial.mobile,available,22.98,26.98,high,medium,10,namecheap,,,09/09/2026 00:59
+4fd53534-de6e-49a0-8de7-7c90459b2eaf,veinal.mobile,available,22.98,26.98,low,low,6,namecheap,,,13/09/2026 01:51
+85599dd4-a7ae-437c-8126-27e2507b6fc7,verb.mobile,available,26.98,,high,low,4,namecheap,,,
+5d895bd7-10a3-4a2e-b4db-995f4152b895,wasnt.mobile,available,26.98,,low,low,5,namecheap,,,
+ad9a32b4-fa52-45fa-80aa-54ae568f11d2,chaparral.mobile,available,22.98,26.98,medium,low,9,namecheap,,,10/09/2026 00:21
+c254287f-3198-4128-8228-263565b901f6,obsolete.mobile,available,22.98,26.98,high,low,8,namecheap,,,14/08/2026 13:30
+a48fd3eb-37cf-4321-9e02-20d9aa75ab10,columnar.mobile,available,22.98,26.98,medium,low,8,namecheap,,,12/08/2026 18:14
+d44ee619-689e-456c-8c82-00eb95382590,adps.mobile,available,22.98,26.98,medium,low,4,namecheap,,,17/09/2026 09:53
+31aaa7e2-75f6-4e1b-922d-2fdef4ee860e,skinned.mobile,available,22.98,26.98,high,low,7,namecheap,,,10/09/2026 09:44
+eafdfc6a-e465-492c-a9a9-9880a2483b00,odd.mobile,premium,780,780,high,low,3,namecheap,,,24/09/2026 03:59
+8e8131b3-32c2-4b54-9848-1f7edb3b4229,plattensee.mobile,available,22.98,26.98,medium,low,10,namecheap,,,21/09/2026 21:22
+699c6e19-e284-4eca-9cc9-f3d1067bf543,lavender.mobile,premium,1250,1250,high,low,8,name.com,,,22/08/2026 21:02
+cccae29a-ae11-4046-be0f-233b5a992e3c,browne.mobile,available,22.98,26.98,high,low,6,namecheap,,,20/09/2026 10:27
+e365f2aa-edf6-44d2-81b1-38904d895d48,pays.mobile,premium,227.5,227.5,medium,low,4,namecheap,,,25/09/2026 17:21
+48192d97-d598-4e45-a162-954d1b9107c1,citizen.mobile,premium,1250,,high,low,7,name.com,,,
+0440071f-200d-47d6-b5ad-17aef11b2b95,backbiter.mobile,available,22.98,26.98,medium,low,9,namecheap,,,21/09/2026 15:08
+992433f3-395b-4a8c-8f41-aeedc3624afc,rocklike.mobile,available,22.98,26.98,medium,low,8,namecheap,,,20/08/2026 18:00
+02e93539-7041-4499-b016-54aa36a11186,mixable.mobile,available,22.98,26.98,medium,low,7,namecheap,,,25/08/2026 01:25
+021ef7a5-a20b-4ef4-960b-f65ca0db58c1,bus.mobile,premium,2500,,high,low,3,name.com,,,
+904b5576-a051-4665-a96f-ccab13185938,cue.mobile,premium,1250,,high,low,3,name.com,,,
+3b81defb-5990-4e84-8cce-995a6dbad0cf,mitch.mobile,premium,390,390,high,low,5,namecheap,,,26/09/2026 03:07
+46610b8f-69bf-420c-a5cb-ba57183abc6c,prototypic.mobile,available,22.98,26.98,medium,low,10,namecheap,,,06/08/2026 15:42
+0e2e0ca6-d73f-4696-b392-b65425bc730f,ignitable.mobile,available,22.98,26.98,medium,low,9,namecheap,,,11/08/2026 10:46
+66e85e37-f20d-4577-a5b0-54ab5c9fd9e2,purchase.mobile,premium,750,,high,low,8,name.com,,,
+d3b90e85-3061-45c2-9406-a269eda49213,waterless.mobile,available,22.98,26.98,medium,low,9,namecheap,,,06/08/2026 19:03
+ab2a227e-79c8-4d18-a33d-368bca9c836f,prostrate.mobile,premium,780,780,high,low,9,namecheap,,,09/09/2026 03:57
+e1a06889-d97d-4944-9db7-abfcf739e3fb,cheddar.mobile,available,22.98,26.98,high,low,7,namecheap,,,18/09/2026 19:29
+699e178e-da0b-4952-987e-b0cc20d366d9,amish.mobile,available,22.98,26.98,high,low,5,namecheap,,,18/09/2026 21:52
+88164907-6b30-4c96-a496-7047cbf58cdc,caracas.mobile,available,26.98,,high,low,7,namecheap,,,
+3bcbf468-b869-4a9f-bf47-53078ac246c0,minoan.mobile,available,22.98,26.98,medium,low,6,namecheap,,,24/08/2026 23:59
+5fc2c072-4fc6-4b1f-98e1-b220c22dc95d,actinoid.mobile,available,22.98,26.98,medium,low,8,namecheap,,,
+6a4b2b55-4228-4123-9c1e-cd3e41d56418,babe.mobile,premium,218.75,,high,low,4,name.com,,,
+ae99da6f-1d48-480d-b606-24b9d4a2f70d,mai.mobile,premium,390,390,high,medium,3,namecheap,,,25/09/2026 14:04
+27d02836-51eb-47d8-bbd7-23a7b5bee484,consensual.mobile,available,22.98,26.98,high,low,10,namecheap,,,12/08/2026 22:31
+a35822c7-e0c2-4d4b-ba35-40e2f9c35040,respectfully.mobile,available,26.98,,high,low,12,namecheap,,,
+d793db66-4391-4057-bc9a-87ed7ecc284b,huntington.mobile,premium,780,780,high,low,10,namecheap,,,25/09/2026 04:18
+8a835b94-271d-4e01-a873-4a1922cdf7a0,phyletic.mobile,available,22.98,26.98,high,medium,8,namecheap,,,08/09/2026 19:22
+e84ac9ff-0dc7-44ae-85e9-532038dcf32a,erratic.mobile,available,22.98,26.98,high,low,7,namecheap,,,17/08/2026 12:46
+dcd4532a-b2bd-4568-94b2-1ab1059e1828,morbid.mobile,premium,750,750,medium,low,6,name.com,,,14/08/2026 10:10
+9e235803-c138-49b1-a60a-12e2b3b2a4aa,xxx.mobile,premium,5000,5000,high,medium,3,name.com,,,
+1f4544b0-34ce-491e-83c2-0a73d4ff3a08,purposes.mobile,available,26.98,,medium,low,8,namecheap,,,
+2223bd80-e65b-4cdd-8598-368c16cfb794,assumed.mobile,available,22.98,26.98,medium,low,7,namecheap,,,07/08/2026 07:45
+40c03468-32fd-4a91-be1d-b304525b070d,creaky.mobile,available,22.98,26.98,medium,low,6,namecheap,,,06/08/2026 22:59
+16598c88-3eea-4258-b972-583b1e0d81b8,paper.mobile,premium,1250,,high,low,5,name.com,,,
+4f8e9b9d-ef8e-462f-a0a0-c55e153b5df5,anise.mobile,available,22.98,26.98,high,low,5,namecheap,,,19/09/2026 09:24
+748a50e6-23a3-4b29-bf82-b577bcf485e5,forbidding.mobile,available,22.98,26.98,medium,low,10,namecheap,,,18/08/2026 11:08
+510d00c9-3696-4ce9-a2d3-9508e548171b,pound.mobile,premium,375,,high,low,5,name.com,,,
+cc8be515-6049-4147-acc0-920d3d0ace3a,fran.mobile,premium,1400,1400,high,low,4,namecheap,,,
+617e5945-b112-4526-b529-efc346cc93fb,unify.mobile,premium,390,390,high,medium,5,namecheap,,,22/09/2026 03:16
+1ddd289e-6f29-41a5-b297-6bef0bcf3a16,dauntless.mobile,available,22.98,26.98,high,low,9,namecheap,,,22/09/2026 12:12
+a168eed2-f010-4930-b0fe-1c37ccc63a8b,prattle.mobile,available,22.98,26.98,medium,low,7,namecheap,,,23/09/2026 23:32
+290b165c-0777-4b06-bb10-25be0db23206,members.mobile,premium,780,780,high,low,7,namecheap,,,25/09/2026 17:16
+a097a530-160d-4529-8ecf-87042863e4ad,gratis.mobile,premium,375,375,high,low,6,name.com,,,20/08/2026 18:35
+7d2b8ef2-a4d2-4c83-92dc-7d84c2ea42c6,cheerful.mobile,premium,375,375,high,low,8,name.com,,,12/08/2026 03:41
+3d9c890c-f842-426d-8516-dd4aa395fd05,edmonton.mobile,premium,780,780,high,low,8,namecheap,,,25/09/2026 22:33
+439f6add-006c-4a42-84e8-01a393587974,barilla.mobile,available,22.98,26.98,high,medium,7,namecheap,,,22/09/2026 05:52
+2d8ba5d9-dcd2-43bd-9e34-da0a4e6fd92a,both.mobile,premium,375,,high,low,4,name.com,,,
+c4db3f00-1421-4af4-ace3-d881bdc2de75,churlish.mobile,available,22.98,26.98,medium,low,8,namecheap,,,12/08/2026 07:49
+21135e21-b91f-4bdc-9351-e2877245945c,unveil.mobile,available,26.98,,high,low,6,namecheap,,,
+0f29c7a8-e4dc-4981-9a2a-8113b0caa8d6,trembling.mobile,premium,780,780,high,medium,9,namecheap,,,10/09/2026 06:41
+f689e922-2c2e-47c3-9d45-cf8be4e32417,pitchy.mobile,available,22.98,26.98,medium,low,6,namecheap,,,12/08/2026 13:45
+6a66efc5-a0d4-4c8d-97c7-2fb4cdca85d6,tunisian.mobile,premium,780,780,high,low,8,namecheap,,,11/09/2026 21:09
+a0783be2-745e-4ef4-9b72-45eaf5fe5d20,reservedly.mobile,available,22.98,26.98,medium,low,10,namecheap,,,15/09/2026 23:22
+d8bdf875-5cf9-4e57-8468-97de3fdedd18,steamy.mobile,premium,2500,2500,medium,low,6,name.com,,,21/08/2026 14:12
+ae1bcf5d-b47e-4383-96fe-7ca2ae38a9fc,provable.mobile,available,22.98,26.98,high,low,8,namecheap,,,09/09/2026 04:24
+92f720ac-a795-4b63-9220-e060592d9ff2,skag.mobile,available,22.98,26.98,medium,low,4,namecheap,,,23/09/2026 14:39
+a752a4a6-63de-4fd5-a309-b46a4210ad1e,soporific.mobile,available,22.98,26.98,medium,low,9,namecheap,,,21/08/2026 16:58
+2e26031b-ceb4-4ae4-b8f3-9c819330ff4a,bro.mobile,premium,2500,,high,low,3,name.com,,,
+4101c2b7-e2ab-4ed3-9e05-658f6be46907,arcadian.mobile,premium,750,750,high,low,8,name.com,,,06/08/2026 14:10
+eb4bba54-a84e-4f28-b6ac-d26b59872542,adeptness.mobile,available,22.98,26.98,high,low,9,namecheap,,,24/09/2026 07:48
+7c844e6f-d8c3-4c6f-830d-a54803d72724,blattodea.mobile,available,22.98,26.98,medium,low,9,namecheap,,,24/09/2026 04:54
+f210ce1f-a8e3-46ed-acf6-52c771e1b97b,chairs.mobile,premium,390,390,medium,low,6,namecheap,,,17/09/2026 18:32
+6e640b18-b80a-4101-8e70-a0a5e846f67e,boo.mobile,premium,375,,high,low,3,name.com,,,
+bb81622f-4c36-4c9d-8a2e-6b24631b689e,armful.mobile,available,22.98,26.98,medium,low,6,namecheap,,,20/09/2026 06:50
+233141d0-a2e8-4e1d-a38c-a9d85719cb6e,malawian.mobile,available,22.98,26.98,high,low,8,namecheap,,,24/08/2026 13:40
+1a93747a-900c-4c3a-96f6-2ebe87cab536,establish.mobile,premium,780,780,high,low,9,namecheap,,,22/09/2026 17:35
+d1a50815-0cac-4a40-bf0d-c42e7dc7de8d,nets.mobile,premium,390,390,high,high,4,namecheap,,,18/09/2026 06:28
+6ce68362-6f49-4f43-b4c5-353f90071cc5,aguacate.mobile,available,22.98,26.98,medium,low,8,namecheap,,,07/08/2026 23:46
+023929a6-88fb-45e4-97a9-83510b7d88ff,hot.mobile,premium,2600,2600,high,medium,3,namecheap,,,19/09/2026 15:25
+88f1a23e-dff1-456d-815b-7cc7743b5c49,spring.mobile,premium,390,390,high,medium,6,namecheap,,,23/09/2026 01:43
+d0729c13-4feb-4942-84f3-5a0deb32049d,extremist.mobile,premium,750,750,medium,low,9,name.com,,,17/08/2026 19:32
+336f9dbf-d007-41be-836a-d5c2b68b71f5,abrocome.mobile,available,22.98,26.98,medium,low,8,namecheap,,,16/09/2026 17:14
+86dda222-1648-4c25-be1d-da7db8163f1d,guthrie.mobile,premium,390,390,high,low,7,namecheap,,,25/09/2026 06:47
+f29409dc-da0a-49d4-b5b7-f9670e2d62ec,older.mobile,premium,390,390,high,low,5,namecheap,,,21/09/2026 22:32
+17af0a18-34bd-430a-a3eb-985ccd83b316,barrier.mobile,available,26.98,,medium,low,7,namecheap,,,
+248c37f5-062a-4cf4-a602-4365bb81dae7,louise.mobile,available,22.98,26.98,high,low,6,namecheap,,,25/09/2026 13:47
+e508fa57-6031-4282-9755-c233d1ff9525,bullish.mobile,available,29.99,29.99,high,low,7,name.com,,,23/09/2026 10:43
+ae8914dc-e134-422c-93a2-99a27fef9493,pre.mobile,premium,2500,,high,low,3,name.com,,,
+3892d3f0-99a3-40eb-8874-d81f1e45c61c,frame.mobile,premium,375,,high,low,5,name.com,,,
+18536f0d-b4fd-4094-8d68-08b26e0fbb9a,stradivari.mobile,premium,1300,1300,medium,low,10,namecheap,,,19/09/2026 15:41
+4f2b1e5e-21a5-47ee-9b6d-7265b2d94e1f,hopes.mobile,available,22.98,26.98,high,low,5,namecheap,,,25/09/2026 19:44
+55346dae-f56c-42a4-81da-1aab3dfb0f11,lifelike.mobile,available,22.98,26.98,high,low,8,namecheap,,,23/08/2026 01:41
+74156e14-441a-4c0d-94a1-f287e08a2e6c,underside.mobile,premium,750,750,high,low,9,name.com,,,10/08/2026 21:15
+268f83c8-1a53-42af-833f-0cb6c3e61491,hag.mobile,premium,2600,2600,high,low,3,namecheap,,,23/09/2026 04:44
+0fdf272b-2f68-4aa4-884a-35708fe44356,biggish.mobile,available,22.98,26.98,medium,low,7,namecheap,,,09/08/2026 20:33
+1b6a4f9c-4e1a-4785-b941-754de6cb5d91,pig.mobile,premium,375,,high,low,3,name.com,,,
+8800c827-9984-4705-bbaa-9cee402f1825,lowlife.mobile,premium,750,750,medium,low,7,name.com,,,11/08/2026 09:22
+9b4c302b-e167-4060-95f4-79ca8dcda3b2,tainted.mobile,available,22.98,26.98,medium,low,7,namecheap,,,11/09/2026 07:12
+54556e6f-b015-4147-a5f1-b8f03c8f120b,semi.mobile,available,22.98,26.98,high,low,4,namecheap,,,20/09/2026 11:18
+ae91c3d5-1311-4c8a-9340-03f9bd54f643,optimistic.mobile,premium,750,750,high,low,10,name.com,,,04/09/2026 17:07
+faa6aba1-1aba-430b-b401-da4db5ee9fec,issue.mobile,premium,375,,high,low,5,name.com,,,
+595a17cf-cfea-4c0d-b1f3-2be44301c5d3,enhanced.mobile,premium,750,750,high,low,8,name.com,,,17/08/2026 08:25
+89e46d72-a9c9-4628-a0fd-6efb2c2be2c1,joewood.mobile,available,22.98,26.98,medium,low,7,namecheap,,,22/09/2026 04:36
+867f4db5-ffef-4d86-ac04-c2262fe11550,disharmony.mobile,available,22.98,26.98,medium,low,10,namecheap,,,24/09/2026 22:38
+410f309f-17c6-4307-808f-4258c7baae48,xxv.mobile,premium,390,390,medium,low,3,namecheap,,,21/09/2026 12:45
+fc78df1c-da6c-4837-9b70-4ef55e868343,sobering.mobile,available,22.98,26.98,high,medium,8,namecheap,,,10/09/2026 13:02
+7f3fcd91-5603-407b-8917-d4b360b486b8,apercu.mobile,available,22.98,26.98,medium,low,6,namecheap,,,19/09/2026 16:30
+ed9e5db6-2b82-40df-8da6-d1a874225000,btu.mobile,premium,780,780,high,low,3,namecheap,,,21/09/2026 11:58
 5e0e6f6b-1ec2-4f0a-9144-dbdfb71170c0,department.mobile,premium,750,,high,low,10,name.com,,,
-9bf07d4a-3415-4531-9ea5-8a79a986f8aa,jenny.mobile,premium,218.75,,high,low,5,name.com,,,
-0410cccd-a83d-45ec-89fb-34fe079156f2,power.mobile,premium,1300,1300,high,medium,5,namecheap,,,08/09/2026 07:25
-6ab145c0-eb32-497b-8133-10a7682ee7c6,human.mobile,premium,375,,high,medium,5,name.com,,,
-7157a527-33a6-4a27-9071-8bd83ff579b7,andromeda.mobile,premium,750,,high,low,9,name.com,,,
-e86cef8e-0e99-403f-b6b6-cc9bf3a0bef0,saucepan.mobile,available,26.98,,high,low,8,namecheap,,,
-b1f735dc-5492-4fa0-9c24-cd1e4e903b47,burden.mobile,premium,750,,medium,low,6,name.com,,,
-fe310f16-e65b-493e-9f59-a967ff33a63f,registered.mobile,premium,750,,high,low,10,name.com,,,
-4eacf9fd-9832-405e-b145-5d2ea9f4f00d,contend.mobile,available,26.98,,high,low,7,namecheap,,,
-6aac46e4-07d5-46a9-9d21-fe168147f63c,shout.mobile,premium,375,,high,low,5,name.com,,,
-287993b7-1d92-4d3d-be4c-cc20e389aa60,control.mobile,premium,1300,1300,high,low,7,namecheap,,,08/09/2026 08:00
-f5bf5bc4-0f96-499e-a82f-84e5afd3b300,ear.mobile,premium,375,,high,low,3,name.com,,,
-b17ad0ab-3fef-43d3-a94b-23ac5fe38608,island.mobile,premium,375,,high,low,6,name.com,,,
-1724e77c-f273-4017-a915-cc0d60c2c579,placed.mobile,available,26.98,,high,low,6,namecheap,,,
-81b4577c-67db-46d1-8372-8889a8815110,try.mobile,premium,375,,high,low,3,name.com,,,
-7f096af0-5b87-4b7b-beac-964e05208e31,log.mobile,premium,375,,high,low,3,name.com,,,
-de16ecd3-6470-4e99-9577-061fc3b1e2a6,joking.mobile,available,26.98,,high,low,6,namecheap,,,
-421dbec6-8feb-4399-b9f3-a2341f6bd209,promotion.mobile,premium,750,,high,low,9,name.com,,,
-b31bfa42-d0dd-4e5b-b613-f7d7746b4291,teacher.mobile,premium,375,,high,low,7,name.com,,,
-fe7cecde-7616-4b8d-8a5b-d65e8de4e38f,feather.mobile,premium,750,,high,low,7,name.com,,,
-f46d1b5e-ea6e-49a0-9e20-0fb59d6249fe,soldier.mobile,premium,750,,high,low,7,name.com,,,
-820b04a8-8eaa-4796-88cb-b17247ccc74f,freely.mobile,premium,375,,high,low,6,name.com,,,
-ef4a3cfe-7e2a-4fb1-b076-0b6f4577129f,hood.mobile,available,26.98,,high,low,4,namecheap,,,
-07af9251-3006-43e6-a98c-dddc347de044,searching.mobile,premium,750,,high,low,9,name.com,,,
-0eb8db19-fe1c-4f80-8c08-257cdc9263c0,felt.mobile,available,26.98,,high,low,4,namecheap,,,
-b0fb6b1b-fc58-4e8f-89a8-78631a671b8a,condemn.mobile,premium,750,,high,low,7,name.com,,,
-508e64b6-495c-4cb6-bde9-7a3fdc94b4b6,crash.mobile,premium,750,,high,low,5,name.com,,,
-0b1327a9-24f2-4932-8dae-60daf45181b4,nowadays.mobile,premium,750,,high,low,8,name.com,,,
-85f93df1-9d44-4fd1-9673-f7e609ab867a,analogy.mobile,premium,750,,high,low,7,name.com,,,
-f055348f-7799-40d7-aff7-b51bccbb336a,revised.mobile,premium,750,,high,low,7,name.com,,,
-602e261e-2ccc-4d39-a713-dad642313387,detail.mobile,premium,750,,high,low,6,name.com,,,
-ead8b1a2-1e70-440e-80d3-fe8fae45b482,pat.mobile,premium,2500,,high,low,3,name.com,,,
-7f7ce301-5516-4d18-bab7-db58c154001c,conditions.mobile,premium,750,,high,low,10,name.com,,,
-7ba29ef3-ac77-42b3-8a53-4b53c911a027,exhaust.mobile,premium,750,,high,low,7,name.com,,,
-7529568d-610a-489e-8b2f-ace70d24467e,monitoring.mobile,available,26.98,,high,low,10,namecheap,,,
-73ca2f45-0c31-4a34-a46e-3edc13008c38,corner.mobile,premium,750,,high,low,6,name.com,,,
-f1b44c12-d028-4248-a8d1-455261e47fd5,exit.mobile,premium,750,,high,low,4,name.com,,,
-af891615-bf35-4bda-ac61-4a60d4a5bf15,moldy.mobile,available,26.98,,medium,low,5,namecheap,,,
-bd914227-d067-4ac0-992c-49b324ba51cc,military.mobile,premium,780,780,high,low,8,namecheap,,,
-c8f9c806-f514-401c-8a18-ad036469b497,owens.mobile,premium,375,,high,low,5,name.com,,,
-6c45befa-73ad-4167-9d95-3b1e41d9df23,criterion.mobile,premium,750,,high,low,9,name.com,,,
-9ace64d1-4d68-4730-8bf7-e4d850932c1d,existence.mobile,premium,750,,high,low,9,name.com,,,
-1edb0858-7d73-426d-b813-aa88540f73ed,replace.mobile,premium,750,,high,low,7,name.com,,,
-e46f165b-d131-4be8-a250-2186ce4abf9a,nowhere.mobile,premium,375,,high,low,7,name.com,,,
-be2891c5-96d5-47e3-8907-ca7dcc711968,covenant.mobile,premium,375,,high,low,8,name.com,,,
-bf4cffd5-f250-459b-b631-01e232f74fdf,eyes.mobile,available,26.98,,high,low,4,namecheap,,,
-81e51fe1-52e8-4571-8927-2796b3c7ebd9,regular.mobile,premium,750,,high,low,7,name.com,,,
-7d4d9823-948a-4ace-aac1-cce14eaae907,sperm.mobile,premium,2500,,high,low,5,name.com,,,
-53a665d5-06ce-455a-a067-4a4012e7fc3c,supervise.mobile,premium,750,,high,low,9,name.com,,,
-c284e3e3-1c27-48ad-bd52-eb2908dec507,surprising.mobile,premium,750,,high,low,10,name.com,,,
-3853a4b4-9e51-4ac0-b840-fa2c3fef4695,voter.mobile,premium,750,,high,low,5,name.com,,,
-3684a018-af53-4cff-8379-ebf17aae6420,seattle.mobile,premium,375,,high,low,7,name.com,,,
-d7fde062-d646-4aa4-aa2c-5276c0fa0962,anyway.mobile,premium,750,,high,low,6,name.com,,,
-6f087d87-ee14-4317-893f-59a60a427f7a,tie.mobile,premium,1250,,high,low,3,name.com,,,
-25cec7e9-2dba-42ed-93b4-b0cc568523db,building.mobile,premium,1250,,high,low,8,name.com,,,
-0b557666-f733-4e6f-86b7-3903386c3af8,abide.mobile,premium,375,,high,low,5,name.com,,,
+7264cb5a-e2d7-4b14-925c-af363254122e,indexical.mobile,available,22.98,26.98,medium,low,9,namecheap,,,22/08/2026 02:53
+ef4c4cb2-83a1-4985-a957-d7aff31ccfff,slovenian.mobile,premium,780,780,high,low,9,namecheap,,,10/09/2026 11:19
+b39a8a40-803a-4f44-8f61-6e9686fa1a4c,candidacy.mobile,premium,750,,high,low,9,name.com,,,
+a36e1ebb-b81e-4000-a889-e2f274c1982b,nosocomial.mobile,available,22.98,26.98,low,low,10,namecheap,,,03/09/2026 21:56
+353136b4-04dc-48c4-ad3e-dea36539081f,eclipse.mobile,premium,390,390,high,medium,7,namecheap,,,25/09/2026 23:52
+6f1b5f01-6cac-425d-9415-0bedb7dd1b86,counting.mobile,premium,750,750,high,low,8,name.com,,,25/09/2026 04:26
+edba6db5-f207-4aa2-8a78-bc765251386b,barbet.mobile,available,22.98,26.98,medium,low,6,namecheap,,,22/09/2026 04:53
+69de8548-93ce-42ed-88be-5caef4aadf05,hoary.mobile,available,22.98,26.98,medium,low,5,namecheap,,,20/08/2026 19:20
+349b1e03-bdca-4786-b1a2-f78f0828f927,spanking.mobile,premium,750,750,high,low,8,name.com,,,11/08/2026 04:33
+0cddcfec-eefd-431e-a6a1-79badacc3b3f,gospel.mobile,premium,390,390,high,low,6,namecheap,,,24/09/2026 14:58
+88d6ede2-1a0e-4a37-af07-636d2c77be3d,shining.mobile,premium,780,780,high,low,7,namecheap,,,23/09/2026 11:49
+b489cac8-6c41-43c4-97e0-750852e21a5b,augury.mobile,available,22.98,26.98,medium,low,6,namecheap,,,21/09/2026 03:41
+356bfce4-0fd5-401c-a762-dbe45168ef1a,chelate.mobile,available,22.98,26.98,medium,low,7,namecheap,,,12/08/2026 04:03
+7b7ddacd-a411-4f3c-837f-c9d5a27d31e6,werner.mobile,available,22.98,26.98,high,low,6,namecheap,,,25/09/2026 21:47
+122a7b01-854b-445b-b0db-467a813f9f6a,sincere.mobile,available,22.98,26.98,high,low,7,namecheap,,,24/09/2026 13:03
+56867d0b-988e-4339-8f06-b6f3845637be,cracking.mobile,premium,375,375,high,low,8,name.com,,,08/08/2026 12:25
+9f59a60a-2d50-4205-9a47-6f0c370412da,emphatic.mobile,premium,750,750,high,low,8,name.com,,,16/08/2026 16:45
+7726a62e-0403-44d6-a000-eb280af8fbe1,striation.mobile,available,22.98,26.98,medium,low,9,namecheap,,,22/09/2026 01:19
+804e70cc-ec79-4659-af2e-6b886704485e,annie.mobile,available,22.98,26.98,high,low,5,namecheap,,,25/09/2026 18:17
+b2b043b6-decd-412c-b5e9-4dbe92feba19,murmur.mobile,available,22.98,26.98,high,low,6,namecheap,,,03/09/2026 11:16
+df350560-4910-4c93-b4fb-6b7d6f7ddb86,jessie.mobile,premium,390,390,high,low,6,namecheap,,,25/09/2026 11:53
+7f051770-312e-4112-9ddc-44afa132000f,cracker.mobile,premium,780,780,high,low,7,namecheap,,,24/09/2026 18:59
+799e4361-7a4d-4e0d-8ef2-2a7c00f1724e,agrology.mobile,available,22.98,26.98,medium,low,8,namecheap,,,17/09/2026 19:36
+6d1db615-06b0-44cb-95c2-502eb5b151aa,puppylike.mobile,available,22.98,26.98,high,medium,9,namecheap,,,09/09/2026 06:10
+7af41292-c3dc-4993-bf39-7b6c4b431a4b,absently.mobile,available,22.98,26.98,medium,low,8,namecheap,,,13/09/2026 16:41
+745a98e5-497a-4836-8353-368f37b5b4de,mckinley.mobile,available,22.98,26.98,high,low,8,namecheap,,,25/09/2026 04:51
