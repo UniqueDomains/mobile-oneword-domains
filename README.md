@@ -1,10 +1,10 @@
-# Available .MOBILE One-Word Domains (33,657)
+# Available .MOBILE One-Word Domains (35,987)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C657%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C987%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .mobile one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,657 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,987 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,657 domains · **Median ask:** $320.36 · **High-demand under $2,500:** 170
+**Public extract:** 1,000 rows · **Live catalog:** 35,987 domains · **Median ask:** $317.12 · **High-demand under $2,500:** 182
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/mobile`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| auld.mobile | available | $22.98    | $26.98        | medium         | low    | 4      | namecheap |
-| abs.mobile  | premium   | $390      | $390          | high           | low    | 3      | namecheap |
-| aziz.mobile | available | $15.73    | $15.73        | high           | low    | 4      | spaceship |
-| afp.mobile  | premium   | $390      | $390          | high           | low    | 3      | namecheap |
-| bain.mobile | available | $15.96    | $15.96        | high           | low    | 4      | porkbun   |
-| afs.mobile  | premium   | $390      | $390          | high           | low    | 3      | namecheap |
-| bise.mobile | available | $22.98    | $26.98        | medium         | low    | 4      | namecheap |
-| aga.mobile  | premium   | $390      | $390          | high           | low    | 3      | namecheap |
-| bows.mobile | available | $22.98    | $26.98        | medium         | low    | 4      | namecheap |
-| ail.mobile  | premium   | $390      | $390          | medium         | low    | 3      | namecheap |
-| bunk.mobile | available | $22.98    | $26.98        | medium         | low    | 4      | namecheap |
-| alf.mobile  | premium   | $655.52   | $655.52       | high           | low    | 3      | porkbun   |
-| cain.mobile | available | $15.73    | $15.73        | high           | low    | 4      | spaceship |
-| arp.mobile  | premium   | $390      | $390          | high           | low    | 3      | namecheap |
-| ecru.mobile | available | $22.98    | $26.98        | medium         | low    | 4      | namecheap |
-| bib.mobile  | premium   | $780      | $780          | high           | low    | 3      | namecheap |
-| enid.mobile | available | $15.73    | $15.73        | medium         | low    | 4      | spaceship |
-| cad.mobile  | premium   | $390      | $390          | high           | low    | 3      | namecheap |
-| flaw.mobile | available | $15.73    | $15.73        | medium         | low    | 4      | spaceship |
-| cbo.mobile  | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| walmart.mobile     | premium   | $655.52   | $655.52       | high           | high   | 7      | porkbun   |
+| lunch.mobile       | premium   | $310.70   | $310.70       | high           | low    | 5      | spaceship |
+| spiral.mobile      | premium   | $780      | $780          | high           | low    | 6      | namecheap |
+| tender.mobile      | premium   | $780      | $780          | high           | low    | 6      | namecheap |
+| engineer.mobile    | premium   | $330      | $330          | high           | low    | 8      | dynadot   |
+| above.mobile       | premium   | $390      | $390          | high           | low    | 5      | namecheap |
+| jewels.mobile      | premium   | $390      | $390          | high           | low    | 6      | namecheap |
+| communities.mobile | premium   | $390      | $390          | high           | low    | 11     | namecheap |
+| pup.mobile         | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship |
+| tax.mobile         | premium   | $780      | $780          | high           | medium | 3      | namecheap |
+| sunset.mobile      | premium   | $330      | $330          | high           | low    | 6      | dynadot   |
+| joke.mobile        | premium   | $1,300    | $1,300        | high           | low    | 4      | namecheap |
+| dessert.mobile     | premium   | $328.02   | $328.02       | high           | low    | 7      | porkbun   |
+| trinity.mobile     | available | $22.98    | $26.98        | high           | medium | 7      | namecheap |
+| cord.mobile        | premium   | $330      | $330          | high           | low    | 4      | dynadot   |
+| color.mobile       | premium   | $1,300    | $1,300        | high           | low    | 5      | namecheap |
+| donation.mobile    | premium   | $621.20   | $621.20       | high           | low    | 8      | spaceship |
+| pollen.mobile      | premium   | $330      | $330          | high           | low    | 6      | dynadot   |
+| noise.mobile       | premium   | $621.20   | $621.20       | high           | low    | 5      | spaceship |
+| single.mobile      | premium   | $780      | $780          | high           | low    | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,657 live domains                        |
+| 1,000-row public sample | 35,987 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 170 high-demand names under $2,500         |
+| Basic exported fields   | 182 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOBILE One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
